@@ -2,7 +2,7 @@
 # 人工智能创业公司调研
 Contributed by Warren Wen
 
-该repo从技术的角度对AI创业公司进行分类
+该repo从技术的角度来AI软件创业公司进行分类
 
 #表示以色列公司
 
