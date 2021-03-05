@@ -3,6 +3,7 @@
 Contributed by Warren Wen
 
 #表示以色列公司
+
 举例：Scale.ai :$155M
 表示 scale.ai公司最新一轮融资155 million dollor
 # AI infrastructure
