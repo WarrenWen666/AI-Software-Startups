@@ -226,7 +226,7 @@ Contributed by Warren Wen
 >### 其他
 >>>* Akasha Imaging
 >>>* 墨奇科技
-## 音频Audio/
+## 音频Audio
 >### 语音
 >>>* 思必驰：数亿人民币
 >>>* 云知声：6亿人民币
@@ -270,12 +270,6 @@ Contributed by Warren Wen
 >>>* 智因科技 
 >>>* nextMV $8M
 ## 场景AI
->### 工业检测
->>>* 深度视觉
->### 智能运维
->>>* 擎创科技 千万级美元
->>>* 必示科技 1.5亿人民币
->>>* 云兴维智 数千万人民币
 >### RPA
 >>>* Uiptah $750M
 >>>* Automation Anywhere $290M
@@ -283,15 +277,21 @@ Contributed by Warren Wen
 >>>* 弘玑Cyclone 近4000万美元
 >>>* 云扩科技 3000万美元
 >>>* 影刀RPA
+>### 工业检测
+>>>* 深度视觉
+>### 智能运维
+>>>* 擎创科技 千万级美元
+>>>* 必示科技 1.5亿人民币
+>>>* 云兴维智 数千万人民币
 ## 行业AI
->>#### 零售
+>### 零售
 >>>* ImageDT图匠数据：千万级美元
 >### 教育
 >>>* 松鼠AI：10亿人民币
 >### 农业
+>>>* 极飞科技：12亿人民币
 >>>* Hypersonix $11.5M
 >>>* 爱科农：
->>>* 极飞科技：12亿人民币
 >### 法律
 >>>* Ross Intelligence
 >>>* Atrium LTS
@@ -302,7 +302,6 @@ Contributed by Warren Wen
 >>#### 智能投顾/投研
 >>>* Wealthfront $75M
 >>>* Kensho $550M 收购
->>>* 
 >>>* 香侬科技：1.1亿人民币
 >>>* 虎博科技：3300万美元
 >>>* 阿法金融
@@ -313,14 +312,12 @@ Contributed by Warren Wen
 >>>* 贝塔数据
 >>#### 风控
 >>>* 同盾科技：1亿美金
->>>* Datavisor: 4000万美元
->>>* 慧安金科: 1亿人民币
->>#### 反欺诈
 >>>* Sift Science $53M
->>>* DataVisor，4000万美元
+>>>* 慧安金科: 1亿人民币
+>>>* DataVisor：4000万美元
 >>>* Simility 1.2亿美金被收购
 >>>* 新加坡的CashShield, GGV 2000万美元
->>>* 特拉维夫的Forter,  5000万美元
+>>>* #Forter：5000万美元
 >>>* 巴黎的Shift Technology，6000万美元，accel
 >>>* 英国的Featurespace, 3000万美元
 >>>* Signifyd 1亿美元
@@ -329,13 +326,12 @@ Contributed by Warren Wen
 >>>* Tessian $42M
 >>>* Tara AI $10M
 >### 医疗
->>>* 总结
 >>>* 连心医疗：9000万人名币
 >>>* 麦歌算法
 >### 制药
 >>>* 晶泰科技：3.188亿美元 全球最高的AI药研公司
->>>* 望石智慧
 >>>* 费米子科技：上亿元
+>>>* 望石智慧
 >>>* Recursion Pharmaceuticals
 >### 服装
 >>>* 智布：1亿美元
