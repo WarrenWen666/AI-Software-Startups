@@ -11,11 +11,11 @@ Contributed by Warren Wen
 # AI infrastructure
 > 软硬件优化
 >> OctoML $15M
-* Neural magic $15M
-* Weka.IO $31.7M
+>>> Neural magic $15M
+>>>> Weka.IO $31.7M
 ### 异构加速器虚拟化
-* 趋动科技 数亿元人民币
-* #RunAI $30M
+>* 趋动科技 数亿元人民币
+>>* #RunAI $30M
 * #bitfusion 被三星收购
 ### 数据处理与发现
 * Trifacta $100M
