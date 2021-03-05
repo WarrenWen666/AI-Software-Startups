@@ -83,12 +83,12 @@ Contributed by Warren Wen
 ### 可解释性
 * Fiddler labs $10.2M
 * InterpretML
-* RealAI
+* 瑞莱智慧RealAI 数千万人民币
 * #Aporia
 ### 安全与隐私
 * Robust Intelligence $11M
-* RealAI
-* #DID
+* 瑞莱智慧RealAI 数千万人民币
+* #D-ID $13.5M
 ### other
 * Rasa $26M
 * Grid AI $18.6M
