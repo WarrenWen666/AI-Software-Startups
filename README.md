@@ -1,6 +1,7 @@
 # Survey of Startups on Artificial Intelligence
 # 人工智能创业公司调研
 Contributed by Warren Wen
+#表示以色列公司
 # AI infrastructure
 * Rasa $26M
 * Grid AI $18.6M
@@ -62,14 +63,13 @@ Contributed by Warren Wen
 * Pecan $11M
 * Allegro.ai  $11M
 * #SuperWise $4.5M
-#### #Comet.ml $4.5
-#### datatron $1.4M
-#### Seldon £7.1
-#### Evidently ai
-#### #ParallelM 被DataRobot收购
-#### H2O.ai
+* #Comet.ml $4.5
+* Seldon £7.1
+* Evidently ai
+* #ParallelM 被DataRobot收购
+* H2O.ai
 ### Feature Store:
-#### Tecton：$35M
+* Tecton：$35M
 ### model monitoring
 * Arthur AI $15M
 * databand.ai $14.5M
@@ -86,7 +86,7 @@ Contributed by Warren Wen
 ### 数据版本和共享社区
 * Pachyderm $16M
 * Graviti 千万级美元
-* # DAGsHub $3M
+* #DAGsHub $3M
 * 和鲸科技 数百万美元
 ### 可解释性
 * Fiddler labs $10.2M
