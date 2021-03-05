@@ -1,4 +1,4 @@
-# Survey of Startups on Artificial Intelligence Software
+# A Survey of Startups on Artificial Intelligence Software
 # 人工智能软件创业公司调研
 Contributed by Warren Wen
 
