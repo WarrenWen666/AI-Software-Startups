@@ -1,16 +1,17 @@
 # Survey of Startups on Artificial Intelligence
 # 人工智能创业公司调研
 Contributed by Warren Wen
+
 #表示以色列公司
 # AI infrastructure
 ### 软硬件优化
 * OctoML $15M
 * Neural magic $15M
 * Weka.IO $31.7M
-### GPU虚拟化
-* 趋动科技
-* #RunAI 
-* #bitfusion
+### 异构加速器虚拟化
+* 趋动科技 数亿元人民币
+* #RunAI $30M
+* #bitfusion 被三星收购
 ### 数据处理与发现
 * Trifacta $100M
 * # $31M
