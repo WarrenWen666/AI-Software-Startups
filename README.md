@@ -98,7 +98,7 @@ Contributed by Warren Wen
 >>>* Grid AI $18.6M
 >>>* Hugging Face $15M
 >>>* cnvrg.io 被intel收购
-## NLP
+## 文本NLP
 >### 综合
 >>>* 达观数据 2.7亿人民币
 >### 机器翻译
@@ -137,12 +137,13 @@ Contributed by Warren Wen
 >### 合同审查
 >>>* Kira systems CA$65M
 >### 销售
->>>* #Gong.io
->>>* #chorus.ai
->>>* People.ai
->>>* Troops.ai
->>>* Tact.AI 
+>>>* #Gong.io $200M
+>>>* #chorus.ai $45M
+>>>* People.ai $60M
+>>>* Tact.AI  $27M
+>>>* Troops.ai $12M
 >>>* Recurrent.ai
+>### 水下
 >>>* 客知音
 >>>* 深维智信
 >>>* Sales enablement
@@ -151,14 +152,14 @@ Contributed by Warren Wen
 >>>* Golden $14.5M
 >>>* ClearGraph 被收购
 >>>* UpCodes $3.4M
-## Vision
->>#### 技术路线
+## 视觉Vision
+>>#### 研究
 >### 综合
->>>* 商汤
->>>* 旷世
->>>* 依图
->>>* 云从
->>>* 图普科技
+>>>* 商汤 10亿美元
+>>>* 旷世 7.5亿美元
+>>>* 依图 2亿美元
+>>>* 云从 18亿人民币
+>>>* 图普科技 千万美元
 >### 动作捕捉
 >>#### 诺亦腾
 >>#### Xmov
@@ -230,64 +231,49 @@ Contributed by Warren Wen
 >### 其他
 >>>* Akasha Imaging
 >>>* 墨奇科技
-## Audio/speech
->### 音乐
->>>* Amper Music
->>>* StepBeats
+## 音频Audio/
 >### 语音
->>>* Descript
->>>* DeepGram
+>>>* 思必驰：数亿人民币
+>>>* 云知声：6亿人民币
 >>>* Otter.ai $50M
->>>* 魔音助手 5000万美元
->>>* 思必驰：端侧
->>>* 云知声：云
+>>>* Descript $30M
+>>>* DeepGram $25M
+>>>* 魔音助手 
 >### 声纹识别
->>#### VoiceAI 
->>#### SpeakIn
+>>>* 声扬科技VoiceAI 近亿人民币
+>>>* SpeakIn
 >### 反欺诈
->>>* Pindrop  $90M
+>>>* Pindrop $90M
 >### CRM
 >>#### Troops.ai
 >### 医药
 >>>* Suki $20M
-## 个性化推荐
->>>* Attentive $230M
->>>* Outlier $22.1M
->>>* Lily $12.5M
-## 决策智能
->### 研究 
->>#### 运筹学
->>#### 分类：
->>#### 线性规划（Linear Programming）
->>#### 整数规划（Integer Programming）问题
->>#### 总结
+>### 音乐
+>>>* Amper Music $4M
+>>>* StepBeats 150万人民币
+## 决策
 >### 强化学习
->>#### 综合
->>>* 启元世界
->>>* 南栖仙策
 >>#### 游戏
->>>* %DeepMind
->>>* 超参数科技
->>>* 启元世界
->>>* Rct
+>>>* DeepMind
+>>>* 超参数科技 3000万美元
+>>>* 启元世界 数千万人民币
+>>>* rct studio $10M
 >>#### 调度
 >>>* %secondmind.ai $24M
 >>#### 测试
+>>>* Mabl $20M
 >>>* Test.ai $11M
 >>>* Testim $10M
->>>* Mabl $20M
->>#### 机器人
->>>* Osaro $37M
 >>#### RPA
 >>>* FortressIQ $30M
+>>#### 其他
+>>>* 南栖仙策
 >### 运筹优化
 >>>* 杉树科技 近亿元人民币
 >>>* 悠桦林 近亿人民币
+>>>* 宾通智能 6000万人民币
 >>>* 智因科技 
->>>* 宾通智能
 >>>* nextMV $8M
-## Next generation AI 
->>>* Gamalon $20M
 ## 场景AI
 >### 工业检测
 >>>* 深度视觉
@@ -357,7 +343,6 @@ Contributed by Warren Wen
 >>>* 费米子科技：上亿元
 >>>* Recursion Pharmaceuticals
 >### 服装
->### 
 >>>* 智布：1亿美元
 >>>* 极睿科技：亿元级人民币
 >>>* 时谛智能：近亿人民币
