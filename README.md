@@ -10,14 +10,15 @@ Contributed by Warren Wen
 
 表示 scale.ai公司最新一轮融资155 million dollor
 
-目录
+## 目录
 
->## 文本NLP
->## 视觉Vision
->## 音频Audio
->## 决策
->## 场景AI
->## 行业AI
+>### 文本NLP
+>### 视觉Vision
+>### 音频Audio
+>### 决策
+>### 场景AI
+>### 行业AI
+>
 # AI infrastructure
 >## 软硬件优化
 >>>* OctoML $15M
