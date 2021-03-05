@@ -3,6 +3,7 @@
 Contributed by Warren Wen
 
 该repo从技术的角度对AI创业公司进行分类
+
 #表示以色列公司
 
 举例：Scale.ai :$155M
