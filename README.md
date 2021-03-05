@@ -3,10 +3,6 @@
 Contributed by Warren Wen
 #表示以色列公司
 # AI infrastructure
-* Rasa $26M
-* Grid AI $18.6M
-* Hugging Face $15M
-* cnvrg.io 被intel收购
 ### 软硬件优化
 * OctoML $15M
 * Neural magic $15M
@@ -49,10 +45,7 @@ Contributed by Warren Wen
 * 探智立方 DarwinML 数百万美元
 * 江苏鸿程
 * #Allegro.AI: $11M
-#### 大公司
-* 微软NNI
-* 亚马逊AutoGluon
-* 谷歌
+* 大公司
 ### MLops
 * Saagie €25M
 * Algorithmia: $25M
@@ -97,3 +90,8 @@ Contributed by Warren Wen
 * Robust Intelligence $11M
 * RealAI
 * #DID
+### other
+* Rasa $26M
+* Grid AI $18.6M
+* Hugging Face $15M
+* cnvrg.io 被intel收购
