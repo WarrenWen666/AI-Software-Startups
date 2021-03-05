@@ -1,5 +1,5 @@
 # Survey of Startups on Artificial Intelligence
-# 人工智能创业公司综述
+# 人工智能创业公司调研
 
 Contributed by Warren Wen
 
