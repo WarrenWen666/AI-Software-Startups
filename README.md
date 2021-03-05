@@ -9,7 +9,7 @@ Contributed by Warren Wen
 举例：Scale.ai :$155M
 表示 scale.ai公司最新一轮融资155 million dollor
 # AI infrastructure
-### 软硬件优化
+> 软硬件优化
 * OctoML $15M
 * Neural magic $15M
 * Weka.IO $31.7M
