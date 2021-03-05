@@ -49,7 +49,6 @@ Contributed by Warren Wen
 * 探智立方 DarwinML 数百万美元
 * 江苏鸿程
 * #Allegro.AI: $11M
-* 大公司
 ### MLops
 * Saagie €25M
 * Algorithmia: $25M
