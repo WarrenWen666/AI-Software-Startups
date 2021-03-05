@@ -75,10 +75,6 @@ Contributed by Warren Wen
 ### 边缘MLops
 * 开放智能Open AI LAB
 * #Deci AI $9.1M
-### 向量搜索
-* Zilliz
-* Pinecone
-* tecton.ai
 ### 数据版本和共享社区
 * Pachyderm $16M
 * Graviti 千万级美元
