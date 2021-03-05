@@ -99,29 +99,25 @@ Contributed by Warren Wen
 >>>* Hugging Face $15M
 >>>* cnvrg.io 被intel收购
 ## 文本NLP
->### 综合
->>>* 达观数据 2.7亿人民币
 >### 机器翻译
->>>* Unbabel：众包 $60M
->>>* Lilt $25M
->>>* *推文科技：网络小说翻译 1000万人民币 联想之星
->>>* *Atman：医药文献翻译 560万美元 北极光
+>>>* Unbabel：$60M
+>>>* Lilt：$25M
+>>>* 推文科技：1000万人民币
+>>>* Atman：560万美元
 >### 文本重写
 >>>* Grammarly $90M
 >### Chatbot
 >>#### Automated CX
 >>>* Ada Support $44M
 >>#### 智能客服
->>>* 追一科技 4100万美元
->>>* 智齿科技 2.1亿人民币
->>>* 晓多科技 超2亿人民币
->>>* 乐言科技 1.5亿人民币
+>>>* 追一科技：4100万美元
+>>>* 智齿科技：2.1亿人民币
+>>>* 晓多科技：超2亿人民币
+>>>* 乐言科技：1.5亿人民币
 >>#### 心理健康
->>>* Woebot Labs  $22.8M 心理健康聊天机器人
+>>>* Woebot Labs：$22.8M 
 >>#### 运维
->>>* Moveworks $75M
->>#### 其他
->>>* Troops.ai $12M
+>>>* Moveworks：$75M
 >### 背景调查
 >>>* Checkr $160M
 >>>* Middesk $4M
@@ -133,7 +129,6 @@ Contributed by Warren Wen
 >>>* Bello倍罗 数千万人民币
 >>>* 近屿智能 数千万人民币
 >>>* 方便面面试
->>>* Pyxai $150K
 >### 合同审查
 >>>* Kira systems CA$65M
 >### 销售
@@ -143,11 +138,11 @@ Contributed by Warren Wen
 >>>* Tact.AI  $27M
 >>>* Troops.ai $12M
 >>>* Recurrent.ai
->### 水下
->>>* 客知音
+>>>* 客知音 千万级人民币
+>>#### 水下
 >>>* 深维智信
->>>* Sales enablement
 >### 其他
+>>>* 达观数据 2.7亿人民币
 >>>* # A21 labs
 >>>* Golden $14.5M
 >>>* ClearGraph 被收购
