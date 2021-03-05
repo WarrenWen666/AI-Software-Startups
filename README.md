@@ -3,8 +3,7 @@
 Contributed by Warren Wen
 
 #表示以色列公司
-
-举例：Scale.ai :$155M  
+举例：Scale.ai :$155M
 表示 scale.ai公司最新一轮融资155 million dollor
 # AI infrastructure
 ### 软硬件优化
@@ -89,7 +88,7 @@ Contributed by Warren Wen
 * Fiddler labs $10.2M
 * InterpretML
 * RealAI
-#### #Aporia
+* #Aporia
 ### 安全与隐私
 * Robust Intelligence $11M
 * RealAI
