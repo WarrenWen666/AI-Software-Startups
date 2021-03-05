@@ -16,7 +16,7 @@ Contributed by Warren Wen
 * #bitfusion 被三星收购
 ### 数据处理与发现
 * Trifacta $100M
-* # $31M
+* #Explorium.ai$31M
 ### 数据合成
 * Ai.reverie: $5.6M
 * #DataGen Technologies $3.5M
