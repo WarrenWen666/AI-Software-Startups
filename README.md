@@ -12,13 +12,13 @@ Contributed by Warren Wen
 
 ## 目录
 
->### AI infrastructure
->### 文本NLP
->### 视觉Vision
->### 音频Audio
->### 决策
->### 场景AI
->### 行业AI
+>>>* AI infrastructure
+>>>* 文本NLP
+>>>* 视觉Vision
+>>>* 音频Audio
+>>>* 决策
+>>>* 场景AI
+>>>* 行业AI
 # AI infrastructure
 >## 软硬件优化
 >>>* OctoML $15M
