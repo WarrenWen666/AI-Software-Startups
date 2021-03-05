@@ -18,8 +18,8 @@ Contributed by Warren Wen
 * Trifacta $100M
 * # $31M
 ### 数据合成
-#### Ai.reverie: $5.6M
-#### #DataGen Technologies $3.5M
+* Ai.reverie: $5.6M
+* #DataGen Technologies $3.5M
 ### 数据标注
 * Scale.ai :$155M 
 * Labelbox: $40M
