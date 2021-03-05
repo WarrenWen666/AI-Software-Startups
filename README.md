@@ -1,6 +1,6 @@
 # Survey of Startups on Artificial Intelligence
 # 人工智能创业公司调研
-# Contributed by Warren Wen
+Contributed by Warren Wen
 # AI infrastructure
 * Rasa $26M
 * Grid AI $18.6M
