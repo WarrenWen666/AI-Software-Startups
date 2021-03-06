@@ -12,6 +12,12 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 - 多国家：覆盖中国、美国和以色列等。#表示以色列公司
 - 商业价值：给出AI创业公司的最新一轮融资额。举例：Scale.ai :$155M ==》表示 scale.ai公司最新一轮融资155 million dollor
 
+## 作者
+
+作者：Warren Wen（耀途资本，glory-venture）
+
+联系方式：warrenwen@glory-ventures.com
+
 ## 目录
 
 * [AI基础设施Infrastructure](#AI基础设施Infrastructure) 
@@ -357,8 +363,4 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >## 工业
 >>>* Augury $55M
 
-## 作者
 
-作者：Warren Wen（耀途资本，glory-venture）
-
-联系方式：
