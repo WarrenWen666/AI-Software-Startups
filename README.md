@@ -21,7 +21,7 @@ Contributed by Warren Wen
 >* 行业AI
 >
 ## 目录
-* [AI infrastructure](#AI infrastructure)
+* [AI基础设施](#AI基础设施)
 * [文本NLP](#文本NLP)
 * [项目简介](#项目简介)
 * [模型概览](#模型概览)
