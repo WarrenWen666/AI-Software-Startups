@@ -12,7 +12,7 @@ Contributed by Warren Wen
 
 ## 目录
 
->* AI infrastructure
+>* AI基础设施
 >* 文本NLP
 >* 视觉Vision
 >* 音频Audio
@@ -29,7 +29,7 @@ Contributed by Warren Wen
 * [项目网站](#项目网站)
 
 
-# AI infrastructure
+# AI基础设施
 >## 软硬件优化
 >>>* OctoML $15M
 >>>* Neural magic $15M
