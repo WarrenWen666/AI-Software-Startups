@@ -359,5 +359,6 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 
 ## 作者
 
-作者：Warren Wen（耀途资本，glory-venture）,
+作者：Warren Wen（耀途资本，glory-venture）
+
 联系方式：
