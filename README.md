@@ -6,7 +6,7 @@ Contributed by Warren Wen
 
 ## 项目简介
 
-SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软件创业公司调研仓库。该模型仓库具有如下几个特点：
+SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软件创业公司调研仓库。该仓库具有如下几个特点：
 - 持续更新：我们将加入更多的AI创业公司。
 - 多领域：覆盖AI的基础设施到应用领域。
 - 技术角度：从技术的角度来AI软件创业公司进行分类，给AI创业人士启发。
