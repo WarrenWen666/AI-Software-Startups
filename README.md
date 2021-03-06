@@ -2,7 +2,6 @@
 
 # SSAIS：Survey of Startups on Artificial Intelligence Software
 # 人工智能软件创业公司调研
-Contributed by Warren Wen
 
 ## 项目简介
 
@@ -15,7 +14,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 
 ## 作者
 
-作者：Warren Wen（耀途资本，glory-ventures）
+作者：Warren Wen（[耀途资本](https://www.glory-ventures.com/)，glory-ventures） 
 
 联系方式：warrenwen@glory-ventures.com
 
