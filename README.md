@@ -12,24 +12,14 @@ Contributed by Warren Wen
 
 ## 目录
 
->* AI基础设施
->* 文本NLP
->* 视觉Vision
->* 音频Audio
->* 决策
->* 场景AI
->* 行业AI
->
-## 目录
-* [AI基础设施](#AI基础设施)
-* [文本NLP](#文本NLP)
-* [项目简介](#项目简介)
-* [模型概览](#模型概览)
-* [使用方式](#使用方式)
-* [项目网站](#项目网站)
-
-
-# AI基础设施
+* [AI基础设施（Infrastructure）](#AI基础设施（Infrastructure）) 
+* [文本（NLP）](#文本（NLP）) 
+* [视觉（Vision）](#视觉（Vision）) 
+* [音频（Audio）](#音频（Audio）) 
+* [决策](#决策) 
+* [场景AI](#场景AI) 
+* [行业AI](#行业AI) 
+# AI基础设施（Infrastructure）
 >## 软硬件优化
 >>>* OctoML $15M
 >>>* Neural magic $15M
@@ -118,7 +108,7 @@ Contributed by Warren Wen
 >>>* Grid AI $18.6M
 >>>* Hugging Face $15M
 >>>* cnvrg.io 被intel收购
-# 文本NLP
+# 文本（NLP）
 >## 机器翻译
 >>>* Unbabel：$60M
 >>>* Lilt：$25M
@@ -167,7 +157,7 @@ Contributed by Warren Wen
 >>>* Golden $14.5M
 >>>* ClearGraph 被收购
 >>>* UpCodes $3.4M
-# 视觉Vision
+# 视觉（Vision）
 >>### 研究
 >## 综合
 >>>* 商汤 10亿美元
@@ -246,10 +236,11 @@ Contributed by Warren Wen
 >## 其他
 >>>* Akasha Imaging
 >>>* 墨奇科技
-# 音频Audio
+# 音频（Audio）
 >## 语音
 >>>* 思必驰：数亿人民币
 >>>* 云知声：6亿人民币
+>>>* Observe.AI $54M
 >>>* Otter.ai $50M
 >>>* Descript $30M
 >>>* DeepGram $25M
