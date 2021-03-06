@@ -356,3 +356,8 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* 快运兔
 >## 工业
 >>>* Augury $55M
+
+## 作者
+
+作者：Warren Wen（耀途资本，glory-venture）,
+联系方式：
