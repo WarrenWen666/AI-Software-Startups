@@ -351,4 +351,4 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 
 ## 赞助我们
 
-<img src="https://github.com/WarrenWen666/AI-startups/blob/main/WechatIMG62.jpeg" alt="微信" />
+<img src="https://github.com/WarrenWen666/AI-startups/blob/main/pay.png" alt="微信" />
