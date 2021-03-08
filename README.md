@@ -348,3 +348,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* 快运兔
 >## 工业
 >>>* Augury $55M
+
+## 赞助我们
+
+<img src="http://data.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
