@@ -98,7 +98,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Graviti 千万级美元
 >>>* #DAGsHub $3M
 >>>* 和鲸科技 数百万美元
->## 可解释性explanit
+>## 可解释性
 >>>* Fiddler labs $10.2M
 >>>* InterpretML
 >>>* 瑞莱智慧RealAI 数千万人民币
