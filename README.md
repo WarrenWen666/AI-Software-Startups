@@ -28,9 +28,9 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 * [行业AI](#行业AI) 
 # AI基础设施Infrastructure
 >## 软硬件优化
+>>>* Weka.IO $31.7M
 >>>* OctoML $15M
 >>>* Neural magic $15M
->>>* Weka.IO $31.7M
 >## 异构加速器虚拟化
 >>>* 趋动科技 数亿元人民币
 >>>* #RunAI $30M
@@ -53,8 +53,8 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >## 深度学习框架
 >>>* 一流科技：OneFlow 5000万人民币
 >>>* Skymind:DL4J
->## Experiment Tracking:
->>>* Weights&Biases：4500万美元
+>## 训练管理:
+>>>* Weights&Biases：$45M
 >## 机器学习平台
 >>>* DataRobot: $270M 
 >>>* Dataiku：$100M
@@ -67,7 +67,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >## AutoML
 >>>* 星环科技 5亿人民币
 >>>* 行动贝果 3443万人民币
->>>* 探智立方 DarwinML 数百万美元
+>>>* 探智立方DarwinML 数百万美元
 >>>* 江苏鸿程
 >>>* #Allegro.AI: $11M
 >## MLops
@@ -85,14 +85,14 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Evidently ai
 >>>* #ParallelM 被DataRobot收购
 >>>* H2O.ai
+>## Feature Discovery
+>>>* #explorium $31M
 >## Feature Store:
 >>>* Tecton：$35M
 >## model monitoring
 >>>* Arthur AI $15M
 >>>* databand.ai $14.5M
 >>>* WhyLabs $4M
->## Feature Discovery
->>>* #explorium $31M
 >## 边缘MLops
 >>>* 开放智能Open AI LAB
 >>>* #Deci AI $9.1M
@@ -101,7 +101,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Graviti 千万级美元
 >>>* #DAGsHub $3M
 >>>* 和鲸科技 数百万美元
->## 可解释性
+>## 可解释性explanit
 >>>* Fiddler labs $10.2M
 >>>* InterpretML
 >>>* 瑞莱智慧RealAI 数千万人民币
@@ -110,7 +110,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Robust Intelligence $11M
 >>>* 瑞莱智慧RealAI 数千万人民币
 >>>* #D-ID $13.5M
->## other
+>## 其他other
 >>>* Rasa $26M
 >>>* Grid AI $18.6M
 >>>* Hugging Face $15M
