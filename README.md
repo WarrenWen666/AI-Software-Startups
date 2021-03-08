@@ -153,8 +153,6 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Troops.ai $12M
 >>>* Recurrent.ai
 >>>* 客知音 千万级人民币
->>### 水下
->>>* 深维智信
 >## 其他
 >>>* 达观数据 2.7亿人民币
 >>>* # A21 labs
