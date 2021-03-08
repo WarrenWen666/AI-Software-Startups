@@ -155,7 +155,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* 客知音 千万级人民币
 >## 其他
 >>>* 达观数据 2.7亿人民币
->>>* # A21 labs
+>>>* #A21 labs
 >>>* Golden $14.5M
 >>>* ClearGraph 被TABLEAU收购
 >>>* UpCodes $3.4M
@@ -172,7 +172,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* 影普科技
 >>>* Kapwing
 >>### 视频异常分析
->>>* 闪马智能
+>>>* 闪马智能 近亿元人民币
 >>### 视频广告
 >>>* #KERV Interactive $11M
 >>### 视频录制
@@ -215,16 +215,14 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >## OCR
 >>>* HyperScience $80M
 >## 无人零售
->>### Grabango
->>### Standard Cognition
->>### Mad Street Den
+>>>* Standard Cognition $150M
+>>>* Mad Street Den $17M
+>>>* Grabango $8.1M
 >## 时尚
 >>>* 深尚科技
 >## 安防
->>>* #AnyVision  $43M
->>### tractable.ai
->## 视频异常
->>>* 闪马智能：近亿元人民币
+>>>* #AnyVision $43M
+>>>* tractable.ai $25M
 >## 测试
 >>>* #Applitools $31M
 >## 医学影像
