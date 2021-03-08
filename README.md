@@ -349,6 +349,6 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >## 工业
 >>>* Augury $55M
 
-## 赞助我们
+## 打赏
 
 <img src="https://github.com/WarrenWen666/AI-startups/blob/main/pay.png" alt="微信" />
