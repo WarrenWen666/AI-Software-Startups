@@ -37,7 +37,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* #bitfusion 被三星收购
 >## 数据处理与发现
 >>>* Trifacta $100M
->>>* #Explorium.ai$31M
+>>>* #explorium $31M
 >## 数据合成
 >>>* Ai.reverie: $5.6M
 >>>* #DataGen Technologies $3.5M
@@ -85,16 +85,15 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Evidently ai
 >>>* #ParallelM 被DataRobot收购
 >>>* H2O.ai
->## Feature Discovery
->>>* #explorium $31M
->## Feature Store:
+>## 特征存储
 >>>* Tecton：$35M
->## model monitoring
+>## 模型监控
 >>>* Arthur AI $15M
 >>>* databand.ai $14.5M
 >>>* WhyLabs $4M
 >## 边缘MLops
 >>>* 开放智能Open AI LAB
+>>### 水下
 >>>* #Deci AI $9.1M
 >## 数据版本和共享社区
 >>>* Pachyderm $16M
@@ -156,7 +155,8 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Troops.ai $12M
 >>>* Recurrent.ai
 >>>* 客知音 千万级人民币
->>>* 水下
+>>### 水下
+>>>* 深维智信
 >## 其他
 >>>* 达观数据 2.7亿人民币
 >>>* # A21 labs
