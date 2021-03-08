@@ -70,7 +70,6 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* 探智立方DarwinML 数百万美元
 >>>* 江苏鸿程
 >>>* #Allegro.AI: $11M
->>>* 大公司
 >## MLops
 >>>* Saagie €25M
 >>>* Algorithmia: $25M
