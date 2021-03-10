@@ -42,13 +42,14 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Ai.reverie: $5.6M
 >>>* #DataGen Technologies $3.5M
 >## 数据标注
->>>* Scale.ai :$155M 
->>>* Labelbox: $40M
+>>>* Scale.ai :$155M，$3.5B 
+>>>* LabelBox: $40M
 >>>* #Dataloop AI $11M
 >>>* Snorkel AI: $12M
->## 向量搜索与数据库
->>>* ZilliZ milvus 4300万美元
->>>* Jina AI 600万美元
+>## 特征向量存储与搜索
+>>>* Tecton：$35M
+>>>* ZilliZ milvus：4300万美元
+>>>* Jina AI：600万美元
 >>>* Pinecone $10M
 >## 深度学习框架
 >>>* 一流科技：OneFlow 5000万人民币
@@ -60,15 +61,16 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Dataiku：$100M
 >>>* H2O.ai：$72.5M
 >>>* domino data：$43M
->>>* abacus.ai $22M 
+>>>* abacus.ai：$22M 
 >>>* RapidMiner：$16M
 >>>* Machinify：$10M
 >>>* 第四范式：7亿美元
 >## AutoML
 >>>* 星环科技 5亿人民币
 >>>* 行动贝果 3443万人民币
+>>>* 深度赋智 数千万人民币
+>>>* 智易科技 数百万美元
 >>>* 探智立方DarwinML 数百万美元
->>>* 江苏鸿程
 >>>* #Allegro.AI: $11M
 >## MLops
 >>>* Saagie €25M
@@ -85,15 +87,13 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Evidently ai
 >>>* #ParallelM 被DataRobot收购
 >>>* H2O.ai
->## 特征存储
->>>* Tecton：$35M
 >## 模型监控
 >>>* Arthur AI $15M
 >>>* databand.ai $14.5M
 >>>* WhyLabs $4M
 >## 边缘MLops
 >>>* 开放智能Open AI LAB
->## 数据版本和共享社区
+>## 数据版本管理与共享
 >>>* Pachyderm $16M
 >>>* Graviti 千万级美元
 >>>* #DAGsHub $3M
