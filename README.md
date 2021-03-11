@@ -9,7 +9,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 - 多领域：覆盖AI的基础设施到应用领域。
 - 技术角度：从技术的角度来AI软件创业公司进行分类，给AI创业人士启发。
 - 多国家：覆盖中国、美国和以色列等。#表示以色列公司
-- 商业价值：给出AI创业公司的最新一轮融资额。举例：Scale.ai :$155M ==》表示 scale.ai公司最新一轮融资155 million dollor
+- 商业价值：给出AI创业公司的最新一轮融资额。举例：Scale.ai :$155M ==》表示 scale.ai公司最新一轮融资155 million dollor。融资额来源于创投数据库,并不一定准确。
 
 ## 作者
 
