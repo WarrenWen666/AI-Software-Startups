@@ -65,6 +65,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* RapidMiner：$16M
 >>>* Machinify：$10M
 >>>* 第四范式：7亿美元
+>>>* cnvrg.io 被intel收购
 >## AutoML
 >>>* 星环科技 5亿人民币
 >>>* 行动贝果 3443万人民币
@@ -76,8 +77,8 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Saagie €25M
 >>>* Algorithmia: $25M
 >>>* #iguazio $24M
->>>* Determined AI：$11M
 >>>* Spell $15M
+>>>* Determined AI：$11M
 >>>* Verta $10M
 >>>* Pecan $11M
 >>>* Allegro.ai  $11M
@@ -87,10 +88,14 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Evidently ai
 >>>* #ParallelM 被DataRobot收购
 >>>* H2O.ai
->## 模型监控
+>## 模型监控与可解释性
 >>>* Arthur AI $15M
 >>>* databand.ai $14.5M
 >>>* WhyLabs $4M
+>>>* Fiddler labs $10.2M
+>>>* InterpretML
+>>>* 瑞莱智慧RealAI 数千万人民币
+>>>* #Aporia
 >## 边缘MLops
 >>>* 开放智能Open AI LAB
 >## 数据版本管理与共享
@@ -98,11 +103,6 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Graviti 千万级美元
 >>>* #DAGsHub $3M
 >>>* 和鲸科技 数百万美元
->## 可解释性
->>>* Fiddler labs $10.2M
->>>* InterpretML
->>>* 瑞莱智慧RealAI 数千万人民币
->>>* #Aporia
 >## 安全与隐私
 >>>* Robust Intelligence $11M
 >>>* 瑞莱智慧RealAI 数千万人民币
@@ -111,7 +111,6 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Rasa $26M
 >>>* Grid AI $18.6M
 >>>* Hugging Face $15M
->>>* cnvrg.io 被intel收购
 # 文本NLP
 >## 机器翻译
 >>>* Unbabel：$60M
