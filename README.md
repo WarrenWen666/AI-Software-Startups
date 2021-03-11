@@ -352,3 +352,4 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 ## 打赏
 
 
+<img src="https://github.com/WarrenWen666/AI-Software-Startups/blob/main/pay.png" alt="微信" />
