@@ -73,7 +73,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* 智易科技 数百万美元
 >>>* 探智立方DarwinML 数百万美元
 >>>* #Allegro.AI: $11M
->## MLops
+>## Mlops
 >>>* Saagie €25M
 >>>* Algorithmia: $25M
 >>>* #iguazio $24M
@@ -192,9 +192,11 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* 个人总结：
 >>>* 酷家乐 超1亿美元
 >>>* 粒界科技 数千万美元
+>>>* 凌迪科技 2亿人民币
 >>>* 51world 2.1亿人民币
 >>>* 叠境数字 亿元级人民币
 >>>* 时谛智能 近亿人民币
+>>>* 深尚科技 600万美元
 >>>* 商询科技 datamesh
 >## 形象生成
 >>>* 魔珐科技Xmov 数亿人民币
@@ -217,8 +219,6 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Standard Cognition $150M
 >>>* Mad Street Den $17M
 >>>* Grabango $8.1M
->## 时尚
->>>* 深尚科技
 >## 安防
 >>>* #AnyVision $43M
 >>>* tractable.ai $25M
