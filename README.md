@@ -167,7 +167,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >## 其他other
 >>>* Rasa $26M
 >>>* Grid AI $18.6M
->>>* Hugging Face $15M
+>>>* Hugging Face $40M
 # 文本NLP
 >## 机器翻译
 >>>* Unbabel：$60M
