@@ -246,7 +246,6 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >## 图像压缩
 >>>* 图鸭科技 数千万人民币
 >## 物体生成
->>>* 个人总结：
 >>>* 酷家乐 超1亿美元
 >>>* 粒界科技 数千万美元
 >>>* 凌迪科技 2亿人民币
