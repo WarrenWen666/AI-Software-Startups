@@ -19,14 +19,39 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 
 ## 目录
 
+    * [华控清交](#华控清交) 
+  * [芯片](#芯片) 
+    * [星云Clustar](#星云Clustar) 
+    * [#Duality Technologies](##Duality Technologies) 
+  * [联邦学习：](#联邦学习：) 
+    * [微众银行](#微众银行) 
+    * [蚂蚁金服](#蚂蚁金服) 
+    * [平安银行](#平安银行) 
+  * [时间序列](#时间序列) 
+  * [Graph](#Graph) 
+  * [NoSQL](#NoSQL) 
+  * [内存数据库](#内存数据库) 
+  * [Relation](#Relation) 
 * [AI基础设施Infrastructure](#AI基础设施Infrastructure) 
-  * [软硬件优化](#软硬件优化) 
 * [文本NLP](#文本NLP) 
 * [视觉Vision](#视觉Vision) 
 * [音频Audio](#音频Audio) 
-* [决策Decision](#决策Decision) 
+* [优化Optimization](#优化Optimization) 
 * [场景AI](#场景AI) 
 * [行业AI](#行业AI) 
+# 华控清交
+# 芯片
+# 星云Clustar
+# #Duality Technologies
+# 联邦学习：
+# 微众银行
+# 蚂蚁金服
+# 平安银行
+# 时间序列
+# Graph
+# NoSQL
+# 内存数据库
+# Relation
 # AI基础设施Infrastructure
 >## 软硬件优化
 >>>* Weka.IO $31.7M
@@ -54,7 +79,6 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* Pinecone $10M
 >## 深度学习框架
 >>>* 一流科技：OneFlow 5000万人民币
->>>* Skymind:DL4J
 >## 训练管理
 >>>* Weights&Biases：$45M
 >## 机器学习平台
@@ -63,7 +87,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >>>* H2O.ai：$72.5M
 >>>* domino data：$43M
 >>>* abacus.ai：$22M 
->>>* RapidMiner：$16M
+>>>* RapidMiner：$16M  
 >>>* Machinify：$10M
 >>>* 第四范式：7亿美元
 >>>* cnvrg.io 被intel收购
@@ -251,7 +275,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 >## 音乐
 >>>* Amper Music $4M
 >>>* StepBeats 150万人民币
-# 决策Decision
+# 优化Optimization
 >## 强化学习
 >>### 游戏
 >>>* DeepMind
