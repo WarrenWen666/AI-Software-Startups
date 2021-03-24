@@ -20,6 +20,7 @@ SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软�
 ## 目录
 
 * [AI基础设施Infrastructure](#AI基础设施Infrastructure) 
+  * [AI基础设施Infrastructure](#AI基础设施Infrastructure) 
 * [文本NLP](#文本NLP) 
 * [视觉Vision](#视觉Vision) 
 * [音频Audio](#音频Audio) 
