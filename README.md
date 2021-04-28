@@ -22,20 +22,12 @@
 * [AI基础设施Infrastructure](#AI基础设施Infrastructure) 
   * [软硬件优化](#软硬件优化) 
   * [异构加速器虚拟化](#异构加速器虚拟化) 
-  * [数据处理与发现](#数据处理与发现) 
-  * [数据合成](#数据合成) 
-  * [数据标注](#数据标注) 
-  * [特征向量存储与搜索](#特征向量存储与搜索) 
-  * [深度学习框架](#深度学习框架) 
-  * [训练管理](#训练管理) 
-  * [机器学习平台](#机器学习平台) 
-  * [AutoML](#AutoML) 
-  * [Mlops](#Mlops) 
-  * [模型监控与可解释性](#模型监控与可解释性) 
-  * [边缘MLops](#边缘MLops) 
-  * [数据版本管理与共享](#数据版本管理与共享) 
+  * [](#) 
+  * [数据准备](#数据准备) 
+  * [建模](#建模) 
+  * [部署、推理和监控](#部署、推理和监控) 
   * [安全与隐私](#安全与隐私) 
-  * [其他other](#其他other) 
+  * [应用](#应用) 
 * [文本NLP](#文本NLP) 
   * [机器翻译](#机器翻译) 
   * [文本重写](#文本重写) 
@@ -87,34 +79,39 @@
 # AI基础设施Infrastructure
 >## 软硬件优化
 >>>* Weka.IO $31.7M
->>>* OctoML $15M
+>>>* OctoML：$28M
 >>>* Neural magic $15M
 >## 异构加速器虚拟化
 >>>* 趋动科技 数亿元人民币
 >>>* #RunAI $30M
 >>>* #bitfusion 被三星收购
->## 数据处理与发现
+>## 
+>## 数据准备
+>>### 数据处理与发现
 >>>* Trifacta $100M
->>>* #explorium $31M
->## 数据合成
+>>>* #explorium：$31M
+>>### 数据合成
 >>>* Ai.reverie: $5.6M
 >>>* #DataGen Technologies $3.5M
->## 数据标注
->>>* Scale.ai :$155M，$3.5B 
->>>* LabelBox: $40M
->>>* #Dataloop AI $11M
->>>* Snorkel AI: $12M
->## 特征向量存储与搜索
->>>* Tecton：$35M
->>>* ZilliZ milvus：4300万美元
->>>* Jina AI：600万美元
->>>* Pinecone $10M
->## 深度学习框架
->>>* 一流科技：OneFlow 5000万人民币
->## 训练管理
+>>### 数据标注
+>>>* Scale.ai：$325M，$7B 
+>>>* LabelBox：$40M
+>>>* Snorkel AI：$35M
+>>>* #Dataloop AI：$11M
+>>>* Aquarium：$2.6M
+>>### 数据版本管理
+>>>* Pachyderm $16M
+>>>* Graviti 千万级美元
+>>>* #DAGsHub $3M
+>## 建模
+>>### 深度学习框架
+>>>* 一流科技OneFlow： 5000万人民币
+>>### 训练管理
 >>>* Weights&Biases：$45M
->## 机器学习平台
->>>* DataRobot: $270M 
+>>>* #Comet.ml $4.5
+>>>* neptune.ai：$3M
+>>### 机器学习平台
+>>>* DataRobot：$270M，$2.8B
 >>>* Dataiku：$100M
 >>>* H2O.ai：$72.5M
 >>>* domino data：$43M
@@ -122,52 +119,59 @@
 >>>* RapidMiner：$16M  
 >>>* Machinify：$10M
 >>>* 第四范式：7亿美元
+>>>* DataCanvas：1.2亿人民币
+>>>* 和鲸科技 数百万美元
 >>>* cnvrg.io 被intel收购
->## AutoML
->>>* 星环科技 5亿人民币
->>>* 行动贝果 3443万人民币
->>>* 深度赋智 数千万人民币
->>>* 智易科技 数百万美元
->>>* 探智立方DarwinML 数百万美元
->>>* #Allegro.AI: $11M
->## Mlops
->>>* Saagie €25M
->>>* Algorithmia: $25M
+>>### AutoML
+>>>* 星环科技：5亿人民币
+>>>* 行动贝果：3443万人民币
+>>>* 深度赋智：数千万人民币
+>>>* 智易科技：数百万美元
+>>>* 探智立方DarwinML：数百万美元
+>>>* #Allegro.AI：$11M
+>## 部署、推理和监控
+>>### Mlops
+>>>* Streamlit：$35M
+>>>* Saagie：€25M
+>>>* Algorithmia：$25M
 >>>* #iguazio $24M
+>>>* Grid AI $18.6M
 >>>* Spell $15M
 >>>* Determined AI：$11M
 >>>* Verta $10M
 >>>* Pecan $11M
->>>* Allegro.ai  $11M
+>>>* Allegro.ai $11M
+>>>* Taktile：€6M
 >>>* #SuperWise $4.5M
->>>* #Comet.ml $4.5
+>>>* datatron $1.4M
 >>>* Seldon £7.1
 >>>* Evidently ai
 >>>* #ParallelM 被DataRobot收购
 >>>* H2O.ai
->## 模型监控与可解释性
+>>### 边缘MLops
+>>>* 开放智能Open AI LAB
+>>### 模型监控与可解释性
 >>>* Arthur AI $15M
->>>* databand.ai $14.5M
->>>* WhyLabs $4M
+>>>* databand.ai: $14.5M
+>>>* Truera: $12.2M
 >>>* Fiddler labs $10.2M
+>>>* WhyLabs: $4M
 >>>* InterpretML
 >>>* 瑞莱智慧RealAI 数千万人民币
->>>* #Aporia
->## 边缘MLops
->>>* 开放智能Open AI LAB
->## 数据版本管理与共享
->>>* Pachyderm $16M
->>>* Graviti 千万级美元
->>>* #DAGsHub $3M
->>>* 和鲸科技 数百万美元
+>>>* #Aporia $5M
 >## 安全与隐私
 >>>* Robust Intelligence $11M
->>>* 瑞莱智慧RealAI 数千万人民币
+>>>* 瑞莱智慧RealAI：数千万人民币
 >>>* #D-ID $13.5M
->## 其他other
->>>* Rasa $26M
->>>* Grid AI $18.6M
->>>* Hugging Face $40M
+>## 应用
+>>### NLP
+>>>* Hugging Face：$40M
+>>>* Rasa：$26M
+>>### 特征向量存储与搜索
+>>>* Tecton：$35M
+>>>* ZilliZ：4300万美元
+>>>* Jina AI：600万美元
+>>>* Pinecone $10M
 # 文本NLP
 >## 机器翻译
 >>>* Unbabel：$60M
@@ -222,6 +226,7 @@
 >>>* 依图 2亿美元
 >>>* 云从 18亿人民币
 >>>* 图普科技 千万美元
+>>>* 极视角
 >## 视频
 >>### 综合
 >>>* Viedeo++
@@ -270,7 +275,7 @@
 >>>* EmbodyMe
 >>>* ROSEBUD.AI $1.5M
 >## OCR
->>>* HyperScience $80M
+>>>* HyperScience：$80M
 >## 无人零售
 >>>* Standard Cognition $150M
 >>>* Mad Street Den $17M
@@ -292,7 +297,7 @@
 >>>* Observe.AI $54M
 >>>* Otter.ai $50M
 >>>* Descript $30M
->>>* DeepGram $25M
+>>>* DeepGram：$25M
 >>>* 魔音助手 
 >## 声纹识别
 >>>* 声扬科技VoiceAI 近亿人民币
