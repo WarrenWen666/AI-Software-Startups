@@ -41,7 +41,7 @@
   * [视频](#视频) 
   * [创作工具](#创作工具) 
   * [图像压缩](#图像压缩) 
-  * [物体生成](#物体生成) 
+  * [物体渲染](#物体渲染) 
   * [形象生成](#形象生成) 
   * [OCR](#OCR) 
   * [无人零售](#无人零售) 
@@ -93,6 +93,7 @@
 >>>* #DataGen Technologies $3.5M
 >>### 数据标注
 >>>* Scale.ai：$325M，$7B 
+>>>* hive.ai：$50M，$2B
 >>>* LabelBox：$40M
 >>>* Snorkel AI：$35M
 >>>* #Dataloop AI：$11M
@@ -146,6 +147,10 @@
 >>>* Evidently ai
 >>>* #ParallelM 被DataRobot收购
 >>>* H2O.ai
+>>### 特征存储与搜索
+>>>* Tecton：$35M
+>>>* Molecula：$17.6M
+>>>* Kaskada：$8M	
 >>### 边缘MLops
 >>>* 开放智能Open AI LAB
 >>### 模型监控与可解释性
@@ -165,8 +170,7 @@
 >>### NLP
 >>>* Hugging Face：$40M
 >>>* Rasa：$26M
->>### 特征向量存储与搜索
->>>* Tecton：$35M
+>>### 向量搜索与数据库
 >>>* ZilliZ：4300万美元
 >>>* Jina AI：600万美元
 >>>* Pinecone $10M
@@ -180,7 +184,7 @@
 >>>* Grammarly $90M
 >## Chatbot
 >>### Automated CX
->>>* Ada Support $44M
+>>>* Ada Support：$44M
 >>### 智能客服
 >>>* 追一科技：4100万美元
 >>>* 智齿科技：2.1亿人民币
@@ -204,13 +208,14 @@
 >## 合同审查
 >>>* Kira systems CA$65M
 >## 销售
->>>* #Gong.io $200M
->>>* #chorus.ai $45M
->>>* People.ai $60M
->>>* Tact.AI  $27M
+>>>* #Gong.io：$200M
+>>>* #chorus.ai：$45M
+>>>* People.ai：$60M
+>>>* Vivun：$35M
+>>>* Tact.AI：$27M
 >>>* Troops.ai $12M
->>>* Recurrent.ai
->>>* 客知音 千万级人民币
+>>>* 循环智能
+>>>* 客知音：千万级人民币
 >## 其他
 >>>* 达观数据 2.7亿人民币
 >>>* #A21 labs
@@ -248,7 +253,7 @@
 >>### 漫画
 >## 图像压缩
 >>>* 图鸭科技 数千万人民币
->## 物体生成
+>## 物体渲染
 >>>* 酷家乐 超1亿美元
 >>>* 粒界科技 数千万美元
 >>>* 凌迪科技 2亿人民币
@@ -269,7 +274,9 @@
 >>>* 我是大咖
 >>>* Brud $20M, $125M
 >>>* #D-ID $13.5M
->>>* FaceRig $2M
+>>>* Reface.ai：
+>>>* Avararify
+>>>* FaceRig：$2M
 >>>* EmbodyMe
 >>>* ROSEBUD.AI $1.5M
 >## OCR
