@@ -6,9 +6,9 @@
 
 在发论文之前，需要调研相关论文并看论文，才能知道发展现状，并找到差异化和创新点。同理，在创业之前，需要调研相关的创业公司并研究产品、市场和商业模式，才能知道发展现状，并找到差异化和创新点。SSAIS（Survey of Startups on Artificial Intelligence Software）是一个AI软件创业公司调研仓库。在该仓库具有如下几个特点：
 - 持续更新：将持续加入更多的AI创业公司。
-- 多层次：覆盖AI的基础设施领域到应用领域。
+- 多层次：覆盖AI的基础设施领域到应用领域。"!"表示该公司的是开源公司。
 - 技术角度：从技术的角度来AI软件创业公司进行分类，给AI创业人士启发。
-- 多国家：覆盖中国、美国和以色列等。#表示以色列公司
+- 多国家：覆盖中国、美国和以色列等。"#"该公司的是开源公司是以色列公司
 - 商业价值：给出AI创业公司的最新一轮融资额。举例：Scale.ai :$155M ==》表示 scale.ai公司最新一轮融资155 million dollor。融资额来源于创投数据库,并不一定准确。
 
 ## 作者
@@ -95,24 +95,24 @@
 >>>* Scale.ai：$325M，$7B 
 >>>* hive.ai：$50M，$2B
 >>>* LabelBox：$40M
->>>* Snorkel AI：$35M
+>>>* ！Snorkel AI：$35M
 >>>* #Dataloop AI：$11M
 >>>* Aquarium：$2.6M
 >>### 数据版本管理
->>>* Pachyderm $16M
+>>>* ！Pachyderm $16M
 >>>* Graviti 千万级美元
 >>>* #DAGsHub $3M
 >## 建模
 >>### 深度学习框架
->>>* 一流科技OneFlow： 5000万人民币
+>>>* ！一流科技OneFlow： 5000万人民币
 >>### 训练管理
->>>* Weights&Biases：$45M
->>>* #Comet.ml $4.5
+>>>* !Weights&Biases：$45M
+>>>* !#Comet.ml $4.5
 >>>* neptune.ai：$3M
 >>### 机器学习平台
 >>>* DataRobot：$270M，$2.8B
 >>>* Dataiku：$100M
->>>* H2O.ai：$72.5M
+>>>* !H2O.ai：$72.5M
 >>>* domino data：$43M
 >>>* abacus.ai：$22M 
 >>>* RapidMiner：$16M  
@@ -133,23 +133,23 @@
 >>>* Streamlit：$35M
 >>>* Saagie：€25M
 >>>* Algorithmia：$25M
->>>* #iguazio $24M
+>>>* !#iguazio $24M
 >>>* Grid AI $18.6M
 >>>* Spell $15M
 >>>* Determined AI：$11M
 >>>* Verta $10M
 >>>* Pecan $11M
 >>>* Allegro.ai $11M
->>>* Taktile：
+>>>* Taktile：€6M
 >>>* #SuperWise $4.5M
 >>>* datatron $1.4M
->>>* Seldon £7.1
+>>>* !Seldon £7.1
 >>>* Evidently ai
 >>>* #ParallelM 被DataRobot收购
 >>>* H2O.ai
 >>### 特征存储与搜索
->>>* Tecton：$35M
->>>* Molecula：$17.6M
+>>>* !Tecton：$35M
+>>>* !Molecula：$17.6M
 >>>* Kaskada：$8M	
 >>### 边缘MLops
 >>>* 开放智能Open AI LAB
@@ -168,11 +168,11 @@
 >>>* #D-ID $13.5M
 >## 应用
 >>### NLP
->>>* Hugging Face：$40M
->>>* Rasa：$26M
+>>>* !Hugging Face：$40M
+>>>* !Rasa：$26M
 >>### 向量搜索与数据库
->>>* ZilliZ：4300万美元
->>>* Jina AI：600万美元
+>>>* !ZilliZ：4300万美元
+>>>* !Jina AI：600万美元
 >>>* Pinecone $10M
 # 文本NLP
 >## 机器翻译
@@ -274,7 +274,7 @@
 >>>* 我是大咖
 >>>* Brud $20M, $125M
 >>>* #D-ID $13.5M
->>>* Reface.ai：
+>>>* Reface.ai：$5.5M
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* EmbodyMe
