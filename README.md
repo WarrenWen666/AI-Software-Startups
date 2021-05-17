@@ -131,14 +131,13 @@
 >>>* 探智立方DarwinML：数百万美元
 >## 部署和监控
 >>### Mlops
->>>* Streamlit：$35M
 >>>* Pecan：$35M
 >>>* Saagie：€25M
 >>>* Algorithmia：$25M
 >>>* !#iguazio：$24M
 >>>* Spell：$15M
 >>>* #Allegro.ai：$11M
->>>* Verta：$10M
+>>>* Verta.ai：$10M
 >>>* Taktile：
 >>>* #SuperWise.ai $4.5M
 >>>* !Seldon £7.1
@@ -162,6 +161,8 @@
 >>>* InterpretML
 >>>* 瑞莱智慧RealAI 数千万人民币
 >>>* #Aporia $5M
+>>### 数据应用构建
+>>>* Streamlit：$35M
 >## 安全与隐私
 >>>* Robust Intelligence $11M
 >>>* 瑞莱智慧RealAI：数千万人民币
@@ -327,7 +328,7 @@
 >>>* 启元世界 数千万人民币
 >>>* rct studio $10M
 >>### 调度
->>>* %secondmind.ai $24M
+>>>* secondmind.ai $24M
 >>### 测试
 >>>* Mabl $20M
 >>>* Test.ai $11M
