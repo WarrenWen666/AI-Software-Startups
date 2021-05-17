@@ -101,12 +101,14 @@
 >>### 数据版本管理
 >>>* ！Pachyderm $16M
 >>>* Graviti 千万级美元
->>>* #DAGsHub $3M
+>>>* Iterative.ai: $3.9M
 >## 建模
 >>### 深度学习框架
 >>>* ！一流科技OneFlow： 5000万人民币
 >>### 训练管理
 >>>* !Weights&Biases：$45M
+>>>* !Grid AI $18.6M
+>>>* Determined AI：$11M
 >>>* !#Comet.ml $4.5
 >>>* neptune.ai：$3M
 >>### 机器学习平台
@@ -127,35 +129,33 @@
 >>>* 深度赋智：数千万人民币
 >>>* 智易科技：数百万美元
 >>>* 探智立方DarwinML：数百万美元
->>>* #Allegro.AI：$11M
 >## 部署和监控
 >>### Mlops
 >>>* Streamlit：$35M
+>>>* Pecan：$35M
 >>>* Saagie：€25M
 >>>* Algorithmia：$25M
->>>* !#iguazio $24M
->>>* Grid AI $18.6M
->>>* Spell $15M
->>>* Determined AI：$11M
->>>* Verta $10M
->>>* Pecan $11M
->>>* Allegro.ai $11M
->>>* Taktile：€6M
->>>* #SuperWise $4.5M
->>>* datatron $1.4M
+>>>* !#iguazio：$24M
+>>>* Spell：$15M
+>>>* #Allegro.ai：$11M
+>>>* Verta：$10M
+>>>* Taktile：
+>>>* #SuperWise.ai $4.5M
 >>>* !Seldon £7.1
->>>* Evidently ai
+>>>* #DAGsHub $3M
+>>>* Valohai：$1.8M
+>>>* datatron $1.4M
+>>>* 开放智能Open AI LAB
 >>>* #ParallelM 被DataRobot收购
 >>>* H2O.ai
->>### 特征存储与搜索
+>>### 特征存储
 >>>* !Tecton：$35M
 >>>* !Molecula：$17.6M
 >>>* Kaskada：$8M	
->>### 边缘MLops
->>>* 开放智能Open AI LAB
+>>>* !Logicalclocks: €1.3M
 >>### 模型监控与可解释性
 >>>* Arthur AI $15M
->>>* databand.ai: $14.5M
+>>>* #databand.ai: $14.5M
 >>>* Truera: $12.2M
 >>>* Fiddler labs $10.2M
 >>>* WhyLabs: $4M
@@ -273,10 +273,12 @@
 >>>* 慧夜科技
 >>>* 我是大咖
 >>>* Brud $20M, $125M
->>>* #D-ID $13.5M
->>>* Reface.ai：$5.5M
+>>>* Synthesia：$12.5M
+>>>* #D-ID：$13.5M
+>>>* Reface.ai：
 >>>* Avararify
 >>>* FaceRig：$2M
+>>>* Rosebud AI：$1.5M
 >>>* EmbodyMe
 >>>* ROSEBUD.AI $1.5M
 >## OCR
@@ -316,6 +318,7 @@
 >## 音乐
 >>>* Amper Music $4M
 >>>* StepBeats 150万人民币
+>>>* 时域科技
 # 优化Optimization
 >## 强化学习
 >>### 游戏
