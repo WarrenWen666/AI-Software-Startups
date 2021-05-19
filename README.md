@@ -76,7 +76,6 @@
   * [物流](#物流) 
   * [工业](#工业) 
 * [搜索和推荐](#搜索和推荐) 
-* [New AI ](#New AI ) 
 # AI基础设施Infrastructure
 >## 软硬件优化
 >>>* Weka.IO：$31.7M
@@ -140,7 +139,7 @@
 >>>* Spell：$15M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
->>>* Taktile：
+>>>* Taktile：€6M
 >>>* #SuperWise.ai $4.5M
 >>>* !Seldon £7.1
 >>>* #DAGsHub $3M
@@ -284,7 +283,7 @@
 >>>* Brud $20M, $125M
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：
+>>>* Reface.ai：$5.5M
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
@@ -428,8 +427,6 @@
 >>>* Attentive：$230M
 >>>* Outlier：$22.1M
 >>>* Lily AI：$12.5M
-# New AI 
->>>* Gamalon $20M
 
 ## 打赏
 
