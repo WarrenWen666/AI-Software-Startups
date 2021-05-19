@@ -88,11 +88,11 @@
 >>>* #Deci AI：$9.1M
 >## 数据准备
 >>### 数据处理与发现
->>>* Trifacta $100M
+>>>* Trifacta：$100M
 >>>* #explorium：$31M
 >>### 数据合成
->>>* Ai.reverie: $5.6M
->>>* #DataGen Technologies $3.5M
+>>>* Ai.reverie：$5.6M
+>>>* #DataGen Technologies：$3.5M
 >>### 数据标注
 >>>* Scale.ai：$325M，$7B 
 >>>* hive.ai：$50M，$2B
@@ -102,17 +102,17 @@
 >>### 数据质量
 >>>* Aquarium：$2.6M
 >>### 数据版本
->>>* ！Pachyderm $16M
+>>>* ！Pachyderm：$16M
 >>>* 格物钛Graviti：千万级美元
->>>* Iterative.ai: $3.9M
+>>>* Iterative.ai：$3.9M
 >## 模型构建
 >>### 深度学习框架
->>>* ！一流科技OneFlow： 5000万人民币
+>>>* ！一流科技OneFlow：5000万人民币
 >>### 训练管理
 >>>* !Weights&Biases：$45M
->>>* !Grid AI $18.6M
+>>>* !Grid AI：$18.6M
 >>>* Determined AI：$11M
->>>* !#Comet.ml $4.5
+>>>* !#Comet.ml：$4.5
 >>>* neptune.ai：$3M
 >>### 机器学习平台
 >>>* DataRobot：$270M，$2.8B
@@ -124,7 +124,7 @@
 >>>* Machinify：$10M
 >>>* 第四范式：7亿美元
 >>>* DataCanvas：1.2亿人民币
->>>* 和鲸科技 数百万美元
+>>>* 和鲸科技：数百万美元
 >>>* cnvrg.io 被intel收购
 >>>* 星环科技：5亿人民币
 >>>* 行动贝果：3443万人民币
@@ -140,7 +140,7 @@
 >>>* Spell：$15M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
->>>* Taktile：€6M
+>>>* Taktile：
 >>>* #SuperWise.ai $4.5M
 >>>* !Seldon £7.1
 >>>* #DAGsHub $3M
@@ -283,7 +283,7 @@
 >>>* Brud $20M, $125M
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：$5.5M
+>>>* Reface.ai：
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
