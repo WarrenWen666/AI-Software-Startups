@@ -23,7 +23,7 @@
   * [软硬件优化](#软硬件优化) 
   * [异构加速器虚拟化](#异构加速器虚拟化) 
   * [数据准备](#数据准备) 
-  * [建模](#建模) 
+  * [模型构建](#模型构建) 
   * [部署和监控](#部署和监控) 
   * [安全与隐私](#安全与隐私) 
   * [应用](#应用) 
@@ -33,6 +33,7 @@
   * [Chatbot](#Chatbot) 
   * [背景调查](#背景调查) 
   * [招聘](#招聘) 
+  * [OCR](#OCR) 
   * [合同审查](#合同审查) 
   * [销售](#销售) 
   * [其他](#其他) 
@@ -43,7 +44,6 @@
   * [图像压缩](#图像压缩) 
   * [物体渲染](#物体渲染) 
   * [形象生成](#形象生成) 
-  * [OCR](#OCR) 
   * [无人零售](#无人零售) 
   * [安防](#安防) 
   * [测试](#测试) 
@@ -75,15 +75,66 @@
   * [房地产](#房地产) 
   * [物流](#物流) 
   * [工业](#工业) 
+* [搜索和推荐](#搜索和推荐) 
+* [New AI ](#New AI ) 
+* [数据隐私、合规](#数据隐私、合规) 
+* [隐私计算](#隐私计算) 
+  * [Oss](#Oss) 
+  * [Fordilety](#Fordilety) 
+* [数据库](#数据库) 
+  * [时间序列](#时间序列) 
+  * [Graph](#Graph) 
+  * [NoSQL](#NoSQL) 
+  * [内存数据库](#内存数据库) 
+  * [Relation](#Relation) 
+* [数据仓库](#数据仓库) 
+* [数据集成](#数据集成) 
+* [个人思考](#个人思考) 
+  * [创业者画像： ](#创业者画像： ) 
+  * [社区](#社区) 
+  * [投资主题](#投资主题) 
+  * [Deal sourcing方式](#Deal sourcing方式) 
+  * [投资策略](#投资策略) 
+* [调研AI](#调研AI) 
+  * [金融](#金融) 
+  * [NLP学术团队创业](#NLP学术团队创业) 
+  * [政策的影响是很多的](#政策的影响是很多的) 
+  * [技术的突破](#技术的突破) 
+  * [NLP目前能做什么，不能做什么](#NLP目前能做什么，不能做什么) 
+  * [NLP落地在什么行业？](#NLP落地在什么行业？) 
+  * [NLP的发展阶段](#NLP的发展阶段) 
+* [AI VC](#AI VC) 
+  * [国内](#国内) 
+  * [国外](#国外) 
+* [AI软件的创业机会在哪里？](#AI软件的创业机会在哪里？) 
+  * [AI时代的机会在哪里？](#AI时代的机会在哪里？) 
+  * [从新定义清楚AI：什么是AI创业？](#从新定义清楚AI：什么是AI创业？) 
+  * [AI创业分类](#AI创业分类) 
+  * [趋势总结与思考](#趋势总结与思考) 
+* [为啥要做SSAIS项目](#为啥要做SSAIS项目) 
+  * [Why：为什么做一个GitHub项目？](#Why：为什么做一个GitHub项目？) 
+  * [What and how？](#What and how？) 
+  * [Why me？](#Why me？) 
+* [耀途分享](#耀途分享) 
+* [Unicorn](#Unicorn) 
+  * [为啥做VC？](#为啥做VC？) 
+  * [为啥加入耀途？](#为啥加入耀途？) 
+  * [文化](#文化) 
+* [VC](#VC) 
+* [话术：](#话术：) 
+* [MLOps](#MLOps) 
+* [投资方向和机会](#投资方向和机会) 
+* [创业的本质](#创业的本质) 
+* [MLOps](#MLOps) 
 # AI基础设施Infrastructure
 >## 软硬件优化
->>>* Weka.IO $31.7M
+>>>* Weka.IO：$31.7M
 >>>* OctoML：$28M
->>>* Neural magic $15M
+>>>* Neural magic：$15M
 >## 异构加速器虚拟化
->>>* 趋动科技 数亿元人民币
->>>* #RunAI $30M
->>>* #bitfusion 被三星收购
+>>>* 趋动科技：数亿元人民币
+>>>* #RunAI：$30M
+>>>* #Deci AI：$9.1M
 >## 数据准备
 >>### 数据处理与发现
 >>>* Trifacta $100M
@@ -97,12 +148,13 @@
 >>>* LabelBox：$40M
 >>>* ！Snorkel AI：$35M
 >>>* #Dataloop AI：$11M
+>>### 数据质量
 >>>* Aquarium：$2.6M
 >>### 数据版本管理
 >>>* ！Pachyderm $16M
 >>>* Graviti 千万级美元
 >>>* Iterative.ai: $3.9M
->## 建模
+>## 模型构建
 >>### 深度学习框架
 >>>* ！一流科技OneFlow： 5000万人民币
 >>### 训练管理
@@ -123,7 +175,6 @@
 >>>* DataCanvas：1.2亿人民币
 >>>* 和鲸科技 数百万美元
 >>>* cnvrg.io 被intel收购
->>### AutoML
 >>>* 星环科技：5亿人民币
 >>>* 行动贝果：3443万人民币
 >>>* 深度赋智：数千万人民币
@@ -158,13 +209,12 @@
 >>>* Truera: $12.2M
 >>>* Fiddler labs $10.2M
 >>>* WhyLabs: $4M
->>>* InterpretML
 >>>* 瑞莱智慧RealAI 数千万人民币
 >>>* #Aporia $5M
 >>### 数据应用构建
 >>>* Streamlit：$35M
 >## 安全与隐私
->>>* Robust Intelligence $11M
+>>>* Robust Intelligence：$11M
 >>>* 瑞莱智慧RealAI：数千万人民币
 >>>* #D-ID $13.5M
 >## 应用
@@ -206,15 +256,22 @@
 >>>* Bello倍罗 数千万人民币
 >>>* 近屿智能 数千万人民币
 >>>* 方便面面试
+>## OCR
+>>>* HyperScience：$80M
+>>>* Eigen Technologies：$37M
+>>>* Cinnamon AI：$13M
 >## 合同审查
 >>>* Kira systems CA$65M
 >## 销售
 >>>* #Gong.io：$200M
+>>>* Clari: $150M
+>>>* Cresta：$50M
 >>>* #chorus.ai：$45M
 >>>* People.ai：$60M
 >>>* Vivun：$35M
 >>>* Tact.AI：$27M
 >>>* Troops.ai $12M
+>>>* Polyai：$12M
 >>>* 循环智能
 >>>* 客知音：千万级人民币
 >## 其他
@@ -282,8 +339,6 @@
 >>>* Rosebud AI：$1.5M
 >>>* EmbodyMe
 >>>* ROSEBUD.AI $1.5M
->## OCR
->>>* HyperScience：$80M
 >## 无人零售
 >>>* Standard Cognition $150M
 >>>* Mad Street Den $17M
@@ -417,6 +472,120 @@
 >>>* 快运兔
 >## 工业
 >>>* Augury $55M
+# 搜索和推荐
+>>>* Coveo：CA$227M
+>>>* Attentive：$230M
+>>>* Outlier：$22.1M
+>>>* Lily AI：$12.5M
+# New AI 
+>>>* Gamalon $20M
+# 数据隐私、合规
+>>>* BigID：$70M
+>>>* OneTrust ：$300M
+>>>* Druva ：$130M
+>>>* Privitar ：$80M
+>>>* Ethyca ：$13.5M
+>>>* InCountry：$18M
+>>>* Text IQ：$12.6M
+>>>* ：$5M
+>>>* WireWheel：$20M
+>>>* concentric.ai：$7.5M
+# 隐私计算
+>>>* 华控清交
+>>>* 翼方健数 数千万美元
+>>>* Owkin $25M 估值2billion
+>>>* 星云Clustar 数千万人民币
+>>>* #Duality Technologies $16M
+>## Oss
+>## Fordilety
+>>### 微众银行
+>>### 蚂蚁金服
+>>### 平安银行
+# 数据库
+>## 时间序列
+>>>* Influxdb $60M
+>>>* Timescale $15M
+>>>* 涛思TDengine 超1000万美元
+>## Graph
+>>>* TigerGraph 1.05亿美元
+>>>* 欧若数网 Nebula 近千万美元
+>>>* DGraph $11.5M
+>## NoSQL
+>>>* Rockset：$40M
+>>>* #ScyllaDB $25M
+>>>* MongoDB
+>## 内存数据库
+>## Relation
+>>>* 新数科技
+>>>* 巨杉数据库
+>>>* Pingcap
+>>>* CockroachDB
+>>>* Rockset
+# 数据仓库
+>>>* Snowflake
+# 数据集成
+>>>* Fivetran: $100M
+>>>* 
+>>>* Airbyte: $5.2M
+# 个人思考
+>>### AI赋能VC思考
+>## 创业者画像： 
+>## 社区
+>## 投资主题
+>>### 会话智能：
+>>### 视频的创作与分析
+>>### 可控的生成任务
+>## Deal sourcing方式
+>## 投资策略
+# 调研AI
+>>### 研究思路
+>>### 小结
+>## 金融
+>## NLP学术团队创业
+>## 政策的影响是很多的
+>## 技术的突破
+>>>* DeepMind AlphaFold2 解决蛋白质折叠
+>>>* OpenAI预训练模型GPT3
+>## NLP目前能做什么，不能做什么
+>## NLP落地在什么行业？
+>## NLP的发展阶段
+# AI VC
+>## 国内
+>## 国外
+>>>* Index Ventures
+>>>* A16Z
+>>>* Accel
+>>>* FirstMark Capital
+>>>* Basis Set Ventures
+# AI软件的创业机会在哪里？
+>## AI时代的机会在哪里？
+>## 从新定义清楚AI：什么是AI创业？
+>## AI创业分类
+>>### AI+基础设施：
+>>>* 用代码编写功能VS 用数据和模型编写功能
+>>### AI赋能的应用：理解，提升效率
+>>>* 阿姆达尔定律
+>>>* AI+场景：
+>>>* AI+行业：
+>>### AI原生的应用：生成，新的体验
+>## 趋势总结与思考
+# 为啥要做SSAIS项目
+>## Why：为什么做一个GitHub项目？
+>>### 竞争对手：其他VC
+>## What and how？
+>>### 差异化的定位
+>## Why me？
+# 耀途分享
+# Unicorn
+>## 为啥做VC？
+>## 为啥加入耀途？
+>## 文化
+# VC
+# 话术：
+# MLOps
+# 投资方向和机会
+# 创业的本质
+# MLOps
 
 ## 打赏
 
