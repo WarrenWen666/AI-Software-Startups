@@ -26,7 +26,8 @@
   * [模型构建](#模型构建) 
   * [部署和监控](#部署和监控) 
   * [安全与隐私](#安全与隐私) 
-  * [应用](#应用) 
+  * [NLP](#NLP) 
+  * [向量搜索与数据库](#向量搜索与数据库) 
 * [文本NLP](#文本NLP) 
   * [机器翻译](#机器翻译) 
   * [文本重写](#文本重写) 
@@ -100,9 +101,9 @@
 >>>* #Dataloop AI：$11M
 >>### 数据质量
 >>>* Aquarium：$2.6M
->>### 数据版本管理
+>>### 数据版本
 >>>* ！Pachyderm $16M
->>>* Graviti 千万级美元
+>>>* 格物钛Graviti：千万级美元
 >>>* Iterative.ai: $3.9M
 >## 模型构建
 >>### 深度学习框架
@@ -139,7 +140,7 @@
 >>>* Spell：$15M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
->>>* Taktile：
+>>>* Taktile：€6M
 >>>* #SuperWise.ai $4.5M
 >>>* !Seldon £7.1
 >>>* #DAGsHub $3M
@@ -167,14 +168,13 @@
 >>>* Robust Intelligence：$11M
 >>>* 瑞莱智慧RealAI：数千万人民币
 >>>* #D-ID $13.5M
->## 应用
->>### NLP
+>## NLP
 >>>* !Hugging Face：$40M
 >>>* !Rasa：$26M
->>### 向量搜索与数据库
+>## 向量搜索与数据库
 >>>* !ZilliZ：4300万美元
 >>>* !Jina AI：600万美元
->>>* Pinecone $10M
+>>>* Pinecone：$10M
 # 文本NLP
 >## 机器翻译
 >>>* Unbabel：$60M
@@ -283,7 +283,7 @@
 >>>* Brud $20M, $125M
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：
+>>>* Reface.ai：$5.5M
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
