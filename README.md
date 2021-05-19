@@ -56,6 +56,7 @@
   * [CRM](#CRM) 
   * [医药](#医药) 
   * [音乐](#音乐) 
+* [搜索和推荐](#搜索和推荐) 
 * [优化Optimization](#优化Optimization) 
   * [强化学习](#强化学习) 
   * [运筹优化](#运筹优化) 
@@ -75,7 +76,6 @@
   * [房地产](#房地产) 
   * [物流](#物流) 
   * [工业](#工业) 
-* [搜索和推荐](#搜索和推荐) 
 # AI基础设施Infrastructure
 >## 软硬件优化
 >>>* Weka.IO：$31.7M
@@ -139,7 +139,7 @@
 >>>* Spell：$15M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
->>>* Taktile：€6M
+>>>* Taktile：
 >>>* #SuperWise.ai $4.5M
 >>>* !Seldon £7.1
 >>>* #DAGsHub $3M
@@ -283,7 +283,7 @@
 >>>* Brud $20M, $125M
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：$5.5M
+>>>* Reface.ai：
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
@@ -325,6 +325,11 @@
 >>>* Amper Music $4M
 >>>* StepBeats 150万人民币
 >>>* 时域科技
+# 搜索和推荐
+>>>* Coveo：CA$227M
+>>>* Attentive：$230M
+>>>* Outlier：$22.1M
+>>>* Lily AI：$12.5M
 # 优化Optimization
 >## 强化学习
 >>### 游戏
@@ -422,11 +427,6 @@
 >>>* 快运兔
 >## 工业
 >>>* Augury $55M
-# 搜索和推荐
->>>* Coveo：CA$227M
->>>* Attentive：$230M
->>>* Outlier：$22.1M
->>>* Lily AI：$12.5M
 
 ## 打赏
 
