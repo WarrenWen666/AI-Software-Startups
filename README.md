@@ -149,7 +149,6 @@
 >>>* datatron $1.4M
 >>>* 开放智能Open AI LAB
 >>>* #ParallelM 被DataRobot收购
->>>* H2O.ai
 >>### 特征存储
 >>>* !Tecton：$35M
 >>>* !Molecula：$17.6M
