@@ -135,13 +135,13 @@
 >>>* 智易科技：数百万美元
 >>>* 探智立方DarwinML：数百万美元
 >## 部署和监控
->>### Mlops
+>>### MlOps
 >>>* Algorithmia：$25M
 >>>* !#iguazio：$24M
 >>>* Spell：$15M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
->>>* Taktile：
+>>>* Taktile：€6M
 >>>* #SuperWise.ai $4.5M
 >>>* !Seldon £7.1
 >>>* #DAGsHub $3M
@@ -288,7 +288,7 @@
 >>>* Brud $20M, $125M
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：
+>>>* Reface.ai：$5.5M
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
