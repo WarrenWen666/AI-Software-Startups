@@ -37,6 +37,7 @@
   * [OCR](#OCR) 
   * [合同审查](#合同审查) 
   * [销售](#销售) 
+  * [代码](#代码) 
   * [其他](#其他) 
 * [视觉Vision](#视觉Vision) 
   * [图像综合](#图像综合) 
@@ -100,6 +101,7 @@
 >>>* ！Snorkel AI：$35M
 >>>* #Dataloop AI：$11M
 >>### 数据质量
+>>>* Superb AI： $9.3M
 >>>* Aquarium：$2.6M
 >>### 数据版本
 >>>* ！Pachyderm：$16M
@@ -119,6 +121,7 @@
 >>>* Dataiku：$100M
 >>>* !H2O.ai：$72.5M
 >>>* domino data：$43M
+>>>* Pecan：$35M
 >>>* abacus.ai：$22M 
 >>>* RapidMiner：$16M  
 >>>* Machinify：$10M
@@ -133,8 +136,6 @@
 >>>* 探智立方DarwinML：数百万美元
 >## 部署和监控
 >>### Mlops
->>>* Pecan：$35M
->>>* Saagie：€25M
 >>>* Algorithmia：$25M
 >>>* !#iguazio：$24M
 >>>* Spell：$15M
@@ -176,6 +177,8 @@
 >>>* !Jina AI：600万美元
 >>>* Pinecone：$10M
 # 文本NLP
+>>### 预训练模型
+>>>* cohere.ai
 >## 机器翻译
 >>>* Unbabel：$60M
 >>>* Lilt：$25M
@@ -215,15 +218,18 @@
 >## 销售
 >>>* #Gong.io：$200M
 >>>* Clari: $150M
+>>>* People.ai：$60M
 >>>* Cresta：$50M
 >>>* #chorus.ai：$45M
->>>* People.ai：$60M
 >>>* Vivun：$35M
 >>>* Tact.AI：$27M
 >>>* Troops.ai $12M
 >>>* Polyai：$12M
->>>* 循环智能
 >>>* 客知音：千万级人民币
+>>>* 深维智信：350万美元
+>>>* 循环智能
+>## 代码
+>>>* Kite: $17M
 >## 其他
 >>>* 达观数据 2.7亿人民币
 >>>* #A21 labs
