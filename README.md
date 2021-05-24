@@ -100,12 +100,12 @@
 >>>* LabelBox：$40M
 >>>* ！Snorkel AI：$35M
 >>>* #Dataloop AI：$11M
->>>* Superb AI： $9.3M
 >>### 数据质量
 >>>* Aquarium：$2.6M
->>### 数据版本
+>>### 数据版本管理和托管
 >>>* ！Pachyderm：$16M
 >>>* 格物钛Graviti：千万级美元
+>>>* Superb AI： $9.3M
 >>>* Iterative.ai：$3.9M
 >## 模型构建
 >>### 深度学习框架
@@ -141,7 +141,7 @@
 >>>* Spell：$15M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
->>>* Taktile：€6M
+>>>* Taktile：
 >>>* #SuperWise.ai $4.5M
 >>>* !Seldon £7.1
 >>>* #DAGsHub $3M
@@ -288,7 +288,7 @@
 >>>* Brud $20M, $125M
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：$5.5M
+>>>* Reface.ai：
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
