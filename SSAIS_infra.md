@@ -6,7 +6,7 @@
       <td>数据版本管理和托管</td>
    </tr>
    <tr>
-      <td>Ai.reverie：$5.6M #DataGen Technologies：$3.5M</td>
+      <td>Ai.reverie：$5.6M  <br> #DataGen Technologies：$3.5M</td>
    </tr>
 
 </table>
