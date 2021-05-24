@@ -49,7 +49,7 @@
       </tr>
 
       <tr>
-         <td rowspan="4">
+         <td >
             模型构建
          </td>
          <td>
