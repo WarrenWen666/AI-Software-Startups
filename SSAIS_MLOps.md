@@ -57,11 +57,7 @@
             深度学习框架
          </td>
          <td>
-            !Weights&Biases：$45M  <br>
-            !Grid AI：$18.6M  <br>
-            Determined AI：$11M  <br>
-            !#Comet.ml：$4.5  <br>
-            neptune.ai：$3M  <br>
+            一流科技OneFlow
          </td>
       </tr>
       <tr>
