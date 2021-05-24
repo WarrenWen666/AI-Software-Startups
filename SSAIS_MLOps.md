@@ -46,7 +46,7 @@
             ！Pachyderm：$16M <br>
             格物钛Graviti：千万级美元 <br>
             Superb AI： $9.3M <br>
-            Iterative.ai：$3.9M <br>
+            !Iterative.ai：$3.9M <br>
       </td>
       </tr>
     <tr>
