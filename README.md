@@ -100,8 +100,8 @@
 >>>* LabelBox：$40M
 >>>* ！Snorkel AI：$35M
 >>>* #Dataloop AI：$11M
->>### 数据质量
 >>>* Superb AI： $9.3M
+>>### 数据质量
 >>>* Aquarium：$2.6M
 >>### 数据版本
 >>>* ！Pachyderm：$16M
