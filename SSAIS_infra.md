@@ -33,9 +33,13 @@
    <table>
       <tr>
          <th>方向</th>
+         <th>子方向</th>
          <th>公司</th>
       </tr>
       <tr>
+         <td rowspan="9">
+            数据准备
+         </td>
          <td>
             数据合成
          </td>
