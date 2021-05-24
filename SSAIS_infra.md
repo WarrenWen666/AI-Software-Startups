@@ -1,4 +1,4 @@
-  <table>
+   <table>
         <tr>
            <th>数据合成</th>
            <th>数据标注</th>
@@ -27,10 +27,10 @@
                  Iterative.ai：$3.9M <br>
            </td>
         </tr>
-     </table>
+   </table>
 
 
-     <table>
+   <table>
       <tr>
          <th>方向</th>
          <th>公司</th>
@@ -78,4 +78,4 @@
 
 
       </tr>
-    </table>
+   </table>
