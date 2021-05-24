@@ -1,4 +1,4 @@
-   <table>
+ <table>
         <tr>
            <th>数据合成</th>
            <th>数据标注</th>
@@ -74,8 +74,5 @@
             Superb AI： $9.3M <br>
             Iterative.ai：$3.9M <br>
       </td>
-      </tr>
-
-
       </tr>
    </table>
