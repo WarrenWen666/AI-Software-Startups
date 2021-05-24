@@ -1,4 +1,3 @@
-
    <table>
       <tr>
          <th>方向</th>
@@ -48,6 +47,7 @@
             Iterative.ai：$3.9M <br>
       </td>
       </tr>
+
       <tr>
          <td rowspan="4">
             模型构建
@@ -97,6 +97,63 @@
             深度赋智：数千万人民币 <br>
             智易科技：数百万美元 <br>
             探智立方DarwinML：数百万美元 <br>
+         </td>
+      </tr>
+
+      <tr>
+         <td rowspan="4">
+            部署和监控
+         </td>
+         <td>
+            MlOps
+         </td>
+         <td>
+            Algorithmia：$25M <br>
+            !#iguazio：$24M <br>
+            Spell：$15M <br>
+            #Allegro.ai：$11M <br>
+            Verta.ai：$10M <br>
+            Taktile： <br>
+            #SuperWise.ai $4.5M <br>
+            !Seldon £7.1 <br>
+            #DAGsHub $3M <br>
+            Valohai：$1.8M <br>
+            datatron $1.4M <br>
+            开放智能Open AI LAB <br>
+            #ParallelM 被DataRobot收购 <br>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            特征存储
+         </td>
+         <td>
+            !Tecton：$35M <br>
+            !Molecula：$17.6M <br>
+            Kaskada：$8M <br>
+            !Logicalclocks: €1.3M <br>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            模型监控与可解释性
+         </td>
+         <td>
+            Arthur AI $15M <br>
+            #databand.ai: $14.5M <br>
+            Truera: $12.2M <br>
+            Fiddler Labs $10.2M <br>
+            WhyLabs: $4M <br>
+            瑞莱智慧RealAI 数千万人民币 <br>
+            #Aporia $5M <br>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            数据应用构建
+         </td>
+         <td>
+            Streamlit：$35M
          </td>
       </tr>
    </table>
