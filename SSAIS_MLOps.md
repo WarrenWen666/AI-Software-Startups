@@ -141,8 +141,7 @@
             Fiddler Labs $10.2M <br>
             #Aporia $5M <br>
             WhyLabs: $4M <br>
-            瑞莱智慧RealAI 数千万人民币 <br>
-            
+            瑞莱智慧RealAI 数千万人民币
          </td>
       </tr>
       <tr>
