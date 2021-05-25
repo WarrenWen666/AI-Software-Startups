@@ -67,8 +67,8 @@
          <td>
                !Weights&Biases：$45M <br>
                !Grid AI：$18.6M <br>
+               !#Comet.ml：$13M <br>
                Determined AI：$11M <br>
-               !#Comet.ml：$4.5 <br>
                neptune.ai：$3M <br>
          </td>
       </tr>
