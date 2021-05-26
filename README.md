@@ -20,7 +20,6 @@
 ## 目录
 
 * [AI基础设施Infrastructure](#AI基础设施Infrastructure) 
-  * [软硬件优化](#软硬件优化) 
   * [异构加速器虚拟化](#异构加速器虚拟化) 
   * [数据准备](#数据准备) 
   * [模型构建](#模型构建) 
@@ -79,10 +78,6 @@
   * [物流](#物流) 
   * [工业](#工业) 
 # AI基础设施Infrastructure
->## 软硬件优化
->>>* Weka.IO：$31.7M
->>>* OctoML：$28M
->>>* Neural magic：$15M
 >## 异构加速器虚拟化
 >>>* 趋动科技：数亿元人民币
 >>>* #RunAI：$30M
@@ -106,15 +101,15 @@
 >>>* ！Pachyderm：$16M
 >>>* 格物钛Graviti：千万级美元
 >>>* Superb AI： $9.3M
->>>* Iterative.ai：$3.9M
+>>>* !Iterative.ai：$3.9M
 >## 模型构建
 >>### 深度学习框架
 >>>* ！一流科技OneFlow：5000万人民币
 >>### 训练管理
 >>>* !Weights&Biases：$45M
 >>>* !Grid AI：$18.6M
+>>>* !#Comet.ml：$13M
 >>>* Determined AI：$11M
->>>* !#Comet.ml：$4.5
 >>>* neptune.ai：$3M
 >>### 机器学习平台
 >>>* DataRobot：$270M，$2.8B
@@ -135,7 +130,8 @@
 >>>* 智易科技：数百万美元
 >>>* 探智立方DarwinML：数百万美元
 >## 部署和监控
->>### MlOps
+>>### 部署（MLOps）
+>>>* OctoML：$28M
 >>>* Algorithmia：$25M
 >>>* !#iguazio：$24M
 >>>* Spell：$15M
@@ -154,14 +150,13 @@
 >>>* !Molecula：$17.6M
 >>>* Kaskada：$8M	
 >>>* !Logicalclocks: €1.3M
->>### 模型监控与可解释性
+>>### 监控与可解释性
 >>>* Arthur AI $15M
->>>* #databand.ai: $14.5M
 >>>* Truera: $12.2M
 >>>* Fiddler Labs $10.2M
+>>>* #Aporia $5M
 >>>* WhyLabs: $4M
 >>>* 瑞莱智慧RealAI 数千万人民币
->>>* #Aporia $5M
 >>### 数据应用构建
 >>>* Streamlit：$35M
 >## 安全与隐私
