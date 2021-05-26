@@ -138,7 +138,7 @@
             Arthur AI $15M <br>
             #databand.ai: $14.5M <br>
             Truera: $12.2M <br>
-            Fiddler Labs $10.2M <br>
+            Fiddler AI $10.2M <br>
             #Aporia $5M <br>
             WhyLabs: $4M <br>
             瑞莱智慧RealAI 数千万人民币
