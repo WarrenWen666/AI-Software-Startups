@@ -57,7 +57,8 @@
             深度学习框架
          </td>
          <td>
-            一流科技OneFlow
+            !一流科技OneFlow 5000万人民币
+
          </td>
       </tr>
       <tr>
