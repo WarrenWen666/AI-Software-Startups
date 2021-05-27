@@ -136,7 +136,6 @@
          </td>
          <td>
             Arthur AI $15M <br>
-            #databand.ai: $14.5M <br>
             Truera: $12.2M <br>
             Fiddler AI $10.2M <br>
             #Aporia $5M <br>
