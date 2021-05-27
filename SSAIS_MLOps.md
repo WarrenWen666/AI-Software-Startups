@@ -101,7 +101,7 @@
             部署和监控
          </td>
          <td>
-            MlOps
+            部署
          </td>
          <td>
             Algorithmia：$25M <br>
