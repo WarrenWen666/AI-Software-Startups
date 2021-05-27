@@ -121,7 +121,7 @@
       </tr>
       <tr>
          <td>
-            特征存储
+            Feature Store
          </td>
          <td>
             !Tecton：$35M <br>
