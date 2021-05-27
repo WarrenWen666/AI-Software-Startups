@@ -137,7 +137,7 @@
 >>>* Spell：$15M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
->>>* Taktile：
+>>>* Taktile：€6M
 >>>* #SuperWise.ai $4.5M
 >>>* !Seldon £7.1
 >>>* #DAGsHub $3M
@@ -153,7 +153,7 @@
 >>### 监控与可解释性
 >>>* Arthur AI $15M
 >>>* Truera: $12.2M
->>>* Fiddler Labs $10.2M
+>>>* Fiddler AI $10.2M
 >>>* #Aporia $5M
 >>>* WhyLabs: $4M
 >>>* 瑞莱智慧RealAI 数千万人民币
@@ -168,7 +168,7 @@
 >>>* !Rasa：$26M
 >## 向量搜索与数据库
 >>>* !ZilliZ：4300万美元
->>>* !Jina AI：600万美元
+>>>* ! 极纳科技Jina AI：600万美元
 >>>* Pinecone：$10M
 # 文本NLP
 >>### 预训练模型
@@ -283,7 +283,7 @@
 >>>* Brud $20M, $125M
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：
+>>>* Reface.ai：$5.5M
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
@@ -343,8 +343,6 @@
 >>>* Mabl $20M
 >>>* Test.ai $11M
 >>>* Testim $10M
->>### RPA
->>>* FortressIQ $30M
 >>### 其他
 >>>* 南栖仙策
 >## 运筹优化
@@ -355,18 +353,20 @@
 >>>* nextMV $8M
 # 场景AI
 >## RPA
->>>* Uiptah $750M
->>>* Automation Anywhere $290M
->>>* 来也科技 4200万美元
->>>* 弘玑Cyclone 近4000万美元
->>>* 云扩科技 3000万美元
+>>>* Uiptah：$750M
+>>>* Automation Anywhere：$290M
+>>>* FortressIQ：$30M
+>>>* 来也科技：4200万美元
+>>>* 弘玑Cyclone：近4000万美元
+>>>* 云扩科技：3000万美元
 >>>* 影刀RPA
 >## 工业检测
->>>* 深度视觉
+>>>* 深度视觉：数千万人民币
+>>>* 深浅优视：数千万人民币
 >## 智能运维
->>>* 擎创科技 千万级美元
->>>* 必示科技 1.5亿人民币
->>>* 云兴维智 数千万人民币
+>>>* 擎创科技：千万级美元
+>>>* 必示科技：1.5亿人民币
+>>>* 云兴维智：数千万人民币
 # 行业AI
 >## 零售
 >>>* ImageDT图匠数据：千万级美元
@@ -374,7 +374,7 @@
 >>>* 松鼠AI：10亿人民币
 >## 农业
 >>>* 极飞科技：12亿人民币
->>>* Hypersonix $11.5M
+>>>* Hypersonix：$11.5M
 >>>* 爱科农：
 >## 法律
 >>>* Ross Intelligence
