@@ -1,5 +1,7 @@
    # SSAIS_MLOps：SSAIS中关于MLOps的部分
    
+   知乎解读：https://zhuanlan.zhihu.com/p/375745901
+   
    <table>
       <tr>
          <th>方向</th>
