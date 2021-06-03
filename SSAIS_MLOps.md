@@ -17,7 +17,7 @@
          </td>
          <td>
             Ai.reverie：$5.6M  <br> 
-            #DataGen Technologies：$3.5M
+            DataGen Technologies：$3.5M
          </td>
       </tr>
       <tr>
@@ -29,7 +29,7 @@
             hive.ai：$50M，$2B  <br> 
             LabelBox：$40M <br> 
             ！Snorkel AI：$35M <br> 
-            #Dataloop AI：$11M <br> 
+            Dataloop AI：$11M <br> 
          </td>
       </tr>
       <tr>
@@ -69,7 +69,7 @@
          <td>
                !Weights&Biases：$45M <br>
                !Grid AI：$18.6M <br>
-               !#Comet.ml：$13M <br>
+               !Comet.ml：$13M <br>
                Determined AI：$11M <br>
                neptune.ai：$3M <br>
          </td>
@@ -107,18 +107,18 @@
          </td>
          <td>
             Algorithmia：$25M <br>
-            !#iguazio：$24M <br>
+            !iguazio：$24M <br>
             Spell：$15M <br>
-            #Allegro.ai：$11M <br>
+            Allegro.ai：$11M <br>
             Verta.ai：$10M <br>
             Taktile： <br>
-            #SuperWise.ai $4.5M <br>
+            SuperWise.ai $4.5M <br>
             !Seldon £7.1 <br>
-            #DAGsHub $3M <br>
+            DAGsHub $3M <br>
             Valohai：$1.8M <br>
             datatron $1.4M <br>
             开放智能Open AI LAB <br>
-            #ParallelM 被DataRobot收购 <br>
+            ParallelM 被DataRobot收购 <br>
          </td>
       </tr>
       <tr>
@@ -140,7 +140,7 @@
             Arthur AI $15M <br>
             Truera: $12.2M <br>
             Fiddler AI $10.2M <br>
-            #Aporia $5M <br>
+            Aporia $5M <br>
             WhyLabs: $4M <br>
             瑞莱智慧RealAI 数千万人民币
          </td>
