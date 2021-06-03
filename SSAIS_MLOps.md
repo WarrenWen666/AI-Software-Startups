@@ -81,7 +81,9 @@
          </td>
          <td>
                <a href="https://github.com/wandb">Weights&Biases</a>：$45M <br>
+               <a href="https://github.com/wandb">Grid AI</a>：$18.6M
                <a href="https://github.com/wandb">Comet.ml</a>：$13M <br>
+            
          </td>
       </tr>
       <tr>
