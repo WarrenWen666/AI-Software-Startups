@@ -50,17 +50,15 @@
             数据版本管理和托管
          </td>
          <td>
-
             格物钛Graviti：千万级美元 <br>
             Superb AI： $9.3M <br>
-
       </td>
       <td>
-            ！Pachyderm：$16M <br>
-            ！Iterative.ai：$3.9M <br>
+            Pachyderm：$16M <br>
+            Iterative.ai：$3.9M <br>
       </td>
       </tr>
-    <tr>
+      <tr>
          <td rowspan="3">
             模型构建
          </td>
@@ -68,6 +66,8 @@
             深度学习框架
          </td>
          <td>
+         </td>
+                  <td>
             !一流科技OneFlow 5000万人民币
          </td>
       </tr>
@@ -76,11 +76,13 @@
             训练管理
          </td>
          <td>
-               !Weights&Biases：$45M <br>
-               !Grid AI：$18.6M <br>
-               !Comet.ml：$13M <br>
                Determined AI：$11M <br>
                neptune.ai：$3M <br>
+         </td>
+         <td>
+               Weights&Biases：$45M <br>
+               Grid AI：$18.6M <br>
+               Comet.ml：$13M <br>
          </td>
       </tr>
       <tr>
@@ -106,6 +108,8 @@
             智易科技：数百万美元 <br>
             探智立方DarwinML：数百万美元 <br>
          </td>
+         <td>
+         </td>
       </tr>
       <tr>
          <td rowspan="4">
@@ -116,18 +120,20 @@
          </td>
          <td>
             Algorithmia：$25M <br>
-            !iguazio：$24M <br>
             Spell：$15M <br>
             Allegro.ai：$11M <br>
             Verta.ai：$10M <br>
             Taktile： <br>
             SuperWise.ai $4.5M <br>
-            !Seldon £7.1 <br>
             DAGsHub $3M <br>
             Valohai：$1.8M <br>
             datatron $1.4M <br>
             开放智能Open AI LAB <br>
             ParallelM 被DataRobot收购 <br>
+         </td>
+         <td>
+            iguazio：$24M <br>
+            Seldon £7.1 <br>
          </td>
       </tr>
       <tr>
@@ -135,10 +141,12 @@
             Feature Store
          </td>
          <td>
-            !Tecton：$35M <br>
-            !Molecula：$17.6M <br>
             Kaskada：$8M <br>
-            !Logicalclocks: €1.3M <br>
+         </td>
+         <td>
+            Tecton：$35M <br>
+            Molecula：$17.6M <br>
+            Logicalclocks: €1.3M <br>
          </td>
       </tr>
       <tr>
@@ -153,10 +161,14 @@
             WhyLabs: $4M <br>
             瑞莱智慧RealAI 数千万人民币
          </td>
+         <td>
+         </td>
       </tr>
       <tr>
          <td>
             数据应用构建
+         </td>
+         <td>
          </td>
          <td>
             Streamlit：$35M
