@@ -34,7 +34,7 @@
             Dataloop AI：$11M <br> 
          </td>
          <td>
-            <a href="https://zhuanlan.zhihu.com/p/375745901">Snorkel AI</a>：$35M <br> 
+            <a href="https://github.com/snorkel-team">Snorkel AI</a>：$35M <br> 
          </td>
       </tr>
       <tr>
@@ -54,8 +54,9 @@
             Superb AI： $9.3M <br>
       </td>
       <td>
-            Pachyderm：$16M <br>
-            Iterative.ai：$3.9M <br>
+            
+            <a href="https://github.com/pachyderm">Pachyderm</a>：$16M <br>
+            <a href="https://github.com/iterative">Iterative.ai</a>：$3.9M <br>
       </td>
       </tr>
       <tr>
@@ -67,8 +68,8 @@
          </td>
          <td>
          </td>
-                  <td>
-            !一流科技OneFlow 5000万人民币
+         <td>
+            <a href="https://github.com/Oneflow-Inc">一流科技OneFlow</a>：5000万人民币 <br>
          </td>
       </tr>
       <tr>
@@ -80,7 +81,7 @@
                neptune.ai：$3M <br>
          </td>
          <td>
-               Weights&Biases：$45M <br>
+               <a href="https://github.com/wandb">Weights&Biases</a>：$45M <br>
                Grid AI：$18.6M <br>
                Comet.ml：$13M <br>
          </td>
@@ -132,8 +133,9 @@
             ParallelM 被DataRobot收购 <br>
          </td>
          <td>
-            iguazio：$24M <br>
-            Seldon £7.1 <br>
+            
+            <a href="https://github.com/mlrun/mlrun">iguazio</a>：$24M <br>
+            <a href="https://github.com/SeldonIO">Seldon</a>：£7.1 <br>
          </td>
       </tr>
       <tr>
@@ -144,7 +146,7 @@
             Kaskada：$8M <br>
          </td>
          <td>
-            Tecton：$35M <br>
+            <a href="https://github.com/feast-dev">Tecton</a>：$35M <br>
             Molecula：$17.6M <br>
             Logicalclocks: €1.3M <br>
          </td>
