@@ -92,7 +92,6 @@
          <td>
             DataRobot：$270M，$2.8B <br>
             Dataiku：$100M <br>
-            !H2O.ai：$72.5M <br>
             domino data：$43M <br>
             Pecan：$35M <br>
             abacus.ai：$22M <br>
@@ -109,6 +108,7 @@
             探智立方DarwinML：数百万美元 <br>
          </td>
          <td>
+            <a href="https://github.com/h2oai">H2O.ai</a>：$72.5M <br>
          </td>
       </tr>
       <tr>
