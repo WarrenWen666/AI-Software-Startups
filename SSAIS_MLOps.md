@@ -7,6 +7,7 @@
          <th>方向</th>
          <th>子方向</th>
          <th>公司</th>
+         <th>是否开源</th>
       </tr>
       <tr>
          <td rowspan="4">
