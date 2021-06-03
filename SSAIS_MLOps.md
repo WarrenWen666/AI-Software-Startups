@@ -34,7 +34,7 @@
             Dataloop AI：$11M <br> 
          </td>
          <td>
-            [Snorkel AI](https://github.com/snorkel-team/snorkel)：$35M <br> 
+            [Snorkel.ai](https://github.com/snorkel-team/snorkel)：$35M <br> 
          </td>
       </tr>
       <tr>
