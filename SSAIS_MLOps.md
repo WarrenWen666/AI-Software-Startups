@@ -81,8 +81,7 @@
          </td>
          <td>
                <a href="https://github.com/wandb">Weights&Biases</a>：$45M <br>
-               Grid AI：$18.6M <br>
-               Comet.ml：$13M <br>
+               <a href="https://github.com/wandb">Comet.ml</a>：$13M <br>
          </td>
       </tr>
       <tr>
@@ -146,7 +145,7 @@
          <td>
             <a href="https://github.com/feast-dev">Tecton</a>：$35M <br>
             Molecula：$17.6M <br>
-            Logicalclocks: €1.3M <br>
+            <a href="https://github.com/logicalclocks">Logicalclocks</a>: €1.3M <br>
          </td>
       </tr>
       <tr>
@@ -171,7 +170,7 @@
          <td>
          </td>
          <td>
-            Streamlit：$35M
+            <a href="https://github.com/streamlit">Streamlit</a>：$35M
          </td>
       </tr>
    </table>
