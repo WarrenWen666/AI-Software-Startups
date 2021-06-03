@@ -20,6 +20,8 @@
             Ai.reverie：$5.6M  <br> 
             DataGen Technologies：$3.5M
          </td>
+         <td>
+         </td>
       </tr>
       <tr>
          <td>
