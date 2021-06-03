@@ -132,7 +132,6 @@
             ParallelM 被DataRobot收购 <br>
          </td>
          <td>
-            
             <a href="https://github.com/mlrun/mlrun">iguazio</a>：$24M <br>
             <a href="https://github.com/SeldonIO">Seldon</a>：£7.1 <br>
          </td>
