@@ -54,7 +54,6 @@
             Superb AI： $9.3M <br>
       </td>
       <td>
-            
             <a href="https://github.com/pachyderm">Pachyderm</a>：$16M <br>
             <a href="https://github.com/iterative">Iterative.ai</a>：$3.9M <br>
       </td>
