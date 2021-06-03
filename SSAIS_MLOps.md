@@ -34,9 +34,7 @@
             Dataloop AI：$11M <br> 
          </td>
          <td>
-            [Snorkel.ai](https://github.com/snorkel-team/snorkel)
-            ：$35M <br> 
-            [MLOps: 数据编程时代的工具链创业机会](https://zhuanlan.zhihu.com/p/375745901)
+            <a href="https://zhuanlan.zhihu.com/p/375745901">Snorkel AI</a>：$35M <br> 
          </td>
       </tr>
       <tr>
