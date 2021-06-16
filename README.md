@@ -160,7 +160,7 @@
 >>### 数据应用构建
 >>>* Streamlit：$35M
 >## 安全与隐私
->>>* [anthropic](https://www.anthropic.com/)：$124M  Building Reliable, Interpretable, and Steerable AI Systems
+>>>* [anthropic](https://www.anthropic.com/)：$124M  ==》Building Reliable, Interpretable, and Steerable AI Systems
 >>>* Robust Intelligence：$11M
 >>>* 瑞莱智慧RealAI：数千万人民币
 >>>* #D-ID $13.5M
