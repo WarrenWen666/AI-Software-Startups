@@ -151,9 +151,9 @@
 >>>* Kaskada：$8M	
 >>>* !Logicalclocks: €1.3M
 >>### 监控与可解释性
+>>>* Fiddler AI $32M
 >>>* Arthur AI $15M
 >>>* Truera: $12.2M
->>>* Fiddler AI $10.2M
 >>>* #Aporia $5M
 >>>* WhyLabs: $4M
 >>>* 瑞莱智慧RealAI 数千万人民币
