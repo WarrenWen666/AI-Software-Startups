@@ -109,8 +109,8 @@
 >>>* !Weights&Biases：$45M
 >>>* !Grid AI：$18.6M
 >>>* !#Comet.ml：$13M
->>>* Determined AI：$11M
 >>>* neptune.ai：$3M
+>>>* Determined AI被HPE收购
 >>### 机器学习平台
 >>>* DataRobot：$270M，$2.8B
 >>>* Dataiku：$100M
