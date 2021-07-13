@@ -27,15 +27,19 @@
   * [安全与隐私](#安全与隐私) 
   * [NLP](#NLP) 
   * [向量搜索与数据库](#向量搜索与数据库) 
+  * [水下](#水下) 
+* [AI infra大厂](#AI infra大厂) 
+  * [云厂商](#云厂商) 
 * [文本NLP](#文本NLP) 
+  * [预训练模型](#预训练模型) 
   * [机器翻译](#机器翻译) 
   * [文本重写](#文本重写) 
   * [Chatbot](#Chatbot) 
   * [背景调查](#背景调查) 
-  * [招聘](#招聘) 
   * [OCR](#OCR) 
   * [合同审查](#合同审查) 
   * [销售](#销售) 
+  * [NLQ](#NLQ) 
   * [代码](#代码) 
   * [其他](#其他) 
 * [视觉Vision](#视觉Vision) 
@@ -62,6 +66,7 @@
   * [强化学习](#强化学习) 
   * [运筹优化](#运筹优化) 
 * [场景AI](#场景AI) 
+  * [人力](#人力) 
   * [RPA](#RPA) 
   * [工业检测](#工业检测) 
   * [智能运维](#智能运维) 
@@ -87,8 +92,8 @@
 >>>* Trifacta：$100M
 >>>* #explorium：$31M
 >>### 数据合成
+>>>* #DataGen Technologies：$18.5M
 >>>* Ai.reverie：$5.6M
->>>* #DataGen Technologies：$3.5M
 >>### 数据标注
 >>>* Scale.ai：$325M，$7B 
 >>>* hive.ai：$50M，$2B
@@ -109,8 +114,8 @@
 >>>* !Weights&Biases：$45M
 >>>* !Grid AI：$18.6M
 >>>* !#Comet.ml：$13M
+>>>* Determined AI：$11M
 >>>* neptune.ai：$3M
->>>* Determined AI被HPE收购
 >>### 机器学习平台
 >>>* DataRobot：$270M，$2.8B
 >>>* Dataiku：$100M
@@ -130,14 +135,14 @@
 >>>* 智易科技：数百万美元
 >>>* 探智立方DarwinML：数百万美元
 >## 部署和监控
->>### 部署
+>>### MLOps
 >>>* OctoML：$28M
 >>>* Algorithmia：$25M
 >>>* !#iguazio：$24M
 >>>* Spell：$15M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
->>>* Taktile：
+>>>* Taktile：€6M
 >>>* #SuperWise.ai $4.5M
 >>>* !Seldon £7.1
 >>>* #DAGsHub $3M
@@ -145,22 +150,21 @@
 >>>* datatron $1.4M
 >>>* 开放智能Open AI LAB
 >>>* #ParallelM 被DataRobot收购
->>### 特征存储
+>>### Feature Store
 >>>* !Tecton：$35M
 >>>* !Molecula：$17.6M
 >>>* Kaskada：$8M	
 >>>* !Logicalclocks: €1.3M
 >>### 监控与可解释性
->>>* Fiddler AI $32M
 >>>* Arthur AI $15M
 >>>* Truera: $12.2M
+>>>* Fiddler AI $10.2M
 >>>* #Aporia $5M
 >>>* WhyLabs: $4M
 >>>* 瑞莱智慧RealAI 数千万人民币
 >>### 数据应用构建
 >>>* Streamlit：$35M
 >## 安全与隐私
->>>* [anthropic](https://www.anthropic.com/)：$124M  ==》Building Reliable, Interpretable, and Steerable AI Systems
 >>>* Robust Intelligence：$11M
 >>>* 瑞莱智慧RealAI：数千万人民币
 >>>* #D-ID $13.5M
@@ -171,8 +175,18 @@
 >>>* !ZilliZ：4300万美元
 >>>* ! 极纳科技Jina AI：600万美元
 >>>* Pinecone：$10M
+>## 水下
+>>>* insightface.ai
+# AI infra大厂
+>>### Gartner
+>>>* DSML
+>>>* Magic Quadrant for Cloud AI Developer Services
+>## 云厂商
+>>### AWS：
 # 文本NLP
->>### 预训练模型
+>>### NLP
+>>>* primer.ai：$110M
+>## 预训练模型
 >>>* cohere.ai
 >## 机器翻译
 >>>* Unbabel：$60M
@@ -197,13 +211,6 @@
 >>>* Checkr $160M
 >>>* Middesk $4M
 >>>* i背调：数千万人民币
->## 招聘
->>>* Eightfold $125M
->>>* Turing.com $32M
->>>* e成科技 8000万美元
->>>* Bello倍罗 数千万人民币
->>>* 近屿智能 数千万人民币
->>>* 方便面面试
 >## OCR
 >>>* HyperScience：$80M
 >>>* Eigen Technologies：$37M
@@ -223,8 +230,12 @@
 >>>* 客知音：千万级人民币
 >>>* 深维智信：350万美元
 >>>* 循环智能
+>## NLQ
+>>>* ThoughtSpot: $248M
+>>>* 北极数据：
 >## 代码
 >>>* Kite: $17M
+>>>* Tabnine：$12M
 >## 其他
 >>>* 达观数据 2.7亿人民币
 >>>* #A21 labs
@@ -284,7 +295,7 @@
 >>>* Brud $20M, $125M
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：
+>>>* Reface.ai：$5.5M
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
@@ -312,6 +323,7 @@
 >>>* Otter.ai $50M
 >>>* Descript $30M
 >>>* DeepGram：$25M
+>>>* Fireflies.ai：$14M
 >>>* 魔音助手 
 >## 声纹识别
 >>>* 声扬科技VoiceAI 近亿人民币
@@ -353,6 +365,15 @@
 >>>* 智因科技 
 >>>* nextMV $8M
 # 场景AI
+>## 人力
+>>>* Eightfold：$220M
+>>>* Pymetrics：$40m
+>>>* Turing.com：$32M
+>>>* Truework：$30M
+>>>* e成科技：8000万美元
+>>>* Bello倍罗：数千万人民币
+>>>* 近屿智能：数千万人民币
+>>>* 方便面面试
 >## RPA
 >>>* Uiptah：$750M
 >>>* Automation Anywhere：$290M
