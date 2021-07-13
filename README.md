@@ -28,8 +28,6 @@
   * [NLP](#NLP) 
   * [向量搜索与数据库](#向量搜索与数据库) 
   * [水下](#水下) 
-* [AI infra大厂](#AI infra大厂) 
-  * [云厂商](#云厂商) 
 * [文本NLP](#文本NLP) 
   * [预训练模型](#预训练模型) 
   * [机器翻译](#机器翻译) 
@@ -83,6 +81,7 @@
   * [物流](#物流) 
   * [工业](#工业) 
 # AI基础设施Infrastructure
+>>>* AI infra大厂
 >## 异构加速器虚拟化
 >>>* 趋动科技：数亿元人民币
 >>>* #RunAI：$30M
@@ -177,12 +176,6 @@
 >>>* Pinecone：$10M
 >## 水下
 >>>* insightface.ai
-# AI infra大厂
->>### Gartner
->>>* DSML
->>>* Magic Quadrant for Cloud AI Developer Services
->## 云厂商
->>### AWS：
 # 文本NLP
 >>### NLP
 >>>* primer.ai：$110M
