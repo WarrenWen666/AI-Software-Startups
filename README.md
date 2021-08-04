@@ -134,19 +134,20 @@
 >## 部署和监控
 >>### MLOps
 >>>* OctoML：$28M
->>>* Algorithmia：$25M
 >>>* !#iguazio：$24M
 >>>* Spell：$15M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
 >>>* Taktile：€6M
 >>>* #SuperWise.ai $4.5M
->>>* !Seldon £7.1
->>>* #DAGsHub $3M
+>>>* !Seldon：£7.1
+>>>* #DAGsHub：$3M
 >>>* Valohai：$1.8M
->>>* datatron $1.4M
+>>>* Datatron：$1.4M
 >>>* 开放智能Open AI LAB
->>>* #ParallelM 被DataRobot收购
+>>>* BentoML.ai
+>>>* #ParallelM：被DataRobot收购
+>>>* Algorithmia：被DataRobot收购
 >>### Feature Store
 >>>* !Tecton：$35M
 >>>* !Molecula：$17.6M
