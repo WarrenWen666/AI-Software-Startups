@@ -115,7 +115,7 @@
 >>>* neptune.ai：$3M
 >>### 机器学习平台
 >>>* DataRobot：$250M，估值$6B
->>>* Dataiku：$100M
+>>>* Dataiku：$400M, 估值$4.2B
 >>>* !H2O.ai：$72.5M
 >>>* domino data：$43M
 >>>* Pecan：$35M
