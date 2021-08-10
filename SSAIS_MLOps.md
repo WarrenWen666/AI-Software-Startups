@@ -87,7 +87,7 @@
       </tr>
       <tr>
          <td>
-            机器学习平台
+            建模
          </td>
          <td>
             DataRobot：$270M，$2.8B <br>
