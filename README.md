@@ -113,7 +113,7 @@
 >>>* !#Comet.ml：$13M
 >>>* Determined AI：$11M
 >>>* neptune.ai：$3M
->>### AutoML
+>>### 建模
 >>>* DataRobot：$250M，估值$6B
 >>>* Dataiku：$400M, 估值$4.2B
 >>>* !H2O.ai：$72.5M
