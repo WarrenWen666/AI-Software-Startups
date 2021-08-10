@@ -94,8 +94,8 @@
 >>### 数据标注
 >>>* Scale.ai：$325M，估值$7B 
 >>>* hive.ai：$50M，$2B
+>>>* ！Snorkel AI：$85M，估值$1B
 >>>* LabelBox：$40M
->>>* ！Snorkel AI：$35M
 >>>* #Dataloop AI：$11M
 >>### 数据质量
 >>>* Aquarium：$2.6M
@@ -113,7 +113,7 @@
 >>>* !#Comet.ml：$13M
 >>>* Determined AI：$11M
 >>>* neptune.ai：$3M
->>### 机器学习平台
+>>### AutoML
 >>>* DataRobot：$250M，估值$6B
 >>>* Dataiku：$400M, 估值$4.2B
 >>>* !H2O.ai：$72.5M
