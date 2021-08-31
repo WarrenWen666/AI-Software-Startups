@@ -138,7 +138,7 @@
 >>>* Spell：$15M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
->>>* Taktile：
+>>>* Taktile：€6M
 >>>* #SuperWise.ai：$4.5M
 >>>* !Seldon：£7.1
 >>>* #DAGsHub：$3M
@@ -152,7 +152,7 @@
 >>>* !Tecton：$35M
 >>>* !Molecula：$17.6M
 >>>* Kaskada：$8M	
->>>* !Logicalclocks: €1.3M
+>>>* !Logicalclocks：€1.3M
 >>### 监控与可解释性
 >>>* Arthur AI：$15M
 >>>* #databand.ai：$14.5M
@@ -174,7 +174,6 @@
 >>>* !ZilliZ：4300万美元
 >>>* ! 极纳科技Jina AI：600万美元
 >>>* Pinecone：$10M
->>>* insightface.ai
 # 文本NLP
 >>### NLP
 >>>* primer.ai：$110M
@@ -287,7 +286,7 @@
 >>>* Brud $20M, $125M
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：
+>>>* Reface.ai：$5.5M
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
