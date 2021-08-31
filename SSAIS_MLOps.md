@@ -120,18 +120,18 @@
             部署（狭义MLOps）
          </td>
          <td>
-            OctoML：$28M
-            Spell：$15M
-            Allegro.ai：$11M
-            Verta.ai：$10M
-            Taktile：€6M
-            SuperWise.ai $4.5M
-            DAGsHub：$3M
-            Valohai：$1.8M
-            Datatron：$1.4M
-            开放智能Open AI LAB
-            BentoML.ai
-            ParallelM：被DataRobot收购
+            OctoML：$28M <br>
+            Spell：$15M <br> <br>
+            Allegro.ai：$11M <br>
+            Verta.ai：$10M <br>
+            Taktile：€6M <br>
+            SuperWise.ai $4.5M <br>
+            DAGsHub：$3M <br>
+            Valohai：$1.8M <br>
+            Datatron：$1.4M <br>
+            开放智能Open AI LAB <br>
+            BentoML.ai <br>
+            ParallelM：被DataRobot收购 <br>
             Algorithmia：被DataRobot收购
          </td>
          <td>
