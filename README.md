@@ -138,7 +138,6 @@
 >>>* Spell：$15M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
->>>* Taktile：€6M
 >>>* #SuperWise.ai：$4.5M
 >>>* !Seldon：£7.1
 >>>* #DAGsHub：$3M
