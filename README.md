@@ -132,7 +132,7 @@
 >>>* 探智立方DarwinML：数百万美元
 >>>* cnvrg.io 被intel收购
 >## 部署和监控
->>### MLOps
+>>### 部署（狭义MLOps）
 >>>* OctoML：$28M
 >>>* !#iguazio：$24M
 >>>* Spell：$15M
@@ -154,12 +154,12 @@
 >>>* Kaskada：$8M	
 >>>* !Logicalclocks: €1.3M
 >>### 监控与可解释性
->>>* Arthur AI $15M
->>>* Truera: $12.2M
->>>* Fiddler AI $10.2M
->>>* #Aporia $5M
->>>* WhyLabs: $4M
->>>* 瑞莱智慧RealAI 数千万人民币
+>>>* Arthur AI：$15M
+>>>* Truera：$12.2M
+>>>* Fiddler AI：$10.2M
+>>>* #Aporia：$5M
+>>>* WhyLabs：$4M
+>>>* 瑞莱智慧RealAI：数千万人民币
 >>### 数据应用构建
 >>>* Streamlit：$35M
 >## 安全与隐私
