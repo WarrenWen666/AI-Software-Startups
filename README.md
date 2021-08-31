@@ -130,7 +130,7 @@
 >>>* 和鲸科技：数百万美元
 >>>* 智易科技：数百万美元
 >>>* 探智立方DarwinML：数百万美元
->>>* cnvrg.io 被intel收购
+>>>* cnvrg.io被intel收购
 >## 部署和监控
 >>### 部署（狭义MLOps）
 >>>* OctoML：$28M
@@ -138,8 +138,8 @@
 >>>* Spell：$15M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
->>>* Taktile：€6M
->>>* #SuperWise.ai $4.5M
+>>>* Taktile：
+>>>* #SuperWise.ai：$4.5M
 >>>* !Seldon：£7.1
 >>>* #DAGsHub：$3M
 >>>* Valohai：$1.8M
@@ -155,6 +155,7 @@
 >>>* !Logicalclocks: €1.3M
 >>### 监控与可解释性
 >>>* Arthur AI：$15M
+>>>* #databand.ai：$14.5M
 >>>* Truera：$12.2M
 >>>* Fiddler AI：$10.2M
 >>>* #Aporia：$5M
@@ -165,7 +166,7 @@
 >## 安全与隐私
 >>>* Robust Intelligence：$11M
 >>>* 瑞莱智慧RealAI：数千万人民币
->>>* #D-ID $13.5M
+>>>* #D-ID：$13.5M
 >## NLP
 >>>* !Hugging Face：$40M
 >>>* !Rasa：$26M
@@ -286,7 +287,7 @@
 >>>* Brud $20M, $125M
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：$5.5M
+>>>* Reface.ai：
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
