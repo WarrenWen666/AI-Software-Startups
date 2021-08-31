@@ -91,8 +91,7 @@
          </td>
          <td>        
             DataRobot：$250M，估值$6B <br>
-            Dataiku：$400M，估值$4.2B <br>
-            !H2O.ai：$72.5M <br>
+            Dataiku：$400M，估值$4.2B <br>          
             domino data：$43M <br>
             Pecan：$35M <br>
             abacus.ai：$22M <br>
@@ -110,6 +109,7 @@
          </td>
          <td>
             <a href="https://github.com/h2oai">H2O.ai</a>：$72.5M <br>
+            <a href="https://github.com/h2oai">Hugging Face</a>：$40M <br>
          </td>
       </tr>
       <tr>
