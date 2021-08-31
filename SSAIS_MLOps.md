@@ -177,4 +177,17 @@
             <a href="https://github.com/streamlit">Streamlit</a>：$35M
          </td>
       </tr>
+      <tr>
+         <td rowspan="4">
+            其他
+         </td>
+         <td>
+            NLP
+         </td>
+         <td>
+            Ai.reverie：$5.6M  <br> 
+            DataGen Technologies：$3.5M
+         </td>
+      <td>
+         </td
    </table>
