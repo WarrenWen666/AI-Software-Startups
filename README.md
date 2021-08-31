@@ -115,22 +115,22 @@
 >>>* neptune.ai：$3M
 >>### 建模
 >>>* DataRobot：$250M，估值$6B
->>>* Dataiku：$400M， 估值$4.2B
+>>>* Dataiku：$400M，估值$4.2B
 >>>* !H2O.ai：$72.5M
 >>>* domino data：$43M
 >>>* Pecan：$35M
 >>>* abacus.ai：$22M 
 >>>* RapidMiner：$16M  
 >>>* Machinify：$10M
->>>* 第四范式：7亿美元
+>>>* 第四范式：7亿美元，估值30亿美元
 >>>* DataCanvas：1.2亿人民币
 >>>* 和鲸科技：数百万美元
->>>* cnvrg.io 被intel收购
 >>>* 星环科技：5亿人民币
 >>>* 行动贝果：3443万人民币
 >>>* 深度赋智：数千万人民币
 >>>* 智易科技：数百万美元
 >>>* 探智立方DarwinML：数百万美元
+>>>* cnvrg.io 被intel收购
 >## 部署和监控
 >>### MLOps
 >>>* OctoML：$28M
