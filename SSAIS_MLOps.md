@@ -199,8 +199,8 @@
             Pinecone：$10M
          </td>
          <td>
-            <a href="https://github.com/snorkel-team">Zilliz</a>：4300万美元 <br> 
-            <a href="https://github.com/snorkel-team">极纳科技Jina</a>：600万美元 <br> 
+            <a href="https://github.com/milvus-io">Zilliz</a>：4300万美元 <br> 
+            <a href="https://github.com/jina-ai">极纳科技Jina AI</a>：600万美元 <br> 
          </td>
       </tr>
    </table>
