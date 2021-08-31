@@ -185,9 +185,22 @@
             NLP
          </td>
          <td>
-            Ai.reverie：$5.6M  <br> 
-            DataGen Technologies：$3.5M
          </td>
-      <td>
-         </td
+         <td>
+            <a href="https://github.com/huggingface">Hugging Face</a>：$40M <br>
+            <a href="https://github.com/RasaHQ">Rasa</a>：$26M
+         </td>
+      </tr>
+      <tr>
+         <td>
+            向量搜索与数据库
+         </td>
+         <td>          
+            Pinecone：$10M
+         </td>
+         <td>
+            <a href="https://github.com/snorkel-team">Zilliz</a>：4300万美元 <br> 
+            <a href="https://github.com/snorkel-team">极纳科技Jina</a>：600万美元 <br> 
+         </td>
+      </tr>
    </table>
