@@ -100,7 +100,7 @@
 >>### 数据质量
 >>>* Aquarium：$2.6M
 >>### 数据版本管理和托管
->>>* ！Pachyderm：$16M
+>>>* !Pachyderm：$16M
 >>>* 格物钛Graviti：千万级美元
 >>>* Superb AI： $9.3M
 >>>* !Iterative.ai：$3.9M
