@@ -129,12 +129,12 @@
             DAGsHub：$3M <br>
             Valohai：$1.8M <br>
             Datatron：$1.4M <br>
-            开放智能Open AI LAB <br>
-            BentoML.ai <br>
             ParallelM：被DataRobot收购 <br>
             Algorithmia：被DataRobot收购
          </td>
          <td>
+            <a href="https://github.com/OAID">开放智能Open AI LAB</a> <br>
+            <a href="https://github.com/SeldonIO">BentoML.ai</a> <br>
             <a href="https://github.com/mlrun/mlrun">iguazio</a>：$24M <br>
             <a href="https://github.com/SeldonIO">Seldon</a>：£7.1 <br>
          </td>
