@@ -121,7 +121,7 @@
          </td>
          <td>
             OctoML：$28M <br>
-            Spell：$15M <br> <br>
+            Spell：$15M <br> 
             Allegro.ai：$11M <br>
             Verta.ai：$10M <br>
             Taktile：€6M <br>
