@@ -109,7 +109,7 @@
          </td>
          <td>
             <a href="https://github.com/h2oai">H2O.ai</a>：$72.5M <br>
-            <a href="https://github.com/h2oai">Hugging Face</a>：$40M <br>
+            <a href="https://github.com/huggingface/transformers">Hugging Face</a>：$40M <br>
          </td>
       </tr>
       <tr>
