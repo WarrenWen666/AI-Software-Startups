@@ -93,7 +93,7 @@
 >>>* Ai.reverie：$5.6M
 >>### 数据标注
 >>>* Scale.ai：$325M，估值$7B 
->>>* hive.ai：$50M，$2B
+>>>* hive.ai：$50M，估值$2B
 >>>* ！Snorkel AI：$85M，估值$1B
 >>>* LabelBox：$40M
 >>>* #Dataloop AI：$11M
@@ -115,7 +115,7 @@
 >>>* neptune.ai：$3M
 >>### 建模
 >>>* DataRobot：$250M，估值$6B
->>>* Dataiku：$400M, 估值$4.2B
+>>>* Dataiku：$400M， 估值$4.2B
 >>>* !H2O.ai：$72.5M
 >>>* domino data：$43M
 >>>* Pecan：$35M
