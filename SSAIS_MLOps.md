@@ -98,7 +98,6 @@
             RapidMiner：$16M <br>
             Machinify：$10M <br>
             第四范式：7亿美元，估值30亿美元 <br>
-            星环科技：5亿人民币 <br>
             九章云极DataCanvas：3亿人民币 <br>
             行动贝果：3443万人民币 <br>
             深度赋智：数千万人民币 <br>
