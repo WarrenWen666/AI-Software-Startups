@@ -76,8 +76,8 @@
             训练管理
          </td>
          <td>
-               Determined AI：$11M <br>
                neptune.ai：$3M <br>
+               Determined AI：被收购<br>
          </td>
          <td>
                <a href="https://github.com/wandb">Weights&Biases</a>：$45M <br>
