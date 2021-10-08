@@ -156,9 +156,9 @@
             监控与可解释性
          </td>
          <td>
+            Fiddler AI：$32M <br>
             Arthur AI：$15M <br>
             Truera：$12.2M <br>
-            Fiddler AI：$10.2M <br>
             #Aporia：$5M <br>
             WhyLabs：$4M <br>
             瑞莱智慧RealAI：数千万人民币
