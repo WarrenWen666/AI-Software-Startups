@@ -147,7 +147,8 @@
             Kaskada：$8M <br>
          </td>
          <td>
-            <a href="https://github.com/feast-dev">Tecton</a>：$35M <br>
+            <a href="https://github.com/feast-dev">Tecton</a>：$35M <br> 
+            <a href="https://github.com/rasgointelligence">rasgom</a>：$20M <br>
             <a href="">Molecula</a>：$17.6M <br>
             <a href="https://github.com/logicalclocks">Logicalclocks</a>: €1.3M <br>
          </td>
