@@ -17,7 +17,7 @@
             数据合成
          </td>
          <td>
-            Tonic.ai：$35M
+            Tonic.ai：$35M  <br>
             Ai.reverie：$5.6M  <br> 
             DataGen Technologies：$3.5M
          </td>
