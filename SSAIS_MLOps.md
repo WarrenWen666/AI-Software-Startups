@@ -32,6 +32,7 @@
             Scale.ai：$325M，估值$7B <br> 
             hive.ai：$50M，估值$2B <br> 
             LabelBox：$40M <br> 
+            Super.ai：$12M <br> 
             Dataloop AI：$11M <br> 
          </td>
          <td>
