@@ -84,7 +84,7 @@
                Determined AI：被收购<br>
          </td>
          <td>
-               <a href="https://github.com/wandb">Weights&Biases</a>：$45M <br>
+               <a href="https://github.com/wandb">Weights&Biases</a>：$135M,估值$865M <br>
                <a href="https://github.com/PyTorchLightning">Grid AI</a>：$18.6M <br>
                <a href="https://github.com/wandb">Comet.ml</a>：$13M <br>
          </td>
