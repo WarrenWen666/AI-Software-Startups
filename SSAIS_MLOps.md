@@ -63,8 +63,21 @@
       </td>
       </tr>
       <tr>
-         <td rowspan="3">
+         <td rowspan="4">
             模型构建
+         </td>
+         <td>
+            IDE
+         </td>
+         <td>
+            Hex Technologies：$5.5M <br>
+            Noteable：$4.1M <br>
+            Saturn Cloud：$4M <br>
+            Deepnote：$3.8M <br>
+            Count：$2.4M <br>
+            Curvenote：CA$1.1M <br>
+         </td>
+         <td>
          </td>
          <td>
             深度学习框架
