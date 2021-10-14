@@ -67,25 +67,27 @@
             模型构建
          </td>
          <td>
-            IDE
-         </td>
-         <td>
-            Hex Technologies：$5.5M <br>
-            Noteable：$4.1M <br>
-            Saturn Cloud：$4M <br>
-            Deepnote：$3.8M <br>
-            Count：$2.4M <br>
-            Curvenote：CA$1.1M <br>
-         </td>
-         <td>
-         </td>
-         <td>
             深度学习框架
          </td>
          <td>
          </td>
          <td>
             <a href="https://github.com/Oneflow-Inc">一流科技OneFlow</a>：5000万人民币 <br>
+         </td>
+      </tr>   
+      <tr>
+         <td>
+            IDE
+         </td>
+         <td>
+               Hex Technologies：$5.5M <br>
+               Noteable：$4.1M <br>
+               Saturn Cloud：$4M <br>
+               Deepnote：$3.8M <br>
+               Count：$2.4M <br>
+               Curvenote：CA$1.1M <br>
+         </td>
+         <td>
          </td>
       </tr>
       <tr>
