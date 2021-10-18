@@ -145,7 +145,7 @@
          </td>
       </tr>
       <tr>
-         <td rowspan="4">
+         <td rowspan="3">
             部署和监控
          </td>
          <td>
