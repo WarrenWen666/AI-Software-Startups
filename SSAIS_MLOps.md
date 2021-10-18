@@ -62,6 +62,20 @@
             <a href="https://github.com/iterative">Iterative.ai</a>：$3.9M <br>
       </td>
       </tr>
+         <tr>
+         <td>
+            Feature Store
+         </td>
+         <td>
+            Kaskada：$8M <br>
+         </td>
+         <td>
+            <a href="https://github.com/feast-dev">Tecton</a>：$35M <br> 
+            <a href="https://github.com/rasgointelligence">rasgo</a>：$20M <br>
+            <a href="">Molecula</a>：$17.6M <br>
+            <a href="https://github.com/logicalclocks">Logicalclocks</a>: €1.3M <br>
+         </td>
+      </tr>
       <tr>
          <td rowspan="4">
             构建
@@ -155,20 +169,6 @@
             <a href="https://github.com/bentoml">BentoML.ai</a> <br>
             <a href="https://github.com/mlrun/mlrun">iguazio</a>：$24M <br>
             <a href="https://github.com/SeldonIO">Seldon</a>：£7.1 <br>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            Feature Store
-         </td>
-         <td>
-            Kaskada：$8M <br>
-         </td>
-         <td>
-            <a href="https://github.com/feast-dev">Tecton</a>：$35M <br> 
-            <a href="https://github.com/rasgointelligence">rasgo</a>：$20M <br>
-            <a href="">Molecula</a>：$17.6M <br>
-            <a href="https://github.com/logicalclocks">Logicalclocks</a>: €1.3M <br>
          </td>
       </tr>
       <tr>
