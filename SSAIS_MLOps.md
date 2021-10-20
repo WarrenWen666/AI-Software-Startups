@@ -1,8 +1,8 @@
    # SSAIS_MLOps：SSAIS中关于MLOps的部分
    
    知乎文章解读：
-   [MLOps: 数据编程时代的工具链创业机会](https://zhuanlan.zhihu.com/p/375745901)
-   [Hugging Face：史上star增长最快的开源创业公司](https://zhuanlan.zhihu.com/p/411174344)
+   >##[MLOps: 数据编程时代的工具链创业机会](https://zhuanlan.zhihu.com/p/375745901)
+   >##[Hugging Face：史上star增长最快的开源创业公司](https://zhuanlan.zhihu.com/p/411174344)
    
    
    <table>
