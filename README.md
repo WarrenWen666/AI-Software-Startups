@@ -462,7 +462,3 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* 快运兔
 >## 工业
 >>>* Augury $55M
-
-## 打赏
-
-<img src="https://github.com/WarrenWen666/AI-Software-Startups/blob/main/pay.png" alt="微信" />
