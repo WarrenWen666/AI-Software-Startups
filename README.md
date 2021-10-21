@@ -21,8 +21,8 @@
 
 * [AI基础设施Infrastructure](#AI基础设施Infrastructure) 
   * [异构加速器虚拟化](#异构加速器虚拟化) 
-  * [数据准备](#数据准备) 
-  * [模型构建](#模型构建) 
+  * [准备](#准备) 
+  * [构建](#构建) 
   * [部署和监控](#部署和监控) 
   * [安全与隐私](#安全与隐私) 
   * [NLP](#NLP) 
@@ -84,11 +84,12 @@
 >>>* 趋动科技：数亿元人民币
 >>>* #RunAI：$30M
 >>>* #Deci AI：$9.1M
->## 数据准备
+>## 准备
 >>### 数据处理与发现
 >>>* Trifacta：$100M
 >>>* #explorium：$31M
 >>### 数据合成
+>>>* Tonic.ai：$35M
 >>>* #DataGen Technologies：$18.5M
 >>>* Ai.reverie：$5.6M
 >>### 数据标注
@@ -96,6 +97,10 @@
 >>>* hive.ai：$50M，估值$2B
 >>>* ！Snorkel AI：$85M，估值$1B
 >>>* LabelBox：$40M
+>>>* Kili Technology：$25M
+>>>* SuperAnnotate：$14.5M
+>>>* Cord：$12.5M
+>>>* Super.ai：$12M
 >>>* #Dataloop AI：$11M
 >>### 数据质量
 >>>* Aquarium：$2.6M
@@ -104,15 +109,29 @@
 >>>* 格物钛Graviti：千万级美元
 >>>* Superb AI： $9.3M
 >>>* !Iterative.ai：$3.9M
->## 模型构建
+>>### Feature Store
+>>>* !Tecton：$35M
+>>>* rasgom：$20M
+>>>* !Molecula：$17.6M
+>>>* Kaskada：$8M	
+>>>* !Logicalclocks：€1.3M
+>## 构建
+>>### IDE：
+>>>* Hex Technologies：$5.5M
+>>>* Noteable：$4.1M
+>>>* Saturn Cloud：$4M
+>>>* Deepnote：$3.8M
+>>>* Count：$2.4M
+>>>* Curvenote：CA$1.1M
 >>### 深度学习框架
 >>>* ！一流科技OneFlow：5000万人民币
 >>### 训练管理
->>>* !Weights&Biases：$45M
+>>>* !Weights&Biases：$135M，估值$865M
+>>>* 模型训练过程中的实验追踪、超参数优化以及模型和数据集版本管理
 >>>* !Grid AI：$18.6M
 >>>* !#Comet.ml：$13M
->>>* Determined AI：$11M
 >>>* neptune.ai：$3M
+>>>* Determined AI：被HPE收购
 >>### 建模
 >>>* DataRobot：$250M，估值$6B
 >>>* Dataiku：$400M，估值$4.2B
@@ -146,16 +165,11 @@
 >>>* BentoML.ai
 >>>* #ParallelM：被DataRobot收购
 >>>* Algorithmia：被DataRobot收购
->>### Feature Store
->>>* !Tecton：$35M
->>>* !Molecula：$17.6M
->>>* Kaskada：$8M	
->>>* !Logicalclocks：€1.3M
 >>### 监控与可解释性
+>>>* Fiddler AI：$32M
 >>>* Arthur AI：$15M
 >>>* #databand.ai：$14.5M
 >>>* Truera：$12.2M
->>>* Fiddler AI：$10.2M
 >>>* #Aporia：$5M
 >>>* WhyLabs：$4M
 >>>* 瑞莱智慧RealAI：数千万人民币
@@ -172,11 +186,13 @@
 >>>* !ZilliZ：4300万美元
 >>>* ! 极纳科技Jina AI：600万美元
 >>>* Pinecone：$10M
+>>>* Elementl：$1.8M
 # 文本NLP
 >>### NLP
 >>>* primer.ai：$110M
+>>>* mindee：$14M
 >## 预训练模型
->>>* cohere.ai
+>>>* Cohere: 
 >## 机器翻译
 >>>* Unbabel：$60M
 >>>* Lilt：$25M
@@ -185,17 +201,18 @@
 >## 文本重写
 >>>* Grammarly $90M
 >## Chatbot
->>### Automated CX
->>>* Ada Support：$44M
 >>### 智能客服
+>>>* Ada Support：$130M
+>>>* cognigy：$44M
 >>>* 追一科技：4100万美元
 >>>* 智齿科技：2.1亿人民币
 >>>* 晓多科技：超2亿人民币
 >>>* 乐言科技：1.5亿人民币
 >>### 心理健康
 >>>* Woebot Labs：$22.8M 
->>### 运维
+>>### 运营
 >>>* Moveworks：$75M
+>>>* Espressive：$35M
 >## 背景调查
 >>>* Checkr $160M
 >>>* Middesk $4M
@@ -295,8 +312,8 @@
 >>>* Mad Street Den $17M
 >>>* Grabango $8.1M
 >## 安防
->>>* #AnyVision $43M
->>>* tractable.ai $25M
+>>>* tractable.ai：$60M
+>>>* #AnyVision：$43M
 >## 测试
 >>>* #Applitools $31M
 >## 医学影像
@@ -367,6 +384,7 @@
 >>>* Uiptah：$750M
 >>>* Automation Anywhere：$290M
 >>>* FortressIQ：$30M
+>>>* skan.ai：$14M
 >>>* 来也科技：4200万美元
 >>>* 弘玑Cyclone：近4000万美元
 >>>* 云扩科技：3000万美元
@@ -419,7 +437,7 @@
 >>>* SentiLink
 >>>* UnifyID
 >>>* Tessian $42M
->>>* Tara AI $10M
+>>>* Tara AI：$10M
 >## 医疗
 >>>* 连心医疗：9000万人名币
 >>>* 麦歌算法
