@@ -17,7 +17,7 @@
 
 联系方式：warrenwen@glory-ventures.com
 
-## 提醒
+## 特别提醒
 SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详细的归纳和总结，[点击进入](./SSAIS_MLOps.md)
 
 
