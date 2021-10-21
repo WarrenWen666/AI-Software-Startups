@@ -231,7 +231,7 @@
  # 讨论
    
    扫描下方二维码加入微信群聊
-   <img src="https://github.com/WarrenWen666/AI-Software-Startups/blob/main/wechatGroup.jpg" width="200" height="200" />
+   <img src="https://github.com/WarrenWen666/AI-Software-Startups/blob/main/wechatGroup.jpg" width="400" height="400" />
  
 
 
