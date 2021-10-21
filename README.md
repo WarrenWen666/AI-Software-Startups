@@ -17,6 +17,9 @@
 
 联系方式：warrenwen@glory-ventures.com
 
+## [MLOps详细梳理](./SSAIS_MLOps.md)
+
+
 ## 目录
 
 * [AI基础设施Infrastructure](#AI基础设施Infrastructure) 
