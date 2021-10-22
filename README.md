@@ -141,7 +141,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* DataRobot：$250M，估值$6B
 >>>* Dataiku：$400M，估值$4.2B
 >>>* !H2O.ai：$72.5M
->>>* domino data：$43M
+>>>* Domino Data Lab：$100M
 >>>* Pecan：$35M
 >>>* abacus.ai：$22M 
 >>>* RapidMiner：$16M  
@@ -318,6 +318,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Mad Street Den $17M
 >>>* Grabango $8.1M
 >## 安防
+>>>* Verkada：$80M
 >>>* tractable.ai：$60M
 >>>* #AnyVision：$43M
 >## 测试
@@ -404,6 +405,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* 云兴维智：数千万人民币
 # 行业AI
 >## 零售
+>>>* Tekion：$250M
 >>>* ImageDT图匠数据：千万级美元
 >## 教育
 >>>* 松鼠AI：10亿人民币
