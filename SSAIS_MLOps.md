@@ -40,6 +40,10 @@
             SuperAnnotate：$14.5M <br> 
             Super.ai：$12M <br> 
             Dataloop AI：$11M <br> 
+            龙猫数据：3300万人民币 <br>
+            倍赛科技：数千万人民币 <br>
+            曼孚科技MindFlow：千万级人民币 <br>
+            星尘数据stardust：1000万人民币 <br>
          </td>
          <td>
             <a href="https://github.com/snorkel-team">Snorkel AI</a>：$85M，估值$1B <br> 
