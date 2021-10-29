@@ -134,8 +134,8 @@
             DataRobot：$250M，估值$6B <br>
             Dataiku：$400M，估值$4.2B <br>          
             Domino Data Lab：$100M <br>
+            abacus.ai：$50M <br>
             Pecan：$35M <br>
-            abacus.ai：$22M <br>
             RapidMiner：$16M <br>
             Machinify：$10M <br>
             第四范式：7亿美元，估值30亿美元 <br>
