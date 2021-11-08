@@ -16,7 +16,7 @@
       <tr>
          <td rowspan="5">
             准备
-         </td>h
+         </td>
          <td>
             数据合成
          </td>
