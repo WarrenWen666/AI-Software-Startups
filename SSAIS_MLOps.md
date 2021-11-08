@@ -16,7 +16,7 @@
       <tr>
          <td rowspan="5">
             准备
-         </td>
+         </td>h
          <td>
             数据合成
          </td>
@@ -150,7 +150,7 @@
             cnvrg.io 被intel收购
          </td>
          <td>
-            <a href="https://github.com/h2oai">H2O.ai</a>：$72.5M <br>
+            <a href="https://github.com/h2oai">H2O.ai</a>：$100M,估值$1.6B <br>
             <a href="https://github.com/huggingface/transformers">Hugging Face</a>：$40M <br>
          </td>
       </tr>
