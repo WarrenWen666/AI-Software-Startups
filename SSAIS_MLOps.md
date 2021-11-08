@@ -134,13 +134,13 @@
          </td>
          <td>        
             DataRobot：$250M，估值$6B <br>
-            Dataiku：$400M，估值$4.2B <br>          
+            Dataiku：$400M，估值$4.2B <br>    
+            第四范式：7亿美元，估值30亿美元 <br>
             Domino Data Lab：$100M <br>
             abacus.ai：$50M <br>
             Pecan：$35M <br>
             RapidMiner：$16M <br>
             Machinify：$10M <br>
-            第四范式：7亿美元，估值30亿美元 <br>
             九章云极DataCanvas：3亿人民币 <br>
             行动贝果：3443万人民币 <br>
             深度赋智：数千万人民币 <br>
