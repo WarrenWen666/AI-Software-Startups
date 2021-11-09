@@ -187,6 +187,7 @@
          </td>
          <td>
             Fiddler AI：$32M <br>
+            Arize AI：$19M <br>
             Arthur AI：$15M <br>
             Truera：$12.2M <br>
             #Aporia：$5M <br>
