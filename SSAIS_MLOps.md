@@ -192,7 +192,7 @@
             Truera：$12.2M <br>
             #Aporia：$5M <br>
             WhyLabs：$4M <br>
-            瑞莱智慧RealAI：数千万人民币
+            瑞莱智慧RealAI：超3亿人民币
          </td>
          <td>
          </td>
