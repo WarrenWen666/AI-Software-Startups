@@ -162,7 +162,7 @@
             部署（狭义MLOps）
          </td>
          <td>
-            OctoML：$28M <br>
+            OctoML：$85M <br>
             Spell：$15M <br> 
             Allegro.ai：$11M <br>
             Verta.ai：$10M <br>
