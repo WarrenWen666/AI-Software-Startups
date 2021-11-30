@@ -166,7 +166,6 @@
             Spell：$15M <br> 
             Allegro.ai：$11M <br>
             Verta.ai：$10M <br>
-            Taktile：€6M <br>
             SuperWise.ai $4.5M <br>
             DAGsHub：$3M <br>
             Valohai：$1.8M <br>
