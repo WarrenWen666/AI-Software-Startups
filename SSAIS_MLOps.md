@@ -241,6 +241,7 @@
    <img src="https://github.com/WarrenWen666/AI-Software-Startups/blob/main/wechatGroup2.jpg" width="40%" height="40%" />
    
    扫描下方二维码加入微信群聊
+   
    <img src="https://github.com/WarrenWen666/AI-Software-Startups/blob/main/warren.jpg" width="40%" height="40%" />
  
 
