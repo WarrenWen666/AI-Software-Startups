@@ -225,7 +225,9 @@
             向量搜索与数据库
          </td>
          <td>          
-            Pinecone：$10M
+            Pinecone：$10M <br>
+            Relevance AI：$3M
+
          </td>
          <td>
             <a href="https://github.com/milvus-io">Zilliz</a>：4300万美元 <br> 
