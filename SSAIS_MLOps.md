@@ -139,6 +139,7 @@
             Domino Data Lab：$100M <br>
             abacus.ai：$50M <br>
             Pecan：$35M <br>
+            Deci：$21M <br>
             RapidMiner：$16M <br>
             Machinify：$10M <br>
             九章云极DataCanvas：3亿人民币 <br>
