@@ -70,6 +70,7 @@
       <td>
          <a href="https://github.com/iterative">Iterative.ai</a>：$20M <br>
          <a href="https://github.com/pachyderm">Pachyderm</a>：$16M <br>   
+         <a href="https://github.com/activeloopai">Activeloop</a>：$5M <br>   
       </td>
       </tr>
          <tr>
