@@ -34,7 +34,7 @@
          </td>
          <td>          
             Scale AI：$325M，估值$7B <br> 
-            hive.ai：$50M，估值$2B <br> 
+            Hive.ai：$50M，估值$2B <br> 
             LabelBox：$40M <br> 
             Kili Technology：$25M <br> 
             SuperAnnotate：$14.5M <br> 
