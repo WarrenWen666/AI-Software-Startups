@@ -243,7 +243,7 @@
    
    <img src="https://github.com/WarrenWen666/AI-Software-Startups/blob/main/wechatGroup.jpg" width="30%" height="30%" />
    
-   扫描下方二维码添加作者微信
+   扫描下方二维码添加作者微信，添加时请备注：姓名-公司-职位
    
    <img src="https://github.com/WarrenWen666/AI-Software-Startups/blob/main/warren.jpg" width="30%" height="30%" />
  
