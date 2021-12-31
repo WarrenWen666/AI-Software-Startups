@@ -221,7 +221,7 @@
          <td>
             <a href="https://github.com/huggingface">Hugging Face</a>：$40M <br>
             <a href="https://github.com/RasaHQ">Rasa</a>：$26M <br>
-            <a href="https://github.com/RasaHQ">Explosion AI</a>：$6M
+            <a href="https://github.com/explosion">Explosion AI</a>：$6M
          </td>
       </tr>
       <tr>
