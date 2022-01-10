@@ -127,7 +127,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Rasgo：$20M
 >>>* !Molecula：$17.6M
 >>>* Kaskada：$8M	
->>>* !Logicalclocks：€1.3M
+>>>* !Logicalclocks：€5M
 >## 构建
 >>### IDE：
 >>>* Hex Technologies：$16M
