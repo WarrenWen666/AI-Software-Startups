@@ -78,13 +78,13 @@
             Feature Store
          </td>
          <td>
-            Kaskada：$8M <br>
             Rasgo：$20M <br>
+            Molecula：$17.6M <br>
+            Kaskada：$8M <br>
          </td>
          <td>
             <a href="https://github.com/feast-dev">Tecton</a>：$35M <br> 
-            <a href="">Molecula</a>：$17.6M <br>
-            <a href="https://github.com/logicalclocks">Logicalclocks</a>: €1.3M <br>
+            <a href="https://github.com/logicalclocks">Logicalclocks</a>: €5M <br>
          </td>
       </tr>
       <tr>
