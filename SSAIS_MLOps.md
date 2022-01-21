@@ -197,6 +197,7 @@
             瑞莱智慧RealAI：超3亿人民币
          </td>
          <td>
+            <a href="https://github.com/SeldonIO">Evidently AI</a>：$125K <br>
          </td>
       </tr>
       <tr>
