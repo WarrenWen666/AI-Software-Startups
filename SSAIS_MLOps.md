@@ -207,7 +207,7 @@
          <td>
          </td>
          <td>
-            <a href="https://github.com/streamlit">Streamlit</a>：$800M acquired by snowflake
+            <a href="https://github.com/streamlit">Streamlit</a>：acquired by snowflake at $800M
          </td>
       </tr>
       <tr>
