@@ -59,6 +59,7 @@
             Aquarium：$2.6M
          </td>
       </tr>
+            <a href="https://github.com/great-expectations">Snorkel AI</a>：$85M，估值$1B <br> 
       <tr>
          <td>
             数据版本管理和托管
