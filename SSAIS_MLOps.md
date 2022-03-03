@@ -122,7 +122,7 @@
          </td>
          <td>
                neptune.ai：$3M <br>
-               Determined AI：被收购<br>
+               Determined AI：acquired by HPE<br>
          </td>
          <td>
                <a href="https://github.com/wandb">Weights&Biases</a>：$135M，估值$865M <br>
@@ -150,7 +150,7 @@
             和鲸科技：数百万美元 <br>
             智易科技：数百万美元 <br>
             探智立方DarwinML：数百万美元 <br>
-            cnvrg.io 被intel收购
+            cnvrg.io：acquired by intel
          </td>
          <td>
             <a href="https://github.com/h2oai">H2O.ai</a>：$100M，估值$1.6B <br>
@@ -173,8 +173,8 @@
             DAGsHub：$3M <br>
             Valohai：$1.8M <br>
             Datatron：$1.4M <br>
-            ParallelM：被DataRobot收购 <br>
-            Algorithmia：被DataRobot收购
+            ParallelM：acquired by DataRobot <br>
+            Algorithmia：acquired by DataRobot
          </td>
          <td>
             <a href="https://github.com/OAID">开放智能Open AI LAB</a> <br>
@@ -207,7 +207,7 @@
          <td>
          </td>
          <td>
-            <a href="https://github.com/streamlit">Streamlit</a>：$35M
+            <a href="https://github.com/streamlit">Streamlit</a>：$800M acquired by snowflake
          </td>
       </tr>
       <tr>
