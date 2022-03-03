@@ -58,8 +58,10 @@
          <td>
             Aquarium：$2.6M
          </td>
+         <td>
+             <a href="https://github.com/great-expectations">Superconductive</a>：$40M <br>
+         </td>
       </tr>
-            <a href="https://github.com/great-expectations">Superconductive</a>：$40M <br> 
       <tr>
          <td>
             数据版本管理和托管
