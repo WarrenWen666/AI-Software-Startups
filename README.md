@@ -143,7 +143,6 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>### 深度学习框架
 >>>* ！一流科技OneFlow：5000万人民币
 >>### 训练管理
->>>* Anyscale：$100M，估值$900M
 >>>* !Weights&Biases：$135M，估值$865M
 >>>* !#Comet.ml：$50M
 >>>* !Grid AI：$18.6M
@@ -337,7 +336,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Brud $20M, $125M
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：$5.5M
+>>>* Reface.ai：
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
