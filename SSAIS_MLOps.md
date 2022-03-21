@@ -239,6 +239,7 @@
          <td>
             <a href="https://github.com/milvus-io">Zilliz</a>：4300万美元 <br> 
             <a href="https://github.com/jina-ai">极纳科技Jina AI</a>：3000万美元 <br> 
+            <a href="https://github.com/semi-technologies/weaviate">SeMI Technologies</a>：$16M <br> 
          </td>
       </tr>
    </table>
