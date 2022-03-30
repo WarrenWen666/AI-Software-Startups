@@ -234,7 +234,7 @@
             向量搜索与数据库
          </td>
          <td>          
-            Pinecone：$10M <br>
+            Pinecone：$28M <br>
             Relevance AI：$3M
          </td>
          <td>
