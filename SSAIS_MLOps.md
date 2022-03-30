@@ -194,10 +194,10 @@
          <td>
             Fiddler AI：$32M <br>
             Truera：$25M <br>
+            #Aporia：$25M <br>
             Arize AI：$19M <br>
             Arthur AI：$15M <br>
-            #Aporia：$5M <br>
-            WhyLabs：$4M <br>
+            WhyLabs：$10M <br>
             瑞莱智慧RealAI：超3亿人民币
          </td>
          <td>
