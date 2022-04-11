@@ -132,10 +132,9 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* !Logicalclocks：€5M
 >## 构建
 >>### IDE：
->>>* Observable: $35.6M
+>>>* Hex Technologies：$52M
 >>>* Noteable：$21M
 >>>* Deepnote：$20M
->>>* Hex Technologies：$16M
 >>>* Saturn Cloud：$4M
 >>>* Count：$2.4M
 >>>* Curvenote：CA$1.1M
@@ -147,6 +146,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* !#Comet.ml：$50M
 >>>* !Grid AI：$18.6M
 >>>* neptune.ai：$3M
+>>>* 潞晨科技：超千万人民币
 >>>* Determined AI：acquired by HPE
 >>### 建模
 >>>* DataRobot：$250M，估值$6B
@@ -166,7 +166,6 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* 智易科技：数百万美元
 >>>* 探智立方DarwinML：数百万美元
 >>>* cnvrg.io：acquired by intel
->>>* 水下
 >## 部署和监控
 >>### 部署（狭义MLOps）
 >>>* OctoML：$85M
@@ -183,19 +182,17 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* BentoML.ai
 >>>* #ParallelM：acquired by DataRobot
 >>>* Algorithmia：acquired by DataRobot
->>>* 水下
 >>### 监控与可解释性
 >>>* Fiddler AI：$32M
+>>>* Truera：$25M
+>>>* #Aporia：$25M
 >>>* Arize AI：$19M
 >>>* Arthur AI：$15M
->>>* #databand.ai：$14.5M
->>>* Truera：$12.2M
->>>* #Aporia：$5M
 >>>* Evidently AI: $125K
 >>>* WhyLabs：$4M
 >>>* 瑞莱智慧RealAI：数千万人民币
 >>### 数据应用构建
->>>* Streamlit：$35M
+>>>* Streamlit：acquired by snowflake at $800M valuation
 >## 安全与隐私
 >>>* Robust Intelligence：$30M
 >>>* 瑞莱智慧RealAI：数千万人民币
@@ -207,8 +204,10 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >## 向量搜索与数据库
 >>>* !ZilliZ：4300万美元
 >>>* ! 极纳科技Jina AI：3000万美元
->>>* Pinecone：$10M
+>>>* Pinecone：$28M
+>>>* SeMI Technologies：$16M
 >>>* Relevance AI：$3M
+>>>* Qdrant：€2M
 # 文本NLP
 >## NLP
 >>>* primer.ai：$110M
@@ -304,14 +303,12 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>*  $26M
 >## 创作工具
 >>>* Canva $60M, $8.7B
->>>* Figma $50M,$2B 
 >>>* InVisionApp $115M, $1.9B
 >>>* Runway $8.5M
 >>>* Beautiful.AI $11M
 >>>* GliaCloud
 >>>* 来画视频 5000万人民币
 >>### 漫画
->>>* 水下
 >## 图像压缩
 >>>* 图鸭科技 数千万人民币
 >## 物体渲染
@@ -333,10 +330,9 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* 像素偏移
 >>>* 慧夜科技
 >>>* 我是大咖
->>>* Brud $20M, $125M
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：
+>>>* Reface.ai：$5.5M
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
