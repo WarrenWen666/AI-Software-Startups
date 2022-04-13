@@ -146,7 +146,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* !Weights&Biases：$135M，估值$865M
 >>>* !#Comet.ml：$50M
 >>>* !Grid AI：$18.6M
->>>* neptune.ai：$3M
+>>>* neptune.ai：$8M
 >>>* 潞晨科技：超千万人民币
 >>>* Determined AI：acquired by HPE
 >>### 建模
