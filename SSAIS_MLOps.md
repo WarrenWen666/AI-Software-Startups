@@ -96,16 +96,6 @@
             构建
          </td>
          <td>
-            深度学习框架
-         </td>
-         <td>
-         </td>
-         <td>
-            <a href="https://github.com/Oneflow-Inc">一流科技OneFlow</a>：5000万人民币 <br>
-         </td>
-      </tr>   
-      <tr>
-         <td>
             IDE
          </td>
          <td>
@@ -119,6 +109,16 @@
                白海科技：数千万人民币 <br>
          </td>
          <td>
+         </td>
+      </tr>   
+      <tr>
+         <td>
+            深度学习框架
+         </td>
+         <td>
+         </td>
+         <td>
+            <a href="https://github.com/Oneflow-Inc">一流科技OneFlow</a>：5000万人民币 <br>
          </td>
       </tr>
       <tr>
