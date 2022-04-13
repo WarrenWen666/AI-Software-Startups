@@ -116,6 +116,7 @@
                Saturn Cloud：$4M <br>
                Count：$2.4M <br>
                Curvenote：CA$1.1M <br>
+               白海科技：数千万人民币 <br>
          </td>
          <td>
          </td>
