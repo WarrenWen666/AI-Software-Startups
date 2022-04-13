@@ -126,7 +126,7 @@
             训练管理
          </td>
          <td>
-               neptune.ai：$3M <br>
+               neptune.ai：$8M <br>
                Determined AI：acquired by HPE<br>
          </td>
          <td>
