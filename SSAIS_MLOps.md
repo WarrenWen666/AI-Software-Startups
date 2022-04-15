@@ -214,7 +214,7 @@
          <td>
          </td>
          <td>
-            <a href=https://github.com/apache/airflow>Astronomer </a>：$213M <br>
+            <a href=https://github.com/apache/airflow>Astronomer </a>d：$213M <br>
             <a href=https://github.com/PrefectHQ/prefect>Prefect </a>：$32M <br>
             <a href=https://github.com/dagster-io/dagster>Elementl </a>：$14M <br>
             <a href=https://github.com/flyteorg/flyte>Union.ai </a>：$10M <br>
