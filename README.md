@@ -193,6 +193,12 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Evidently AI: $125K
 >>>* WhyLabs：$4M
 >>>* 瑞莱智慧RealAI：数千万人民币
+>>### Workflow Orchestration
+>>>* Astronomer: $213M
+>>>* Prefect: $32M
+>>>* Elementl：$14M
+>>>* Union.ai：$10M
+>>>* Outrebounds:
 >>### 数据应用构建
 >>>* Streamlit：acquired by snowflake at $800M valuation
 >## 安全与隐私
@@ -334,7 +340,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* 我是大咖
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：
+>>>* Reface.ai：$5.5M
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
