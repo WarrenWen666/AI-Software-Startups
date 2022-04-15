@@ -194,8 +194,8 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* WhyLabs：$4M
 >>>* 瑞莱智慧RealAI：数千万人民币
 >>### Workflow Orchestration
->>>* Astronomer: $213M
->>>* Prefect: $32M
+>>>* Astronomer：$213M
+>>>* Prefect：$32M
 >>>* Elementl：$14M
 >>>* Union.ai：$10M
 >>>* Outrebounds:
@@ -340,7 +340,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* 我是大咖
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：$5.5M
+>>>* Reface.ai：
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
