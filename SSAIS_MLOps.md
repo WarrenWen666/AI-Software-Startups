@@ -83,6 +83,7 @@
          <td>
             Rasgo：$20M <br>
             Molecula：$17.6M <br>
+            Continual：$15.7M <br>
             Kaskada：$8M <br>
             featureform：$2.5M <br>
          </td>
