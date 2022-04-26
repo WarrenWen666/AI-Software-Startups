@@ -182,6 +182,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Valohai：$1.8M
 >>>* Datatron：$1.4M
 >>>* 开放智能Open AI LAB
+>>>* CoCoPIE： 数千万人民币
 >>>* BentoML.ai
 >>>* #ParallelM：acquired by DataRobot
 >>>* Algorithmia：acquired by DataRobot
@@ -341,7 +342,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* 我是大咖
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：
+>>>* Reface.ai：$5.5M
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
