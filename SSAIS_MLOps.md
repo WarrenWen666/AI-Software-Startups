@@ -181,6 +181,7 @@
             DAGsHub：$3M <br>
             Valohai：$1.8M <br>
             Datatron：$1.4M <br>
+            CoCoPIE：	数千万人民币 <br>
             ParallelM：acquired by DataRobot <br>
             Algorithmia：acquired by DataRobot
          </td>
