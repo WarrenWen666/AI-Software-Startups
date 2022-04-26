@@ -149,7 +149,6 @@
             Domino Data Lab：$100M <br>
             abacus.ai：$50M <br>
             Pecan：$35M <br>
-            Deci：$21M <br>
             RapidMiner：$16M <br>
             九章云极DataCanvas：3亿人民币 <br>
             行动贝果：3443万人民币 <br>
@@ -174,6 +173,7 @@
          </td>
          <td>
             OctoML：$85M <br>
+            Deci：$21M <br>
             Spell：$15M <br> 
             Allegro.ai：$11M <br>
             Verta.ai：$10M <br>
