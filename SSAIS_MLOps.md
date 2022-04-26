@@ -169,7 +169,7 @@
             部署和监控
          </td>
          <td>
-            部署（狭义MLOps）
+            部署
          </td>
          <td>
             OctoML：$85M <br>
@@ -186,6 +186,7 @@
             Algorithmia：acquired by DataRobot
          </td>
          <td>
+            <a href="https://github.com/neuralmagic">Neural magic</a>：$30M <br>
             <a href="https://github.com/mlrun/mlrun">iguazio</a>：$24M <br>
             <a href="https://github.com/SeldonIO">Seldon</a>：£7.1 <br>
             <a href="https://github.com/bentoml">BentoML.ai</a> <br>
