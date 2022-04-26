@@ -151,7 +151,6 @@
             Pecan：$35M <br>
             Deci：$21M <br>
             RapidMiner：$16M <br>
-            Machinify：$10M <br>
             九章云极DataCanvas：3亿人民币 <br>
             行动贝果：3443万人民币 <br>
             深度赋智：数千万人民币 <br>
