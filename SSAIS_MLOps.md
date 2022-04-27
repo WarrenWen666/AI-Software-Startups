@@ -183,7 +183,8 @@
             Datatron：$1.4M <br>
             CoCoPIE：	数千万人民币 <br>
             ParallelM：acquired by DataRobot <br>
-            Algorithmia：acquired by DataRobot
+            Algorithmia：acquired by DataRobot <br>
+            <a href="https://www.baseten.co/">Baseten</a>: $20M <br>
          </td>
          <td>
             <a href="https://github.com/neuralmagic">Neural magic</a>：$30M <br>
