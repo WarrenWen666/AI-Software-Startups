@@ -63,7 +63,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
   * [CRM](#CRM) 
   * [医药](#医药) 
   * [音乐](#音乐) 
-* [图形GraphG](#图形GraphG) 
+* [图形Graph](#图形Graph) 
 * [搜索和推荐](#搜索和推荐) 
 * [优化Optimization](#优化Optimization) 
   * [强化学习](#强化学习) 
@@ -390,7 +390,9 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Amper Music $4M
 >>>* StepBeats 150万人民币
 >>>* 时域科技
-# 图形GraphG
+# 图形Graph
+>>>* RelationalAI：$122M
+>>>* Katana Graph: $28.5M
 >>>* Kumo.AI：$18.5M
 # 搜索和推荐
 >>>* Coveo：CA$227M
