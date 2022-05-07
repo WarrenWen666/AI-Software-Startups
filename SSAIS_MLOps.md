@@ -236,7 +236,6 @@
          <td>
             <a href="https://github.com/streamlit">Streamlit</a>：acquired by snowflake at $800M valuation
          </td>
-
       </tr>
       <tr>
          <td rowspan="4">
