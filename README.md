@@ -173,6 +173,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Neural magic：$30M
 >>>* !#iguazio：$24M
 >>>* #Deci：$21M
+>>>* Baseten: $20M
 >>>* Spell：$15M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
