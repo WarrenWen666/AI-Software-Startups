@@ -161,7 +161,6 @@
          </td>
          <td>
             <a href="https://github.com/h2oai">H2O.ai</a>：$100M，估值$1.6B <br>
-            <a href="https://github.com/huggingface/transformers">Hugging Face</a>：$40M <br>
          </td>
       </tr>
       <tr>
@@ -247,7 +246,7 @@
          <td>
          </td>
          <td>
-            <a href="https://github.com/huggingface">Hugging Face</a>：$40M <br>
+            <a href="https://github.com/huggingface">Hugging Face</a>：$100M,估值$2B<br>
             <a href="https://github.com/RasaHQ">Rasa</a>：$26M <br>
             <a href="https://github.com/deepset-ai/haystack">deepset</a>：$14M <br>
             <a href="https://github.com/explosion">Explosion AI</a>：$6M
