@@ -205,7 +205,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>### 数据应用构建
 >>>* Streamlit：acquired by snowflake at $800M valuation
 >## NLP
->>>* !Hugging Face：$40M
+>>>* !Hugging Face：$100M,估值$2B
 >>>* !Rasa：$26M
 >>>* Explosion AI：$6M
 >## 向量搜索与数据库
@@ -343,7 +343,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* 我是大咖
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：$5.5M
+>>>* Reface.ai：
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
