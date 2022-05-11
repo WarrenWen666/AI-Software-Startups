@@ -524,3 +524,10 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >## 工业
 >>>* Augury：$180M
 >>>* CognitOps: 1100万美元
+
+## Contributors
+<a href="https://github.com/WarrenWen666/AI-Software-Startups/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=WarrenWen666/AI-Software-Startups" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
