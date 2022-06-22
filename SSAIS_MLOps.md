@@ -134,7 +134,7 @@
          <td>
                <a href="https://github.com/wandb">Weights&Biases</a>：$135M，估值$865M <br>
                <a href="https://github.com/wandb">Comet.ml</a>：$50M <br>
-               <a href="https://github.com/PyTorchLightning">Grid AI</a>：$18.6M <br>
+               <a href="https://github.com/Lightning-AI">Lightning AI</a>：$40M <br>
                <a href="https://github.com/hpcaitech">潞晨科技</a>：超千万人民币 <br>
          </td>
       </tr>
