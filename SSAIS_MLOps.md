@@ -49,6 +49,7 @@
          </td>
          <td>
             <a href="https://github.com/snorkel-team">Snorkel AI</a>：$85M，估值$1B <br> 
+            <a href="https://github.com/heartexlabs">Heartex</a>：$25M <br> 
          </td>
       </tr>
       <tr>
