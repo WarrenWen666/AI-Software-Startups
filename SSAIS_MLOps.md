@@ -103,7 +103,7 @@
          </td>
          <td>
                Observable：$35.6M <br>
-               Hex Technologies：$21M <br>
+               Hex Technologies：$52M <br>
                Deepnote：$20M <br>              
                Noteable：$4.1M <br>
                Saturn Cloud：$4M <br>
