@@ -147,8 +147,8 @@
             Dataiku：$400M，估值$4.2B <br>    
             第四范式：7亿美元，估值30亿美元 <br>
             Domino Data Lab：$100M <br>
+            Pecan：$66M <br>
             abacus.ai：$50M <br>
-            Pecan：$35M <br>
             RapidMiner：$16M <br>
             九章云极DataCanvas：3亿人民币 <br>
             行动贝果：3443万人民币 <br>
