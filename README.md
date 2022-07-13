@@ -126,7 +126,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Superb AI： $9.3M
 >>>* Activeloop：$5M
 >>### Feature Store
->>>* !Tecton：$35M
+>>>* !Tecton：$100M
 >>>* Rasgo：$20M
 >>>* !Molecula：$17.6M
 >>>* Continual：$15.7M
@@ -175,20 +175,19 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Neural magic：$30M
 >>>* !#iguazio：$24M
 >>>* #Deci：$21M
->>>* Baseten: $20M
->>>* Spell：$15M
+>>>* Datatron：$12.1M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
 >>>* #SuperWise.ai：$4.5M
 >>>* !Seldon：£7.1
 >>>* #DAGsHub：$3M
 >>>* Valohai：$1.8M
->>>* Datatron：$1.4M
 >>>* 开放智能Open AI LAB
 >>>* CoCoPIE： 数千万人民币
->>>* BentoML.ai
+>>>* BentoML
 >>>* #ParallelM：acquired by DataRobot
 >>>* Algorithmia：acquired by DataRobot
+>>>* Spell：acquired by Reddit 
 >>### 监控与可解释性
 >>>* Fiddler AI：$32M
 >>>* Truera：$25M
