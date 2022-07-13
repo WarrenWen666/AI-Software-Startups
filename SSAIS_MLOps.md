@@ -175,7 +175,6 @@
             OctoML：$85M <br>
             Deci：$21M <br>
             Baseten: $20M <br>
-            Spell：$15M <br> 
             Allegro.ai：$11M <br>
             Verta.ai：$10M <br>
             SuperWise.ai $4.5M <br>
@@ -185,6 +184,7 @@
             CoCoPIE：	数千万人民币 <br>
             ParallelM：acquired by DataRobot <br>
             Algorithmia：acquired by DataRobot <br>
+            Spell：acquired by Reddit <br>
          </td>
          <td>
             <a href="https://github.com/neuralmagic">Neural magic</a>：$30M <br>
