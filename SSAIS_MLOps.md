@@ -90,7 +90,7 @@
             featureform：$2.5M <br>
          </td>
          <td>
-            <a href="https://github.com/feast-dev">Tecton</a>：$35M <br> 
+            <a href="https://github.com/feast-dev">Tecton</a>：$100M <br> 
             <a href="https://github.com/logicalclocks">Logicalclocks</a>: €5M <br>
          </td>
       </tr>
