@@ -134,7 +134,7 @@
          </td>
          <td>
                <a href="https://github.com/Lightning-AI">Lightning AI</a>：$40M <br>
-               <a href="https://github.com/hpcaitech">潞晨科技</a>：超千万人民币 <br>
+               <a href="https://github.com/hpcaitech">潞晨科技HPC-AI Tech</a>：超千万人民币 <br>
                <a href="https://github.com/determined-ai">Determined AI</a> ：acquired by HPE<br>
          </td>
       </tr>
