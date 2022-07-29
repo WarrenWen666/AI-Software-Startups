@@ -156,7 +156,7 @@
             宽邦科技BigQuant：千万级人民币 <br>
             和鲸科技：数百万美元 <br>
             智易科技：数百万美元 <br>
-            探智立方DarwinML：数百万美元 <br>
+            探智立方DarwinML：acquired by 来也科技 <br>
             cnvrg.io：acquired by intel
          </td>
          <td>
