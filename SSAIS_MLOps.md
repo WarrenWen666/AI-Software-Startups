@@ -49,7 +49,7 @@
          </td>
          <td>
             <a href="https://github.com/snorkel-team">Snorkel AI</a>：$85M，估值$1B <br> 
-            <a href="https://github.com/heartexlabs">Heartex</a>：$25M <br> 
+            <a href="https://github.com/heartexlabs">Heartex(heartexlabs)</a>：$25M <br> 
          </td>
       </tr>
       <tr>
@@ -60,7 +60,7 @@
             Aquarium：$2.6M
          </td>
          <td>
-             <a href="https://github.com/great-expectations">Superconductive</a>：$40M <br>
+             <a href="https://github.com/great-expectations">Superconductive(great-expectations)</a>：$40M <br>
          </td>
       </tr>
       <tr>
@@ -90,7 +90,7 @@
             featureform：$2.5M <br>
          </td>
          <td>
-            <a href="https://github.com/feast-dev">Tecton</a>：$100M <br> 
+            <a href="https://github.com/feast-dev">Tecton(feast)</a>：$100M <br> 
             <a href="https://github.com/logicalclocks">Logicalclocks</a>: €5M <br>
          </td>
       </tr>
@@ -134,7 +134,7 @@
          </td>
          <td>
                <a href="https://github.com/Lightning-AI">Lightning AI</a>：$40M <br>
-               <a href="https://github.com/hpcaitech">潞晨科技HPC-AI Tech</a>：超千万人民币 <br>
+               <a href="https://github.com/hpcaitech">潞晨科技 HPC-AI Tech</a>：超千万人民币 <br>
                <a href="https://github.com/determined-ai">Determined AI</a> ：acquired by HPE<br>
          </td>
       </tr>
@@ -221,8 +221,8 @@
             <a href=https://github.com/apache/airflow>Astronomer(airflow)</a>：$213M <br>
             <a href=https://github.com/PrefectHQ/prefect>Prefect </a>：$32M <br>
             <a href=https://github.com/dagster-io/dagster>Elementl(dagster) </a>：$14M <br>
-            <a href=https://github.com/flyteorg/flyte>Union.ai(flyte) </a>：$10M <br>
-            <a href=https://github.com/Netflix/metaflow>Outrebounds(metaflow) </a>： <br>
+            <a href=https://github.com/flyteorg/flyte>Union.ai(flyte)</a>：$10M <br>
+            <a href=https://github.com/Netflix/metaflow>Outrebounds(metaflow)</a>： <br>
          </td>
       </tr>
       <tr>
@@ -248,7 +248,7 @@
          </td>
          <td>
             <a href="https://github.com/RasaHQ">Rasa</a>：$26M <br>
-            <a href="https://github.com/deepset-ai/haystack">deepset</a>：$14M <br>
+            <a href="https://github.com/deepset-ai/haystack">deepset(haystack)</a>：$14M <br>
             <a href="https://github.com/explosion">Explosion AI</a>：$6M
          </td>
       </tr>
@@ -261,9 +261,9 @@
             Relevance AI：$3M
          </td>
          <td>
-            <a href="https://github.com/milvus-io">Zilliz</a>：4300万美元 <br> 
+            <a href="https://github.com/milvus-io">Zilliz(milvus)</a>：4300万美元 <br> 
             <a href="https://github.com/jina-ai">极纳科技Jina AI</a>：3000万美元 <br> 
-            <a href="https://github.com/semi-technologies/weaviate">SeMI Technologies</a>：$16M <br> 
+            <a href="https://github.com/semi-technologies/weaviate">SeMI Technologies(Weaviate)</a>：$16M <br> 
             <a href="https://github.com/qdrant/qdrant">Qdrant</a>：€2M <br> 
          </td>
       </tr>
