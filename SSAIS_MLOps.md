@@ -218,11 +218,11 @@
          <td>
          </td>
          <td>
-            <a href=https://github.com/apache/airflow>Astronomer </a>：$213M <br>
+            <a href=https://github.com/apache/airflow>Astronomer(airflow)</a>：$213M <br>
             <a href=https://github.com/PrefectHQ/prefect>Prefect </a>：$32M <br>
-            <a href=https://github.com/dagster-io/dagster>Elementl </a>：$14M <br>
-            <a href=https://github.com/flyteorg/flyte>Union.ai </a>：$10M <br>
-            <a href=https://github.com/Netflix/metaflow>Outrebounds </a>： <br>
+            <a href=https://github.com/dagster-io/dagster>Elementl(dagster) </a>：$14M <br>
+            <a href=https://github.com/flyteorg/flyte>Union.ai(flyte) </a>：$10M <br>
+            <a href=https://github.com/Netflix/metaflow>Outrebounds(metaflow) </a>： <br>
          </td>
       </tr>
       <tr>
