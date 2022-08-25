@@ -262,7 +262,7 @@
             Relevance AI：$3M
          </td>
          <td>
-            <a href="https://github.com/milvus-io">Zilliz(milvus)</a>：4300万美元 <br> 
+            <a href="https://github.com/milvus-io">Zilliz(milvus)</a>：6000万美元 <br> 
             <a href="https://github.com/jina-ai">极纳科技Jina AI</a>：3000万美元 <br> 
             <a href="https://github.com/semi-technologies/weaviate">SeMI Technologies(Weaviate)</a>：$16M <br> 
             <a href="https://github.com/qdrant/qdrant">Qdrant</a>：€2M <br> 
