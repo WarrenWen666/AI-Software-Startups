@@ -177,7 +177,6 @@
             Baseten: $20M <br>
             Allegro.ai：$11M <br>
             Verta.ai：$10M <br>
-            SuperWise.ai $4.5M <br>
             DAGsHub：$3M <br>
             Valohai：$1.8M <br>
             Datatron：$1.4M <br>
@@ -205,6 +204,7 @@
             #Aporia：$25M <br>
             Arthur AI：$15M <br>
             WhyLabs：$10M <br>
+            SuperWise.ai $4.5M <br>
             瑞莱智慧RealAI：超3亿人民币
          </td>
          <td>
