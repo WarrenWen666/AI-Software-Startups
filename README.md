@@ -38,7 +38,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
   * [写作](#写作) 
   * [Chatbot](#Chatbot) 
   * [背景调查](#背景调查) 
-  * [OCR](#OCR) 
+  * [文档抽取](#文档抽取) 
   * [合同审查](#合同审查) 
   * [会话分析](#会话分析) 
   * [NLQ](#NLQ) 
@@ -88,16 +88,16 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
   * [工业](#工业) 
 # AI基础设施Infrastructure
 >## 异构加速和虚拟化
->>>* #RunAI：$30M
+>>>* #RunAI：$75M
 >>>* Exafunction：$25M
 >>>* 趋动科技：数亿元人民币
 >## 准备
->>### 数据处理与发现
->>>* Trifacta：$100M
->>>* #explorium：$31M
+>>### 数据收集与处理
+>>>* #explorium：$75M
+>>>* Trifacta：acquired by alteryx at $400M
 >>### 数据合成
+>>>* #DataGen Technologies：$50M
 >>>* Tonic.ai：$35M
->>>* #DataGen Technologies：$18.5M
 >>>* Ai.reverie：$5.6M
 >>### 数据标注
 >>>* Scale AI：$325M，估值$7B 
@@ -130,7 +130,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Rasgo：$20M
 >>>* !Molecula：$17.6M
 >>>* Continual：$15.7M
->>>* Qwak：$15M
+>>>* #Qwak：$15M
 >>>* Kaskada：$8M	
 >>>* !Logicalclocks：€5M
 >## 构建
@@ -150,7 +150,6 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* #Comet.ml：$50M
 >>>* !Lightning AI：$18.6M
 >>>* neptune.ai：$8M
->>>* 潞晨科技：超千万人民币
 >>>* Determined AI：acquired by HPE
 >>### 建模
 >>>* DataRobot：$250M，估值$6B
@@ -167,7 +166,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* 宽邦科技BigQuant：千万级人民币
 >>>* 和鲸科技：数百万美元
 >>>* 智易科技：数百万美元
->>>* 探智立方DarwinML：数百万美元
+>>>* 探智立方DarwinML：acquired by 来也科技
 >>>* cnvrg.io：acquired by intel
 >## 部署和监控
 >>### 部署
@@ -178,7 +177,6 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Datatron：$12.1M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
->>>* #SuperWise.ai：$4.5M
 >>>* !Seldon：£7.1
 >>>* #DAGsHub：$3M
 >>>* Valohai：$1.8M
@@ -189,13 +187,14 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Algorithmia：acquired by DataRobot
 >>>* Spell：acquired by Reddit 
 >>### 监控与可解释性
+>>>* Arize AI：$38M
 >>>* Fiddler AI：$32M
 >>>* Truera：$25M
 >>>* #Aporia：$25M
->>>* Arize AI：$19M
 >>>* Arthur AI：$15M
+>>>* WhyLabs：$10M
+>>>* #SuperWise.ai：$4.5M
 >>>* Evidently AI: $125K
->>>* WhyLabs：$4M
 >>>* 瑞莱智慧RealAI：数千万人民币
 >>### Workflow Orchestration
 >>>* Astronomer：$213M
@@ -210,7 +209,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* !Rasa：$26M
 >>>* Explosion AI：$6M
 >## 向量搜索与数据库
->>>* !ZilliZ：4300万美元
+>>>* !ZilliZ：6000万美元
 >>>* ! 极纳科技Jina AI：3000万美元
 >>>* Pinecone：$28M
 >>>* SeMI Technologies：$16M
@@ -225,8 +224,9 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* primer.ai：$110M
 >>>* mindee：$14M
 >## 预训练模型
->>>* Cohere: $40M
->>>* 澜舟科技
+>>>* Cohere：CA$159M
+>>>* #AI21 Labs：$64M
+>>>* 澜舟科技：近亿人民币
 >## 机器翻译
 >>>* Unbabel：$60M
 >>>* Lilt：$55M
@@ -258,7 +258,8 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Checkr $160M
 >>>* Middesk $4M
 >>>* i背调：数千万人民币
->## OCR
+>## 文档抽取
+>>>* Instabase：$105M，
 >>>* HyperScience：$80M
 >>>* Eigen Technologies：$37M
 >>>* Cinnamon AI：$13M
@@ -289,7 +290,6 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* 硅心科技aiXXcoder：数千万人民币
 >## 其他
 >>>* 达观数据 2.7亿人民币
->>>* #A21 labs
 >>>* Golden $14.5M
 >>>* ClearGraph 被TABLEAU收购
 >>>* UpCodes $3.4M
@@ -314,6 +314,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>### 视频录制
 >>>* Loom $28.8M
 >>>*  $26M
+>>>* Runwayml: $35M
 >## 创作工具
 >>>* Canva $60M, $8.7B
 >>>* InVisionApp $115M, $1.9B
