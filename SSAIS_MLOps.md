@@ -15,7 +15,7 @@
       </tr>
       <tr>
          <td rowspan="5">
-            Preparation
+            Preparation  <br> 
             准备
          </td>
          <td>
@@ -102,8 +102,8 @@
       </tr>
       <tr>
          <td rowspan="4">
-            构建  <br> 
-            Development
+            Development  <br> 
+            构建
          </td>
          <td>
             IDE
