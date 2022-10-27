@@ -8,18 +8,30 @@
 
    <table>
       <tr>
-         <th>方向</th>
-         <th>子方向</th>
-         <th>闭源公司</th>
-         <th>开源公司</th>
+         <th>
+            Filed <br> 
+            领域
+         </th>
+         <th>
+            Subfiled <br> 
+            子领域
+         </th>
+         <th>
+            Closed Source <br> 
+            闭源公司
+         </th>
+         <th>
+            Open Source <br> 
+            开源公司
+         </th>
       </tr>
       <tr>
          <td rowspan="5">
-            Preparation  <br> 
+            Preparation <br> 
             准备
          </td>
          <td>
-            Data Generation  <br> 
+            Data Generation <br> 
             数据合成
          </td>
          <td>
@@ -32,7 +44,7 @@
       </tr>
       <tr>
          <td>
-            Data Labeling  <br> 
+            Data Labeling <br> 
             数据标注            
          </td>
          <td>          
@@ -57,7 +69,7 @@
       </tr>
       <tr>
          <td>
-            Data Quality  <br> 
+            Data Quality <br> 
             数据质量
          </td>
          <td>
@@ -69,7 +81,7 @@
       </tr>
       <tr>
          <td>
-            Data Versioning  <br> 
+            Data Versioning <br> 
             数据版本管理和托管
          </td>
          <td>
@@ -84,7 +96,7 @@
       </tr>
          <tr>
          <td>
-            Feature Store  <br> 
+            Feature Store <br> 
             特征存储
          </td>
          <td>
@@ -102,7 +114,7 @@
       </tr>
       <tr>
          <td rowspan="4">
-            Development  <br> 
+            Development <br> 
             构建
          </td>
          <td>
@@ -122,7 +134,7 @@
       </tr>   
       <tr>
          <td>
-            DL framework  <br> 
+            DL Framework <br> 
             深度学习框架
          </td>
          <td>
@@ -133,7 +145,7 @@
       </tr>
       <tr>
          <td>
-            Training  <br> 
+            Training <br> 
             训练管理
          </td>
          <td>
@@ -143,13 +155,13 @@
          </td>
          <td>
                <a href="https://github.com/Lightning-AI">Lightning AI</a>：$40M <br>
-               <a href="https://github.com/hpcaitech">潞晨科技 HPC-AI Tech</a>：超千万人民币 <br>
+               <a href="https://github.com/hpcaitech">潞晨科技HPC-AI Tech（colossalai）</a>：超千万人民币 <br>
                <a href="https://github.com/determined-ai">Determined AI</a> ：acquired by HPE<br>
          </td>
       </tr>
       <tr>
          <td>
-            Modeling  <br> 
+            Modeling <br> 
             建模
          </td>
          <td>        
@@ -180,7 +192,7 @@
             部署和监控
          </td>
          <td>
-            Deployment  <br> 
+            Deployment <br> 
             部署
          </td>
          <td>
@@ -207,7 +219,7 @@
       </tr>
       <tr>
          <td>
-            Monitoring&Explainability  <br> 
+            Monitoring&Explainability <br> 
             监控与可解释性
          </td>
          <td>
@@ -226,7 +238,7 @@
       </tr>
       <tr>
          <td>
-            Workflow Orchestration  <br> 
+            Workflow Orchestration <br> 
             工作流编排
          </td>
          <td>
@@ -271,7 +283,7 @@
       </tr>
       <tr>
          <td>
-            Vector DB&Vector Search  <br> 
+            Vector DB&Search  <br> 
             向量搜索与数据库
          </td>
          <td>          
