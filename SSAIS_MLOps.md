@@ -198,11 +198,11 @@
             监控与可解释性
          </td>
          <td>
+            Arthur AI：$42M <br>
             Arize AI：$38M <br>
             Fiddler AI：$32M <br>
             Truera：$25M <br>
             #Aporia：$25M <br>
-            Arthur AI：$15M <br>
             WhyLabs：$10M <br>
             SuperWise.ai：$4.5M <br>
             瑞莱智慧RealAI：超3亿人民币
