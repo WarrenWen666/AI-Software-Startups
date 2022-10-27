@@ -15,9 +15,11 @@
       </tr>
       <tr>
          <td rowspan="5">
+            Preparation
             准备
          </td>
          <td>
+            Data Generation
             数据合成
          </td>
          <td>
@@ -30,7 +32,8 @@
       </tr>
       <tr>
          <td>
-            数据标注
+            Data Labeling
+            数据标注            
          </td>
          <td>          
             Scale AI：$325M，估值$7B <br> 
@@ -54,6 +57,7 @@
       </tr>
       <tr>
          <td>
+            Data Quality
             数据质量
          </td>
          <td>
@@ -65,6 +69,7 @@
       </tr>
       <tr>
          <td>
+            Data Versioning
             数据版本管理和托管
          </td>
          <td>
@@ -80,6 +85,7 @@
          <tr>
          <td>
             Feature Store
+            特征存储
          </td>
          <td>
             Rasgo：$20M <br>
@@ -97,6 +103,7 @@
       <tr>
          <td rowspan="4">
             构建
+            Development
          </td>
          <td>
             IDE
@@ -115,6 +122,7 @@
       </tr>   
       <tr>
          <td>
+            DL framework
             深度学习框架
          </td>
          <td>
@@ -125,6 +133,7 @@
       </tr>
       <tr>
          <td>
+            Training
             训练管理
          </td>
          <td>
@@ -140,6 +149,7 @@
       </tr>
       <tr>
          <td>
+            Modeling
             建模
          </td>
          <td>        
@@ -166,9 +176,11 @@
       </tr>
       <tr>
          <td rowspan="3">
+            Deployment&Monitoring
             部署和监控
          </td>
          <td>
+            Deployment
             部署
          </td>
          <td>
@@ -195,6 +207,7 @@
       </tr>
       <tr>
          <td>
+            Monitoring&Explainality
             监控与可解释性
          </td>
          <td>
@@ -214,6 +227,7 @@
       <tr>
          <td>
             workflow Orchestration
+            工作流编排
          </td>
          <td>
          </td>
@@ -228,6 +242,7 @@
       </tr>
       <tr>
          <td>
+            Data App
             数据应用构建
          </td>
          <td>
@@ -240,6 +255,7 @@
       </tr>
       <tr>
          <td rowspan="4">
+            Others
             其他
          </td>
          <td>
@@ -255,6 +271,7 @@
       </tr>
       <tr>
          <td>
+            Vector DB&Vector Search
             向量搜索与数据库
          </td>
          <td>          
