@@ -19,7 +19,7 @@
             准备
          </td>
          <td>
-            Data Generation
+            Data Generation  <br> 
             数据合成
          </td>
          <td>
@@ -32,7 +32,7 @@
       </tr>
       <tr>
          <td>
-            Data Labeling
+            Data Labeling  <br> 
             数据标注            
          </td>
          <td>          
@@ -57,7 +57,7 @@
       </tr>
       <tr>
          <td>
-            Data Quality
+            Data Quality  <br> 
             数据质量
          </td>
          <td>
@@ -69,7 +69,7 @@
       </tr>
       <tr>
          <td>
-            Data Versioning
+            Data Versioning  <br> 
             数据版本管理和托管
          </td>
          <td>
@@ -84,7 +84,7 @@
       </tr>
          <tr>
          <td>
-            Feature Store
+            Feature Store  <br> 
             特征存储
          </td>
          <td>
@@ -102,7 +102,7 @@
       </tr>
       <tr>
          <td rowspan="4">
-            构建
+            构建  <br> 
             Development
          </td>
          <td>
@@ -122,7 +122,7 @@
       </tr>   
       <tr>
          <td>
-            DL framework
+            DL framework  <br> 
             深度学习框架
          </td>
          <td>
@@ -133,7 +133,7 @@
       </tr>
       <tr>
          <td>
-            Training
+            Training  <br> 
             训练管理
          </td>
          <td>
@@ -149,7 +149,7 @@
       </tr>
       <tr>
          <td>
-            Modeling
+            Modeling  <br> 
             建模
          </td>
          <td>        
@@ -176,11 +176,11 @@
       </tr>
       <tr>
          <td rowspan="3">
-            Deployment&Monitoring
+            Deployment&Monitoring  <br> 
             部署和监控
          </td>
          <td>
-            Deployment
+            Deployment  <br> 
             部署
          </td>
          <td>
@@ -207,7 +207,7 @@
       </tr>
       <tr>
          <td>
-            Monitoring&Explainality
+            Monitoring&Explainability  <br> 
             监控与可解释性
          </td>
          <td>
@@ -226,7 +226,7 @@
       </tr>
       <tr>
          <td>
-            workflow Orchestration
+            workflow Orchestration  <br> 
             工作流编排
          </td>
          <td>
@@ -242,7 +242,7 @@
       </tr>
       <tr>
          <td>
-            Data App
+            Data App  <br> 
             数据应用构建
          </td>
          <td>
@@ -255,7 +255,7 @@
       </tr>
       <tr>
          <td rowspan="4">
-            Others
+            Others  <br> 
             其他
          </td>
          <td>
@@ -271,7 +271,7 @@
       </tr>
       <tr>
          <td>
-            Vector DB&Vector Search
+            Vector DB&Vector Search  <br> 
             向量搜索与数据库
          </td>
          <td>          
