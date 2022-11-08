@@ -26,7 +26,7 @@
          </th>
       </tr>
       <tr>
-         <td rowspan="5">
+         <td rowspan="6">
             Preparation <br> 
             准备
          </td>
