@@ -26,7 +26,7 @@
          </th>
       </tr>
       <tr>
-         <td rowspan="5">
+         <td rowspan="6">
             Preparation <br> 
             准备
          </td>
@@ -94,7 +94,21 @@
          <a href="https://github.com/activeloopai">Activeloop</a>：$5M <br>   
       </td>
       </tr>
-         <tr>
+      <tr>
+         <td>
+            Distributed Data Processing <br> 
+            分布式数据处理
+         </td>
+         <td>
+            <a>Bodo.ai</a>：$22.5M <br>
+         </td>
+         <td>
+            <a href="https://github.com/databricks/koalas">Databricks(PySpark/koalas)</a>：$1.6B，估值$36.4B <br> 
+            <a href="https://github.com/dask/dask">Coiled(Dask)</a>：$21M <br>
+            <a href="https://github.com/modin-project/modin">Ponder(Modin)</a>：$7M <br>
+         </td>
+      </tr>
+      <tr>
          <td>
             Feature Store <br> 
             特征存储
