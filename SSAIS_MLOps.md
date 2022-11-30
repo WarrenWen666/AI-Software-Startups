@@ -87,13 +87,29 @@
          <td>
             格物钛Graviti：千万级美元 <br>
             Superb AI： $9.3M <br>
-      </td>
-      <td>
-         <a href="https://github.com/iterative">Iterative.ai</a>：$20M <br>
-         <a href="https://github.com/pachyderm">Pachyderm</a>：$16M <br>   
-         <a href="https://github.com/activeloopai">Activeloop</a>：$5M <br>   
-      </td>
+         </td>
+         <td>
+            <a href="https://github.com/iterative">Iterative.ai</a>：$20M <br>
+            <a href="https://github.com/pachyderm">Pachyderm</a>：$16M <br>   
+            <a href="https://github.com/activeloopai">Activeloop</a>：$5M <br>   
+         </td>
       </tr>
+      <tr>
+         <td>
+            IDE
+         </td>
+         <td>
+               Hex Technologies：$52M <br>
+               Deepnote：$20M <br>              
+               Noteable：$4.1M <br>
+               Saturn Cloud：$4M <br>
+               Count：$2.4M <br>
+               Curvenote：CA$1.1M <br>
+               白海科技：数千万人民币 <br>
+         </td>
+         <td>
+         </td>
+      </tr> 
       <tr>
          <td>
             Distributed Data Processing <br> 
@@ -125,28 +141,12 @@
             <a href="https://github.com/feast-dev">Tecton(feast)</a>：$100M <br> 
             <a href="https://github.com/logicalclocks">Logicalclocks</a>: €5M <br>
          </td>
-      </tr>
+      </tr>  
       <tr>
          <td rowspan="4">
             Development <br> 
             构建
          </td>
-         <td>
-            IDE
-         </td>
-         <td>
-               Hex Technologies：$52M <br>
-               Deepnote：$20M <br>              
-               Noteable：$4.1M <br>
-               Saturn Cloud：$4M <br>
-               Count：$2.4M <br>
-               Curvenote：CA$1.1M <br>
-               白海科技：数千万人民币 <br>
-         </td>
-         <td>
-         </td>
-      </tr>   
-      <tr>
          <td>
             DL Framework <br> 
             深度学习框架
