@@ -26,7 +26,7 @@
          </th>
       </tr>
       <tr>
-         <td rowspan="6">
+         <td rowspan="7">
             Preparation <br> 
             准备
          </td>
@@ -143,7 +143,7 @@
          </td>
       </tr>  
       <tr>
-         <td rowspan="4">
+         <td rowspan="3">
             Development <br> 
             构建
          </td>
