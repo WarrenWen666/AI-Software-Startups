@@ -86,7 +86,6 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
   * [房地产](#房地产) 
   * [物流](#物流) 
   * [工业](#工业) 
-* [AIGC](#AIGC) 
 # AI基础设施Infrastructure
 >## 异构加速和虚拟化
 >>>* #RunAI：$75M
@@ -117,6 +116,15 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* 37度数据：千万级人民币
 >>>* 曼孚科技MindFlow：千万级人民币
 >>>* 星尘数据stardust：1000万人民币
+>>### IDE：
+>>>* Hex Technologies：$52M
+>>>* Observable：$35.6M
+>>>* Noteable：$21M
+>>>* Deepnote：$20M
+>>>* Saturn Cloud：$4M
+>>>* Count：$2.4M
+>>>* Curvenote：CA$1.1M
+>>>* 白海科技：数千万人民币
 >>### 分布式数据处理
 >>>* Databricks：$1.6B，估值$36.4B
 >>>* Bodo.ai：$22.5M
@@ -140,22 +148,14 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Kaskada：$8M	
 >>>* !Logicalclocks：€5M
 >## 构建
->>### IDE：
->>>* Hex Technologies：$52M
->>>* Observable：$35.6M
->>>* Noteable：$21M
->>>* Deepnote：$20M
->>>* Saturn Cloud：$4M
->>>* Count：$2.4M
->>>* Curvenote：CA$1.1M
->>>* 白海科技：数千万人民币
 >>### 深度学习框架
 >>>* ！一流科技OneFlow：5000万人民币
 >>### 训练管理
 >>>* Weights&Biases：$135M，估值$865M
 >>>* #Comet.ml：$50M
 >>>* !Lightning AI：$18.6M
->>>* neptune.ai：$8M
+>>>* Neptune.ai：$8M
+>>>* 潞晨科技HPC-AI Tech：超千万人民币
 >>>* Determined AI：acquired by HPE
 >>### 建模
 >>>* DataRobot：$250M，估值$6B
@@ -180,6 +180,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Neural magic：$30M
 >>>* !#iguazio：$24M
 >>>* #Deci：$25M
+>>>* Baseten: $20M
 >>>* Datatron：$12.1M
 >>>* #Allegro.ai：$11M
 >>>* Verta.ai：$10M
@@ -310,7 +311,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* 极视角：
 >## 视频
 >>### 综合
->>>* 极链科技 Video++
+>>>* 极链科技Video++
 >>>* 影普科技
 >>>* Kapwing
 >>### 视频异常分析
@@ -352,7 +353,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* 我是大咖
 >>>* Synthesia：$12.5M
 >>>* #D-ID：$13.5M
->>>* Reface.ai：$5.5M
+>>>* Reface.ai：
 >>>* Avararify
 >>>* FaceRig：$2M
 >>>* Rosebud AI：$1.5M
@@ -433,7 +434,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >## 研究 
 # 场景AI
 >## 人力
->>>* Eightfold：$220M
+>>>* Eightfold：$220M，估值$1.9B
 >>>* Pymetrics：$40m
 >>>* Turing.com：$32M
 >>>* Truework：$30M
@@ -533,12 +534,9 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >## 工业
 >>>* Augury：$180M
 >>>* CognitOps: 1100万美元
-# AIGC
->>>* Jasper：$125M，估值$1.5B
->>>* Stability AI：$101M，估值$1B
->>>* Copy.ai：$11M 
 
 ## Contributors
 <a href="https://github.com/WarrenWen666/AI-Software-Startups/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=WarrenWen666/AI-Software-Startups" />
 </a>
+
