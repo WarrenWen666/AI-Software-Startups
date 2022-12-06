@@ -212,11 +212,11 @@
             OctoML：$85M <br>
             Deci：$25M <br>
             Baseten: $20M <br>
+            Datatron：$12.1M <br>
             Allegro.ai：$11M <br>
             Verta.ai：$10M <br>
             DAGsHub：$3M <br>
             Valohai：$1.8M <br>
-            Datatron：$1.4M <br>
             CoCoPIE：	数千万人民币 <br>
             ParallelM：acquired by DataRobot <br>
             Algorithmia：acquired by DataRobot <br>
