@@ -215,7 +215,6 @@
             Datatron：$12.1M <br>
             Allegro.ai：$11M <br>
             Verta.ai：$10M <br>
-            DAGsHub：$3M <br>
             Valohai：$1.8M <br>
             CoCoPIE：	数千万人民币 <br>
             ParallelM：acquired by DataRobot <br>
