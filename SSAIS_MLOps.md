@@ -210,7 +210,7 @@
          </td>
          <td>
             OctoML：$85M <br>
-            Deci：$21M <br>
+            Deci：$25M <br>
             Baseten: $20M <br>
             Allegro.ai：$11M <br>
             Verta.ai：$10M <br>
