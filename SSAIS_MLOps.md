@@ -214,6 +214,7 @@
             Baseten: $20M <br>
             Datatron：$12.1M <br>
             Allegro.ai：$11M <br>
+            Omniml.ai：$10M <br>
             Verta.ai：$10M <br>
             Valohai：$1.8M <br>
             CoCoPIE：	数千万人民币 <br>
