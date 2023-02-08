@@ -163,11 +163,11 @@
             训练管理
          </td>
          <td>
-               Weights&Biases：$135M，估值$865M <br>
                Comet.ml：$50M <br>
                neptune.ai：$8M <br>
          </td>
          <td>
+               <a href="https://github.com/wandb">Weights&Biases</a>：$135M，估值$865M <br>
                <a href="https://github.com/Lightning-AI">Lightning AI</a>：$40M <br>
                <a href="https://github.com/hpcaitech">潞晨科技HPC-AI Tech（colossalai）</a>：$6M <br>
                <a href="https://github.com/determined-ai">Determined AI</a> ：acquired by HPE<br>
