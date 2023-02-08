@@ -291,6 +291,7 @@
          <td>
             <a href="https://github.com/RasaHQ">Rasa</a>：$26M <br>
             <a href="https://github.com/explosion">Explosion AI</a>：$6M
+            <a href="https://www.argilla.io/">Argilla</a>：$6M
          </td>
       </tr>
       <tr>
@@ -305,7 +306,7 @@
          <td>
             <a href="https://github.com/milvus-io">Zilliz(milvus)</a>：$60M <br> 
             <a href="https://github.com/jina-ai">极纳科技Jina AI</a>：$30M <br> 
-            <a href="https://github.com/semi-technologies/weaviate">SeMI Technologies(Weaviate)</a>：$16M <br> 
+            <a href="https://weaviate.io/">Weaviate</a>：$16M <br> 
             <a href="https://github.com/deepset-ai/haystack">deepset(haystack)</a>：$14M <br>
             <a href="https://github.com/qdrant/qdrant">Qdrant</a>：€2M <br> 
          </td>
