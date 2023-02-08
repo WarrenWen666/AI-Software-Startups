@@ -291,7 +291,7 @@
          <td>
             <a href="https://github.com/RasaHQ">Rasa</a>：$26M <br>
             <a href="https://github.com/explosion">Explosion AI</a>：$6M <br>
-            <a href="https://www.argilla.io/">Argilla</a>：$6M
+            <a href="https://github.com/argilla-io/argilla">Argilla</a>：€1.6M
          </td>
       </tr>
       <tr>
