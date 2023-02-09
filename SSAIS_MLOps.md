@@ -54,7 +54,7 @@
             Kili Technology：$25M <br> 
             SuperAnnotate：$14.5M <br> 
             Super.ai：$12M <br> 
-            Dataloop AI：$11M <br>           
+            Dataloop AI：$33M <br>           
             龙猫数据：3300万人民币 <br>
             爱数智慧: 数千万人民币 <br>
             倍赛科技BasicFinder：数千万人民币 <br>
