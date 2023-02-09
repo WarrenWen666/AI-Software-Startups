@@ -76,7 +76,7 @@
             Aquarium：$2.6M
          </td>
          <td>
-             <a href="https://github.com/great-expectations">Superconductive(great-expectations)</a>：$40M <br>
+             <a href="https://github.com/great-expectations">Great Expectations</a>：$40M <br>
          </td>
       </tr>
       <tr>
