@@ -23,8 +23,8 @@
       </tr>
       <tr>
          <td>
-            All in MLops <br> 
-            一站式数据科学/机器学习平台
+            All in MLOps <br> 
+            一站式机器学习平台
          </td>
          <td>        
             DataRobot：$250M，估值$6B <br>
