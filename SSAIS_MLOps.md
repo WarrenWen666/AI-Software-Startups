@@ -13,10 +13,6 @@
             领域
          </th>
          <th>
-            Subfiled <br> 
-            子领域
-         </th>
-         <th>
             Closed Source <br> 
             闭源公司
          </th>
