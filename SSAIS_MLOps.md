@@ -120,6 +120,7 @@
          </td>
          <td>
              <a href="https://github.com/great-expectations">Great Expectations</a>：$40M <br>
+             <a href="https://github.com/pydantic/pydantic">Pydantic</a>：£3.9M <br>
          </td>
       </tr>
       <tr>
