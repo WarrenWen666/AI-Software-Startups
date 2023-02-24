@@ -5,6 +5,32 @@
 
    >[Hugging Face：史上star增长最快的开源创业公司](https://zhuanlan.zhihu.com/p/411174344)
    
+   <table>
+      <tr>
+         <td>
+            All in MLops <br> 
+            一站式数据科学/机器学习平台
+         </td>
+         <td>        
+            DataRobot：$250M，估值$6B <br>
+            Dataiku：$400M，估值$4.2B <br>    
+            第四范式：7亿美元，估值30亿美元 <br>
+            Domino Data Lab：$100M <br>
+            Pecan：$66M <br>
+            abacus.ai：$50M <br>
+            RapidMiner：$16M <br>
+            九章云极DataCanvas：3亿人民币 <br>
+            深度赋智：数千万人民币 <br>
+            宽邦科技BigQuant：千万级人民币 <br>
+            和鲸科技：数百万美元 <br>
+            cnvrg.io：acquired by intel
+         </td>
+         <td>
+            <a href="https://github.com/h2oai">H2O.ai</a>：$100M，估值$1.6B <br>
+            <a href="https://github.com/ray-project/ray">Anyscale</a>：$100M，估值$1B <br>
+         </td>
+      </tr>
+  </table>   
 
    <table>
       <tr>
@@ -178,28 +204,13 @@
       </tr>
       <tr>
          <td>
-            Modeling <br> 
-            建模
+            Model Hub <br> 
+            模型库
          </td>
          <td>        
-            DataRobot：$250M，估值$6B <br>
-            Dataiku：$400M，估值$4.2B <br>    
-            第四范式：7亿美元，估值30亿美元 <br>
-            Domino Data Lab：$100M <br>
-            Pecan：$66M <br>
-            abacus.ai：$50M <br>
-            RapidMiner：$16M <br>
-            九章云极DataCanvas：3亿人民币 <br>
-            行动贝果：3443万人民币 <br>
-            深度赋智：数千万人民币 <br>
-            宽邦科技BigQuant：千万级人民币 <br>
-            和鲸科技：数百万美元 <br>
-            智易科技：数百万美元 <br>
-            cnvrg.io：acquired by intel
          </td>
          <td>
             <a href="https://github.com/huggingface">Hugging Face</a>：$100M，估值$2B<br>
-            <a href="https://github.com/h2oai">H2O.ai</a>：$100M，估值$1.6B <br>
          </td>
       </tr>
       <tr>
