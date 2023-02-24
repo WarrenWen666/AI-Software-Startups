@@ -135,10 +135,10 @@
             dotData：$31.6M <br>
             Rasgo：$20M <br>
             Molecula：$17.6M <br>
-            Continual：$15.7M <br>
             Qwak：$15M <br>
             Kaskada：$8M <br>
             featureform：$2.5M <br>
+            Continual：acquired by Radcom <br>
          </td>
          <td>
             <a href="https://github.com/feast-dev">Tecton(feast)</a>：$100M <br> 
