@@ -114,8 +114,8 @@
       </tr> 
       <tr>
          <td>
-            Distributed Data Processing <br> 
-            分布式数据处理
+            Data Processing <br> 
+            数据处理
          </td>
          <td>
             <a>Bodo.ai</a>：$22.5M <br>
