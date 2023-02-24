@@ -6,6 +6,25 @@
    >[Hugging Face：史上star增长最快的开源创业公司](https://zhuanlan.zhihu.com/p/411174344)
    
    <table>
+      <table>
+      <tr>
+         <th>
+            Filed <br> 
+            领域
+         </th>
+         <th>
+            Subfiled <br> 
+            子领域
+         </th>
+         <th>
+            Closed Source <br> 
+            闭源公司
+         </th>
+         <th>
+            Open Source <br> 
+            开源公司
+         </th>
+      </tr>
       <tr>
          <td>
             All in MLops <br> 
