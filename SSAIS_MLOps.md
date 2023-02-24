@@ -53,8 +53,10 @@
             LabelBox：$110M，估值$900M<br> 
             Kili Technology：$25M <br> 
             SuperAnnotate：$14.5M <br> 
+            Cord：$12.5M <br> 
             Super.ai：$12M <br> 
-            Dataloop AI：$33M <br>           
+            Superb AI:  $9.3M <br> 
+            Dataloop AI：$33M <br>  
             龙猫数据：3300万人民币 <br>
             爱数智慧: 数千万人民币 <br>
             倍赛科技BasicFinder：数千万人民币 <br>
@@ -85,13 +87,13 @@
             数据版本管理和托管
          </td>
          <td>
+            Xetdata: $7.5M <br>
             格物钛Graviti：千万级美元 <br>
-            Superb AI： $9.3M <br>
          </td>
          <td>
             <a href="https://github.com/iterative">Iterative.ai</a>：$20M <br>
-            <a href="https://github.com/pachyderm">Pachyderm</a>：$16M <br>   
             <a href="https://github.com/activeloopai">Activeloop</a>：$5M <br>   
+            <a href="https://github.com/pachyderm">Pachyderm</a>：acquired by HPE <br> 
          </td>
       </tr>
       <tr>
@@ -130,6 +132,7 @@
             特征存储
          </td>
          <td>
+            dotData：$31.6M <br>
             Rasgo：$20M <br>
             Molecula：$17.6M <br>
             Continual：$15.7M <br>
