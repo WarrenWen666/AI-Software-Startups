@@ -179,12 +179,12 @@
             Molecula：$17.6M <br>
             Qwak：$15M <br>
             Kaskada：$8M <br>
-            featureform：$2.5M <br>
             Continual：acquired by Radcom <br>
          </td>
          <td>
             <a href="https://github.com/feast-dev">Tecton(feast)</a>：$100M <br> 
             <a href="https://github.com/logicalclocks">Logicalclocks</a>: €5M <br>
+            <a href="https://github.com/featureform/featureform">Featureform</a>: $2M <br>
          </td>
       </tr>  
       <tr>
