@@ -339,6 +339,7 @@
             <a href="https://weaviate.io/">Weaviate</a>：$16M <br> 
             <a href="https://github.com/deepset-ai/haystack">deepset(haystack)</a>：$14M <br>
             <a href="https://github.com/qdrant/qdrant">Qdrant</a>：€2M <br> 
+            <a href="https://github.com/chroma-core/chroma">Qdrant</a>： <br> 
          </td>
       </tr>
    </table>
