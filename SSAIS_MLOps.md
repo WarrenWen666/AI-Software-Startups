@@ -281,7 +281,6 @@
             #Aporia：$25M <br>
             WhyLabs：$10M <br>
             SuperWise.ai：$4.5M <br>
-            瑞莱智慧RealAI：超3亿人民币
          </td>
          <td>
             <a href=https://github.com/evidentlyai>Evidently AI</a>：$125K <br>
