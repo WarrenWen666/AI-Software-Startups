@@ -265,7 +265,7 @@
             <a href="https://github.com/OAID">开放智能Open AI LAB</a> <br>
          </td>
       </tr>
-      </tr>
+      <tr>
          <td>
             Serving <br> 
             服务化
