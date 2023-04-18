@@ -239,7 +239,7 @@
          </td>
       </tr>
       <tr>
-         <td rowspan="3">
+         <td rowspan="4">
             Deployment&Monitoring  <br> 
             部署和监控
          </td>
