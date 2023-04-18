@@ -250,7 +250,6 @@
          <td>
             OctoML：$85M <br>
             Deci：$25M <br>
-            Baseten: $20M <br>
             Datatron：$12.1M <br>
             Allegro.ai：$11M <br>
             Omniml.ai：$10M <br>
@@ -263,9 +262,23 @@
          </td>
          <td>
             <a href="https://github.com/neuralmagic">Neural magic</a>：$30M <br>
+            <a href="https://github.com/OAID">开放智能Open AI LAB</a> <br>
+         </td>
+      </tr>
+         <td>
+            Serving <br> 
+            服务化
+         </td>
+         <td>
+            Beam：$3.5M <br>
+            Banana.dev：$3.5M <br>
+            Modal：$3.5M <br>
+         </td>
+         <td>
+            <a href="https://github.com/replicate/cog">Replicate</a>：$50M <br>
+            <a href="https://github.com/basetenlabs/truss">Baseten</a>：$20M <br>
             <a href="https://github.com/SeldonIO">Seldon</a>：$20M <br>
             <a href="https://github.com/bentoml">BentoML.com</a> <br>
-            <a href="https://github.com/OAID">开放智能Open AI LAB</a> <br>
          </td>
       </tr>
       <tr>
