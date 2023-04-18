@@ -203,8 +203,8 @@
       </tr>
       <tr>
          <td>
-            Training <br> 
-            训练管理
+            Experiment Training <br> 
+            实验管理
          </td>
          <td>
                Comet.ml：$50M <br>
@@ -212,11 +212,21 @@
          </td>
          <td>
                <a href="https://github.com/wandb">Weights&Biases</a>：$135M，估值$865M <br>
+         </td>
+         </tr>
+         <td>
+            Training <br> 
+            训练
+         </td>
+         <td>
+         </td>
+         <td>
+               <a href="https://github.com/mosaicml/composer">Mosaic ml</a>：$37M <br>
                <a href="https://github.com/Lightning-AI">Lightning AI</a>：$40M <br>
                <a href="https://github.com/hpcaitech">潞晨科技HPC-AI Tech（colossalai）</a>：$6M <br>
                <a href="https://github.com/determined-ai">Determined AI</a> ：acquired by HPE<br>
          </td>
-      </tr>
+         </tr>
       <tr>
          <td>
             Model Hub <br> 
