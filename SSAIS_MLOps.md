@@ -175,10 +175,9 @@
          </td>
          <td>
             dotData：$31.6M <br>
-            Rasgo：$20M <br>
             Molecula：$17.6M <br>
             Qwak：$15M <br>
-            Kaskada：$8M <br>
+            Kaskada：acquired by Datastax <br>
             Continual：acquired by Radcom <br>
          </td>
          <td>
