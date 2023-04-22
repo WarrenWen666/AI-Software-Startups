@@ -356,9 +356,9 @@
          </td>
          <td>
             <a href="https://github.com/milvus-io">Zilliz(milvus)</a>：$60M <br> 
-            <a href="https://github.com/chroma-core/chroma">chroma</a>：$50M <br> 
+            <a href="https://weaviate.io/">Weaviate</a>：$50M <br> 
             <a href="https://github.com/jina-ai">极纳科技Jina AI</a>：$30M <br> 
-            <a href="https://weaviate.io/">Weaviate</a>：$16M <br> 
+            <a href="https://github.com/chroma-core/chroma">chroma</a>：$18M <br> 
             <a href="https://github.com/deepset-ai/haystack">deepset(haystack)</a>：$14M <br>
             <a href="https://github.com/qdrant/qdrant">Qdrant</a>：$7.5M <br> 
          </td>
