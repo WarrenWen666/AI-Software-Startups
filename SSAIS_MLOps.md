@@ -166,6 +166,7 @@
             <a href="https://github.com/databricks/koalas">Databricks(PySpark/koalas)</a>：$1.6B，估值$36.4B <br> 
             <a href="https://github.com/dask/dask">Coiled(Dask)</a>：$21M <br>
             <a href="https://github.com/modin-project/modin">Ponder(Modin)</a>：$7M <br>
+            <a href="https://github.com/xprobe-inc/xorbits">Xprobe(xorbits)</a>：$2M <br>
          </td>
       </tr>
       <tr>
