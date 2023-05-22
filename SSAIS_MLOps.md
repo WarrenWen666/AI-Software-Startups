@@ -352,14 +352,14 @@
             向量搜索与数据库
          </td>
          <td>          
-            Pinecone：$100M <br>
+            Pinecone：$100M,估值$750M <br>
             Relevance AI：$3M
          </td>
          <td>
-            <a href="https://github.com/milvus-io">Zilliz(milvus)</a>：$60M <br> 
-            <a href="https://weaviate.io/">Weaviate</a>：$50M <br> 
+            <a href="https://github.com/milvus-io">Zilliz(milvus)</a>：$60M，估值$600M <br> 
+            <a href="https://weaviate.io/">Weaviate</a>：$50M，估值$200M <br> 
             <a href="https://github.com/jina-ai">极纳科技Jina AI</a>：$30M <br> 
-            <a href="https://github.com/chroma-core/chroma">chroma</a>：$18M <br> 
+            <a href="https://github.com/chroma-core/chroma">chroma，估值$75M</a>：$18M <br> 
             <a href="https://github.com/deepset-ai/haystack">deepset(haystack)</a>：$14M <br>
             <a href="https://github.com/qdrant/qdrant">Qdrant</a>：$7.5M <br> 
          </td>
