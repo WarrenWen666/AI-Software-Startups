@@ -371,10 +371,10 @@
          </td>
          <td>          
             Fixie.ai：$17M <br>
-            Dust.tt：$5M,估值$40M <br>
+            Dust.tt：$5M，估值$40M <br>
          </td>
          <td>
-            <a href="https://github.com/hwchase17/langchain">Langchain</a>：$20M,估值$200M <br> 
+            <a href="https://github.com/hwchase17/langchain">Langchain</a>：$20M，估值$200M <br> 
          </td>
       </tr>
    </table>
