@@ -363,6 +363,17 @@
             <a href="https://github.com/deepset-ai/haystack">deepset(haystack)</a>：$14M <br>
             <a href="https://github.com/qdrant/qdrant">Qdrant</a>：$7.5M <br> 
          </td>
+         <td>
+            prompt Engineering  <br> 
+            提示工程
+         </td>
+         <td>          
+            Fixie.ai：$17M <br>
+            Dust.tt：$5M,估值$40M <br>
+         </td>
+         <td>
+            <a href="https://github.com/hwchase17/langchain">Langchain</a>：$20M,估值$200M <br> 
+         </td>
       </tr>
    </table>
 
