@@ -363,6 +363,9 @@
             <a href="https://github.com/deepset-ai/haystack">deepset(haystack)</a>：$14M <br>
             <a href="https://github.com/qdrant/qdrant">Qdrant</a>：$7.5M <br> 
          </td>
+
+    </tr>
+    <tr>
          <td>
             prompt Engineering  <br> 
             提示工程
