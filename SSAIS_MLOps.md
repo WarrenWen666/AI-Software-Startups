@@ -130,7 +130,6 @@
          </td>
          <td>
             Xetdata: $7.5M <br>
-            格物钛Graviti：千万级美元 <br>
          </td>
          <td>
             <a href="https://github.com/iterative">Iterative.ai</a>：$20M <br>
