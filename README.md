@@ -266,7 +266,7 @@ SSAIS—MLOps是SSAIS中的MLOps部分，对MLOps的相关公司，进行更详�
 >>>* Middesk $4M
 >>>* i背调：数千万人民币
 >## 文档抽取
->>>* Instabase：$105M，
+>>>* Instabase：$105M
 >>>* HyperScience：$80M
 >>>* Eigen Technologies：$37M
 >>>* Cinnamon AI：$13M
