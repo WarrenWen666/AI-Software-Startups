@@ -38,7 +38,6 @@
             深度赋智：数千万人民币 <br>
             宽邦科技BigQuant：千万级人民币 <br>
             和鲸科技：数百万美元 <br>
-            cnvrg.io：acquired by intel
          </td>
          <td>
             <a href="https://github.com/h2oai">H2O.ai</a>：$100M，估值$1.6B <br>
