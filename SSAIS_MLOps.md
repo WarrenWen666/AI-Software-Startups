@@ -235,7 +235,7 @@
          <td>        
          </td>
          <td>
-            <a href="https://github.com/huggingface">Hugging Face</a>：$100M，估值$2B<br>
+            <a href="https://github.com/huggingface">Hugging Face</a>：$235M，估值$4.3B<br>
          </td>
       </tr>
       <tr>
